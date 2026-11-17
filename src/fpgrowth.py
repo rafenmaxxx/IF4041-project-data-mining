@@ -258,12 +258,12 @@ def mine_patterns(header_table, min_count, suffix=(), patterns=None):
 
     return patterns
 
-def fp_growth(transactions, min_support=0.5):
-    if not transactions:
-        return {}
-
+def run_fpgrowth(transactions: list[set[str]], min_support: float) -> dict[frozenset[str], int]:
     if not 0 < min_support <= 1:
         raise ValueError("min_support harus antara 0 dan 1")
+
+    if not transactions:
+        return {}
 
     # Hitung minimum count
     total_transactions = len(transactions)
@@ -284,37 +284,4 @@ def fp_growth(transactions, min_support=0.5):
         min_count
     )
 
-    results = {}
-
-    for itemset, count in patterns.items():
-
-        results[tuple(sorted(itemset))] = {
-            "count": count,
-            "support": count / total_transactions
-        }
-
-    return results
-
-
-# example
-# transactions = [
-#     ["KDD", "SIGMOD", "VLDB"],
-#     ["KDD", "SIGMOD"],
-#     ["VLDB", "SIGMOD"],
-#     ["KDD", "VLDB", "SIGMOD"]
-# ]
-# results = fp_growth(
-#     transactions,
-#     min_support=0.5
-# )
-
-# for itemset, data in sorted(
-#     results.items(),
-#     key=lambda x: (len(x[0]), x[0])
-# ):
-
-#     print(
-#         f"{itemset}: "
-#         f"count={data['count']}, "
-#         f"support={data['support']:.2%}"
-#     )
+    return patterns
