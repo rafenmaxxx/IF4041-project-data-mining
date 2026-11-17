@@ -1,0 +1,11 @@
+venue_code,total_publications,sample_venue_name,avg_authors_per_paper,unique_authors,pubs_per_unique_author,rank_pubs
+nips,25455,NIPS,4.95,57798,0.44,1
+cvpr,22751,CVPR,5.23,47657,0.48,2
+icassp,21606,ICASSP,4.1,42057,0.51,3
+hci,19912,HCI (6),3.47,37884,0.53,4
+igarss,19685,IGARSS,4.72,35229,0.56,5
+aaai,19274,AAAI,4.42,46431,0.42,6
+chi,14832,CHI,4.48,29904,0.5,7
+emnlp,14813,EMNLP (Findings),4.95,33953,0.44,8
+embc,14676,EMBC,4.93,39318,0.37,9
+icc,14329,ICC,3.99,26624,0.54,10

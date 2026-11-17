@@ -1,0 +1,4373 @@
+venue_code,jumlah_publikasi,contoh_nama_venue,persentase (%)
+nips,25455,NIPS,1.27
+cvpr,22751,CVPR,1.14
+icassp,21606,ICASSP,1.08
+hci,19912,HCI (6),1.0
+igarss,19685,IGARSS,0.99
+aaai,19274,AAAI,0.97
+chi,14832,CHI,0.74
+emnlp,14813,EMNLP (Findings),0.74
+embc,14676,EMBC,0.73
+icc,14329,ICC,0.72
+globecom,14243,GLOBECOM,0.71
+icml,13778,ICML,0.69
+acl,13098,ACL,0.66
+iros,12851,IROS,0.64
+icra,12361,ICRA,0.62
+iclr,11991,ICLR,0.6
+cdc,11666,CDC,0.58
+ijcnn,11583,IJCNN,0.58
+iecon,11233,IECON,0.56
+vtc,11172,VTC Fall,0.56
+miccai,11043,MICCAI (3),0.55
+interspeech,10768,INTERSPEECH,0.54
+ijcai,10242,IJCAI,0.51
+cogsci,10084,CogSci,0.5
+amcc,9655,ACC,0.48
+iccv,9497,ICCV,0.48
+hicss,9078,HICSS,0.45
+iscas,8999,ISCAS,0.45
+icip,8874,ICIP,0.44
+bigdataconf,8701,IEEE Big Data,0.44
+eccv,8317,ECCV (5),0.42
+mm,8129,ACM Multimedia,0.41
+smc,8026,SMC,0.4
+ofc,7345,OFC,0.37
+bibm,7105,BIBM,0.36
+www,6604,WWW (Companion Volume),0.33
+itsc,6603,ITSC,0.33
+isit,6307,ISIT,0.32
+icse,6123,ICSE (Companion Volume),0.31
+wcnc,6107,WCNC,0.31
+cikm,5962,CIKM,0.3
+eusipco,5567,EUSIPCO,0.28
+icccnt,5529,ICCCNT,0.28
+gecco,5401,GECCO (Companion),0.27
+amcis,5336,AMCIS,0.27
+infocom,5336,INFOCOM WKSHPS,0.27
+amia,5322,AMIA,0.27
+icmcs,5295,ICME,0.27
+icpr,5267,ICPR,0.26
+wacv,5083,WACV,0.25
+naacl,5071,NAACL-HLT,0.25
+coling,5058,COLING,0.25
+kdd,5044,KDD,0.25
+isbi,4982,ISBI Workshops,0.25
+iconip,4910,ICONIP (6),0.25
+fie,4902,FIE,0.25
+ictc,4849,ICTC,0.24
+eucc,4667,ECC,0.23
+sigcse,4485,SIGCSE (1),0.22
+siu,4351,SIU,0.22
+kes,4310,KES,0.22
+ahfe,4285,AHFE (2),0.21
+icis,4279,ICIS,0.21
+iccsa,4177,ICCSA (4),0.21
+icic,4151,ICIC (3),0.21
+ccs,4135,CCS,0.21
+ieeesensors,4098,IEEE SENSORS,0.21
+pimrc,4070,PIMRC,0.2
+sigir,4057,SIGIR,0.2
+robio,4035,ROBIO,0.2
+aistats,4030,AISTATS,0.2
+atal,4017,AAMAS,0.2
+icdm,3931,ICDM Workshops,0.2
+cec,3929,CEC,0.2
+vr,3882,VR Workshops,0.19
+icton,3738,ICTON,0.19
+date,3730,DATE,0.19
+acssc,3707,ACSSC,0.19
+icde,3678,ICDE Workshops,0.18
+siggraph,3678,SIGGRAPH Talks,0.18
+pkdd,3653,TD-LSG@PKDD/ECML,0.18
+wsc,3612,WSC,0.18
+i2mtc,3500,I2MTC,0.18
+gcce,3491,GCCE,0.17
+ivs,3434,IV,0.17
+case,3428,CASE,0.17
+iwcmc,3381,IWCMC,0.17
+apsipa,3346,APSIPA,0.17
+lrec,3342,LREC,0.17
+sac,3319,SAC,0.17
+ssci,3311,SSCI,0.17
+compsac,3306,COMPSAC,0.17
+ipps,3206,IPDPS Workshops,0.16
+iccs,3187,ICCS (4),0.16
+pacis,3048,PACIS,0.15
+ecis,2998,ECIS,0.15
+mipro,2959,MIPRO,0.15
+trustcom,2938,TrustCom/BigDataSE,0.15
+educon,2937,EDUCON,0.15
+codit,2900,CoDIT,0.15
+bmvc,2887,BMVC,0.14
+etfa,2882,ETFA,0.14
+dac,2876,DAC,0.14
+iccel,2868,ICCE,0.14
+hri,2866,HRI (Extended Abstracts),0.14
+sc,2827,SC,0.14
+mwscas,2823,MWSCAS,0.14
+clef,2818,CLEF (Working Notes),0.14
+semweb,2760,ISWC (Posters/Demos/Industry),0.14
+icmla,2756,ICMLA,0.14
+wcsp,2743,WCSP,0.14
+hpcc,2738,HPCC/DSS/SmartCity/DependSys,0.14
+icit2,2736,ICIT,0.14
+aina,2729,AINA (2),0.14
+prcv,2728,PRCV (12),0.14
+ecai,2683,ECAI,0.13
+huc,2680,UbiComp/ISWC Adjunct,0.13
+medinfo,2670,MedInfo,0.13
+cinc,2655,CinC,0.13
+mie,2648,MIE,0.13
+biostec,2628,HEALTHINF,0.13
+semeval,2626,SemEval@ACL,0.13
+ieem,2625,IEEM,0.13
+isscc,2593,ISSCC,0.13
+ro-man,2570,RO-MAN,0.13
+uss,2566,USENIX Security Symposium,0.13
+fusion,2559,FUSION,0.13
+fuzzieee,2549,FUZZ-IEEE,0.13
+icce,2533,ICCE,0.13
+icce-tw,2526,ICCE-Taiwan,0.13
+icira,2522,ICIRA (1),0.13
+tencon,2519,TENCON,0.13
+isie,2497,ISIE,0.13
+bmei,2480,CISP-BMEI,0.12
+iasam,2468,IAS,0.12
+ccnc,2456,CCNC,0.12
+icaart,2431,ICAART (2),0.12
+ecoc,2418,ECOC,0.12
+icann,2410,ICANN (6),0.12
+aimech,2393,AIM,0.12
+cscwd,2341,CSCWD,0.12
+isgteurope,2335,ISGT EUROPE,0.12
+sigmod,2318,SIGMOD Conference,0.12
+ismar,2304,ISMAR Adjunct,0.12
+kbse,2290,ASE,0.11
+acmdis,2259,Conference on Designing Interactive Systems (Companion Volume),0.11
+iccchina,2240,ICCC,0.11
+iceis,2227,ICEIS (2),0.11
+worldcist,2216,WorldCIST (1),0.11
+iscc,2212,ISCC,0.11
+fedcsis,2207,FedCSIS (Position Papers),0.11
+recsys,2193,RecSys,0.11
+indin,2140,INDIN,0.11
+mc,2132,MuC,0.11
+uist,2127,UIST,0.11
+ascc,2098,ASCC,0.11
+mobicom,2063,WiNTECH,0.1
+dihu,2063,DH,0.1
+ieeessd,2062,SSD,0.1
+ictai,2029,ICTAI,0.1
+iccvw,2029,ICCVW,0.1
+sigsoft,2015,ESEC/SIGSOFT FSE,0.1
+siggrapha,2008,SIGGRAPH Asia Emerging Technologies,0.1
+ifip5-7,2008,APMS (3),0.1
+percom,2004,PerCom Workshops,0.1
+dasfaa,1996,DASFAA (2),0.1
+ccece,1987,CCECE,0.1
+milcom,1973,MILCOM,0.1
+soda,1958,SODA,0.1
+sensys,1950,ENSsys@SenSys,0.1
+qrs,1938,QRS Companion,0.1
+sii,1935,SII,0.1
+icct,1931,ICCT,0.1
+icecsys,1929,ICECS,0.1
+iccad,1913,ICCAD,0.1
+med,1908,MED,0.1
+aied,1906,AIED (2),0.1
+gis,1884,SIGSPATIAL/GIS,0.09
+centeris,1878,CENTERIS/ProjMAN/HCist,0.09
+gi,1873,INFORMATIK,0.09
+iiaiaai,1865,IIAI-AAI-Winter,0.09
+sp,1852,SP,0.09
+icdcs,1852,ICDCS,0.09
+icdar,1836,ICDAR,0.09
+ccta,1822,CCTA,0.09
+icpads,1821,ICPADS,0.09
+asunam,1816,ASONAM,0.09
+uic,1814,SmartWorld/SCALCOM/UIC/ATC/IOP/SCI,0.09
+birthday,1796,"Protocols, Strands, and Logic",0.09
+pakdd,1792,PAKDD (2),0.09
+uai,1771,UAI,0.09
+ecir,1771,BIR@ECIR,0.09
+visapp,1768,VISIGRAPP (5: VISAPP),0.09
+models,1767,MoDELS (Companion),0.09
+iui,1762,IUI,0.09
+spawc,1754,SPAWC,0.09
+ant,1739,ANT/SEIT,0.09
+ica3pp,1729,ICA3PP (4),0.09
+csedu,1716,CSEDU (1),0.09
+icmi,1701,ICMI,0.09
+icacci,1697,ICACCI,0.08
+icnc,1690,ICNC,0.08
+eacl,1668,EACL (Student Research Workshop),0.08
+comsnets,1654,COMSNETS,0.08
+webi,1647,WI,0.08
+icalp,1641,ICALP (1),0.08
+wf-iot,1621,WF-IoT,0.08
+iccnc,1617,ICNC,0.08
+ecai2,1613,ECAI,0.08
+aspdac,1605,ASP-DAC,0.08
+cscw,1604,CSCW Companion,0.08
+aciids,1596,ACIIDS (Extended Posters),0.08
+icinco,1595,ICINCO (1),0.08
+esws,1595,ESWC (Satellite Events),0.08
+meco,1581,MECO,0.08
+ccwc,1570,CCWC,0.08
+irps,1568,IRPS,0.08
+wsdm,1557,WSDM,0.08
+biocas,1555,BioCAS,0.08
+icoin,1553,ICOIN,0.08
+ism2,1549,ISM,0.08
+qce,1543,QCE,0.08
+vcip,1529,VCIP,0.08
+iticse,1526,ITiCSE,0.08
+csit,1525,CSIT (2),0.08
+esorics,1523,ESORICS (3),0.08
+ispa,1521,ISPA,0.08
+memea,1516,MeMeA,0.08
+ic3k,1512,KEOD,0.08
+ieeeares,1509,ARES,0.08
+sigcomm,1488,FlexNets@SIGCOMM,0.07
+bpm,1487,BPM,0.07
+icufn,1487,ICUFN,0.07
+aiccsa,1484,AICCSA,0.07
+stoc,1482,STOC,0.07
+rcar,1474,RCAR,0.07
+accv,1471,ACCV (3),0.07
+bmsb,1469,BMSB,0.07
+icca,1461,ICCA,0.07
+icinfa,1457,ICIA,0.07
+interact,1445,INTERACT (Workshops),0.07
+mobisys,1443,MobiSys,0.07
+mir,1432,ICMR,0.07
+noms,1428,NOMS,0.07
+isocc,1426,ISOCC,0.07
+asist,1417,ASIST,0.07
+icwsm,1415,ICWSM,0.07
+itw,1411,ITW,0.07
+eitce,1408,EITCE,0.07
+edm,1407,EDM,0.07
+edbt,1407,EDBT/ICDT Workshops,0.07
+dhd,1402,DHd,0.07
+tsp,1395,TSP,0.07
+icccn,1385,ICCCN,0.07
+colt,1384,COLT,0.07
+re,1380,RE Workshops,0.07
+um,1378,UMAP (Adjunct Publication),0.07
+icecet,1373,ICECET,0.07
+icalt,1369,ICALT,0.07
+mmm,1368,MMM (2),0.07
+asicon,1363,ASICON,0.07
+apweb,1351,APWeb,0.07
+ifip12,1346,ICIS,0.07
+globalsip,1338,GlobalSIP,0.07
+caise,1332,CAiSE,0.07
+nlpcc,1328,NLPCC (2),0.07
+tale,1323,TALE,0.07
+dasc,1322,DASC/PiCom/CBDCom/CyberSciTech,0.07
+icl,1317,ICL (1),0.07
+icccsec,1316,ICAIS (2),0.07
+mmar,1315,MMAR,0.07
+flairs,1309,FLAIRS,0.07
+syscon,1307,SysCon,0.07
+uemcom,1305,UEMCON,0.07
+ithings,1303,iThings/GreenCom/CPSCom/SmartData,0.07
+acis,1291,ACIS,0.06
+humanoids,1285,Humanoids,0.06
+ksem,1283,KSEM (3),0.06
+urai,1282,UR,0.06
+bcb,1281,BCB,0.06
+isncc,1275,ISNCC,0.06
+icst,1273,ICST Workshops,0.06
+sigecom,1267,EC,0.06
+cbms,1266,CBMS,0.06
+icarm,1264,ICARM,0.06
+eit,1263,EIT,0.06
+icsai,1254,ICSAI,0.06
+seke,1253,SEKE,0.06
+isvlsi,1253,ISVLSI,0.06
+intellisys,1247,IntelliSys (2),0.06
+dsn,1244,DSN Workshops,0.06
+iccci,1241,ICCCI (1),0.06
+ieeeants,1238,ANTS,0.06
+issre,1225,ISSRE Workshops,0.06
+corl,1225,CoRL,0.06
+aiam,1224,AIAM,0.06
+assets,1219,ASSETS,0.06
+isgt,1218,ISGT,0.06
+wmt,1216,WMT,0.06
+cig,1216,CoG,0.06
+ismir,1212,ISMIR,0.06
+ccgrid,1210,CCGrid,0.06
+pricai,1208,PRICAI (2),0.06
+focs,1207,FOCS,0.06
+iisa,1205,IISA,0.06
+micad,1205,Computer-Aided Diagnosis,0.06
+icaisc,1202,ICAISC (2),0.06
+lcn,1197,LCN,0.06
+cicc,1196,CICC,0.06
+eucnc,1195,EuCNC,0.06
+esann,1195,ESANN,0.06
+acmidc,1192,IDC,0.06
+acit4,1192,ACIT,0.06
+ichi,1188,ICHI,0.06
+tei,1186,TEI,0.06
+iciap,1184,ICIAP (Workshops 1),0.06
+newcas,1178,NEWCAS,0.06
+icls,1177,ICLS,0.06
+icarcv,1170,ICARCV,0.06
+glvlsi,1169,ACM Great Lakes Symposium on VLSI,0.06
+icpram,1165,ICPRAM,0.06
+ner,1162,NER,0.06
+icnsc,1162,ICNSC,0.06
+apccas,1152,APCCAS,0.06
+iciscae,1151,ICISCAE (IEEE),0.06
+allerton,1151,Allerton,0.06
+chiplay,1149,CHI PLAY,0.06
+miip,1143,Image Processing,0.06
+nems,1143,NEMS,0.06
+europar,1142,Euro-Par,0.06
+bibe,1130,BIBE,0.06
+isc2,1130,ISC2,0.06
+fgr,1126,FG,0.06
+ic3i,1126,IC3I,0.06
+iscid,1121,ISCID,0.06
+iccd,1113,ICCD,0.06
+csps,1110,CSPS,0.06
+aiia,1107,AI*AAL@AI*IA,0.06
+ijcnlp,1096,IJCNLP(2),0.05
+ipin,1095,IPIN-WiP,0.05
+asplos,1095,ASPLOS (1),0.05
+apsec,1094,APSEC,0.05
+icuimc,1091,IMCOM,0.05
+lak,1090,LAK,0.05
+crypto,1087,CRYPTO (3),0.05
+swarm,1086,ICSI (2),0.05
+vrst,1085,VRST,0.05
+isda,1085,ISDA (1),0.05
+jcdl,1077,JCDL,0.05
+smartgridcomm,1075,SmartGridComm,0.05
+mlsp,1070,MLSP,0.05
+dsd,1068,DSD,0.05
+bracis,1066,BRACIS,0.05
+icws,1064,ICWS,0.05
+dcc,1062,DCC,0.05
+wimob,1062,WiMob,0.05
+socrob,1061,ICSR + AI,0.05
+teem,1061,TEEM,0.05
+ieeecloud,1056,CLOUD,0.05
+idaacs,1056,IDAACS,0.05
+icspcc,1051,ICSPCC,0.05
+softcom,1048,SoftCOM,0.05
+biorob,1045,BioRob,0.05
+wcre,1045,SANER,0.05
+taln,1045,TALN (JEP),0.05
+ndss,1044,NDSS,0.05
+bigcomp,1041,BigComp,0.05
+icaiic,1040,ICAIIC,0.05
+ispacs,1036,ISPACS,0.05
+ciss,1035,CISS,0.05
+hpec,1031,HPEC,0.05
+dsaa,1030,DSAA,0.05
+fire,1029,FIRE (Working Notes),0.05
+dese,1029,DeSE,0.05
+icig,1026,ICIG (1),0.05
+petra,1026,PETRA,0.05
+aies,1023,AIES (Main Track III & Student Abstracts),0.05
+iccse2,1021,ICCSE (3),0.05
+3dim,1015,3DV,0.05
+micro,1014,MICRO,0.05
+haptics,1013,WHC,0.05
+mmsp,1012,MMSP,0.05
+sdm,1011,SDM,0.05
+icorr,1010,ICORR,0.05
+ectel,1003,CHANGEE/WAPLA/HybridEd@EC-TEL,0.05
+isqed,998,ISQED,0.05
+mhci,993,MobileHCI,0.05
+xsede,991,PEARC,0.05
+icissp,989,ICISSP (2),0.05
+acii,989,ACII,0.05
+asiacrypt,988,ASIACRYPT (1),0.05
+iconac,988,ICAC,0.05
+cvip,986,CVIP (4),0.05
+snpd,983,SNPD,0.05
+sepln,983,TASS@SEPLN,0.05
+icact,981,ICACT,0.05
+icsm,978,ICSME,0.05
+eurosp,977,EuroS&P Workshops,0.05
+icdsp,972,DSP,0.05
+aaaiss,972,AAAI Spring Symposium: MAKE,0.05
+esa,972,ESA,0.05
+wasa,971,WASA (3),0.05
+euspn,971,EUSPN/ICTH,0.05
+acisicis,968,ICIS,0.05
+wise,967,WISE (1),0.05
+isvc,966,ISVC (2),0.05
+icpp,963,ICPP,0.05
+fruct,961,FRUCT,0.05
+cit,960,OCIT,0.05
+apcc,960,APCC,0.05
+icsoc,960,ICSOC Workshops,0.05
+complexnetworks,960,COMPLEX NETWORKS (1),0.05
+icmlc,958,ICMLC,0.05
+vlsid,951,VLSID,0.05
+africon,950,AFRICON,0.05
+mfcs,950,MFCS,0.05
+ghtc,949,GHTC,0.05
+fat,943,FAccT,0.05
+iccais,943,ICCAIS,0.05
+icb,942,IJCB,0.05
+adma,939,ADMA (4),0.05
+itqm,938,ITQM,0.05
+msn,936,MSN,0.05
+ccoms,936,ICCCS,0.05
+iceee,934,CCE,0.05
+cnsm,932,CNSM,0.05
+elinfocom,932,ICEIC,0.05
+automotiveui,928,AutomotiveUI,0.05
+dicta,926,DICTA,0.05
+saci,925,SACI,0.05
+iswcs,925,ISWCS,0.05
+ice-itmc,923,ICE/ITMC,0.05
+clei,920,CLEI,0.05
+robosoft,920,RoboSoft,0.05
+cis,918,CIS,0.05
+iciis,916,ICIIS,0.05
+ifip5-5,915,PRO-VE (1),0.05
+cluster,914,CLUSTER,0.05
+eurocrypt,914,EUROCRYPT (2),0.05
+asru,912,ASRU,0.05
+ranlp,911,RANLP,0.05
+whispers,910,WHISPERS,0.05
+ps,910,PSC,0.05
+icycsee,909,ICPCSEE (1),0.05
+micai,909,MICAI (Special Session),0.05
+dsc,907,DSC,0.05
+ic-nc,904,CANDAR,0.05
+healthcom,902,HealthCom,0.05
+bhi,901,BHI,0.05
+ozchi,900,OZCHI,0.05
+isca,900,ISCA,0.05
+ieaaie,895,IEA/AIE (2),0.04
+netsoft,895,NetSoft,0.04
+scisisis,894,SCIS&ISIS,0.04
+msr,894,MSR,0.04
+avr,894,XR (6),0.04
+esscirc,891,ESSCIRC,0.04
+fsdm,891,FSDM,0.04
+paclic,890,PACLIC,0.04
+iwqos,890,IWQoS,0.04
+icsoft,888,ICSOFT (Selected Papers),0.04
+paams,886,PAAMS (Workshops),0.04
+ewdts,886,EWDTS,0.04
+ispe,881,TE,0.04
+isgta,878,ISGT Asia,0.04
+etra,874,ETRA,0.04
+plans,869,PLANS,0.04
+miigp,869,Image-Guided Procedures,0.04
+icphys,867,ICPS,0.04
+dgo,866,DG.O,0.04
+innovations,865,ITCS,0.04
+iv,865,IV (2),0.04
+bildmed,862,Bildverarbeitung fÃ¼r die Medizin,0.04
+cipae,861,CIPAE,0.04
+wpmc,860,WPMC,0.04
+lascas,860,LASCAS,0.04
+ideal,859,IDEAL (1),0.04
+f-egc,858,EGC,0.04
+icsc2,857,ICSC,0.04
+se,853,Software Engineering,0.04
+hai,852,HAI,0.04
+fpl,851,FPL,0.04
+iwbbio,846,IWBBIO,0.04
+nime,845,NIME,0.04
+ecms,845,ECMS,0.04
+lics,843,LICS,0.04
+fdg,843,FDG,0.04
+iscram,842,ISCRAM,0.04
+rss,841,Robotics: Science and Systems,0.04
+dcai,839,DCAI (2),0.04
+icimth,837,ICIMTH,0.04
+er,835,ER (Workshops),0.04
+issi,832,ISSI,0.04
+rtsi,832,RTSI,0.04
+pdp,831,PDP,0.04
+acsac,831,ACSAC,0.04
+icegov,830,ICEGOV,0.04
+enase,824,ENASE,0.04
+networking,824,IFIP Networking,0.04
+iccad2,821,ICCAD,0.04
+issta,820,ISSTA,0.04
+rivf,820,RIVF,0.04
+ism,819,ISM,0.04
+escience,818,eScience,0.04
+semco,816,ICSC,0.04
+eurosys,816,PaPoC@EuroSys,0.04
+compgeom,815,SoCG,0.04
+wosp,814,ICPE (Companion),0.04
+cav,814,CAV (3),0.04
+grapp,813,VISIGRAPP (3: IVAPP),0.04
+wowmom,813,WoWMoM,0.04
+hpca,813,HPCA,0.04
+ficloud,812,FiCloud,0.04
+eenergy,808,e-Energy,0.04
+asscc,807,A-SSCC,0.04
+whiceb,802,WHICEB,0.04
+socc,797,SoCC,0.04
+ncc,797,NCC,0.04
+ialp,795,IALP,0.04
+ipccc,795,IPCCC,0.04
+delfi,795,DELFI,0.04
+ucc,795,UCC,0.04
+nbis,790,NBiS,0.04
+metroxraine,790,MetroXRAINE,0.04
+cns,788,CNS,0.04
+larc,788,LARS/SBR/WRE,0.04
+ni,787,Nursing Informatics,0.04
+webist,787,WEBIST (1),0.04
+icm2,785,ICM,0.04
+csae,785,CSAE,0.04
+modelsward,784,MODELSWARD,0.04
+isaims,784,ISAIMS,0.04
+icnp,783,ICNP,0.04
+icteri,783,ICTERI,0.04
+podc,782,ARMS-CC@PODC,0.04
+lats,782,L@S,0.04
+ucami,780,UCAmI,0.04
+eurocon,780,EUROCON,0.04
+sbsi,775,SBSI,0.04
+ises,775,iSES,0.04
+icphs,774,ICPhS,0.04
+mixdes,773,MIXDES,0.04
+csoc,773,CSOC (1),0.04
+inista,772,INISTA,0.04
+fc,772,FC Workshops,0.04
+mocast,771,MOCAST,0.04
+cisis,770,CISIS,0.04
+middleware,767,Middleware,0.04
+specom,764,SPECOM,0.04
+evow,764,EvoApplications,0.04
+usenix,763,USENIX ATC,0.04
+apnoms,762,APNOMS,0.04
+mswim,761,Q2SWinet,0.04
+euromicro,760,SEAA,0.04
+hipc,760,HiPC,0.04
+csndsp,757,CSNDSP,0.04
+eva,757,EVA London,0.04
+metroi,757,MetroInd4.0 & IoT,0.04
+icmv,756,ICMV,0.04
+iiwas,755,iiWAS,0.04
+nana,755,NaNA,0.04
+im,754,IM,0.04
+sysose,749,SoSE,0.04
+ijcci,745,IJCCI,0.04
+icmlc2,745,ICMLC,0.04
+iri,745,IRI,0.04
+closer,744,CLOSER,0.04
+smartcomp,743,SMARTCOMP,0.04
+adbis,742,ADBIS (Short Papers),0.04
+dexa,741,DEXA (1),0.04
+csci,738,CSCI,0.04
+sai,737,SAI (3),0.04
+clic-it,737,CLiC-it,0.04
+mmasia,736,MMAsia,0.04
+nordichi,735,NordiCHI (Adjunct),0.04
+dsa,730,DSA,0.04
+isdevel,730,ISD,0.04
+ict,727,ICT,0.04
+icar,727,ICAR,0.04
+eusflat,726,IFSA-EUSFLAT,0.04
+mod,725,LOD,0.04
+imis,721,IMIS,0.04
+slt,721,SLT,0.04
+vlsic,721,VLSI Circuits,0.04
+ecsa,720,ECSA (Companion),0.04
+aisi,717,AISI (2),0.04
+ifip5-1,715,PLM (1),0.04
+nsdi,714,NSDI,0.04
+ease,714,EASE,0.04
+wirtschaftsinformatik,714,Wirtschaftsinformatik (Zentrale Tracks),0.04
+tacas,714,TACAS (2),0.04
+acpr,714,ACPR (1),0.04
+icstcc,713,ICSTCC,0.04
+icbc2,711,ICBC,0.04
+his,711,HIS (2),0.04
+mibam,710,"Biomedical Applications in Molecular, Structural, and Functional Imaging",0.04
+isaac,709,ISAAC,0.04
+iccp2,709,ICCP,0.04
+avss,708,AVSS,0.04
+kr,708,KR,0.04
+ieeecai,708,CAI,0.04
+mass,708,MASS Workshops,0.04
+acit3,707,ACIT,0.04
+mobihoc,707,MobiHoc,0.04
+icwe,706,ICWE Workshops,0.04
+rws,705,RWS,0.04
+acns,705,ACNS Workshops,0.04
+websci,705,WebSci,0.04
+itc,704,ITC,0.04
+wiopt,702,WiOpt,0.04
+wincom,702,WINCOM,0.04
+vlsi,702,VLSI-SoC,0.04
+sitis,702,SITIS,0.04
+clsw,702,CLSW,0.04
+ppopp,701,PPoPP,0.04
+icchp,701,ICCHP-AAATE (1),0.04
+csia,700,CSIA,0.04
+mdm,696,MDM,0.03
+fnc,696,FNC/MobiSPC,0.03
+new2an,692,NEW2AN/ruSMART (2),0.03
+securecomm,691,SecureComm (1),0.03
+tcc,691,TCC (2),0.03
+pldi,690,ARRAY@PLDI,0.03
+supercomputer,690,ISC High Performance,0.03
+icsa,688,ICSA-C,0.03
+vlsit,688,VLSI Technology and Circuits,0.03
+aicas,687,AICAS,0.03
+acml,684,ACML,0.03
+splc,684,SPLC (B),0.03
+data,684,DATA,0.03
+candc,684,Creativity & Cognition,0.03
+vehits,683,VEHITS,0.03
+bsn,683,BSN,0.03
+ieeehpcs,682,HPCS,0.03
+ipmu,680,IPMU (2),0.03
+codaspy,680,CODASPY,0.03
+qomex,680,QoMEX,0.03
+pcm,679,PCM (1),0.03
+ssp,678,SSP,0.03
+dcoss,678,DCOSS,0.03
+icsrs,678,ICSRS,0.03
+ricai,677,RICAI,0.03
+fpga,677,FPGA,0.03
+iwann,675,IWANN (2),0.03
+ic3,675,IC3,0.03
+intenv,674,Intelligent Environments,0.03
+pci,673,PCI,0.03
+kse,673,KSE,0.03
+cw,673,CW,0.03
+approx,672,APPROX/RANDOM,0.03
+ccis,670,CCIS,0.03
+icaci,669,ICACI,0.03
+sbes,669,SBES,0.03
+cgi,668,CGI (3),0.03
+iccai,668,ICCAI,0.03
+iva,667,IVA,0.03
+l4dc,667,L4DC,0.03
+bic-ta,666,BIC-TA (2),0.03
+synasc,665,SC²@SYNASC,0.03
+cocoon,664,COCOON,0.03
+mum,664,MUM,0.03
+cscs,664,CSCS,0.03
+stacs,663,STACS,0.03
+3pgcic,663,3PGCIC,0.03
+ieeescc,662,SCC,0.03
+or,662,OR,0.03
+icdcn,661,ICDCN,0.03
+ccbr,661,CCBR,0.03
+epia,659,EPIA,0.03
+robot,659,ROBOT (2),0.03
+chiir,659,CHIIR,0.03
+iscit,658,ISCIT,0.03
+sebd,658,SEBD,0.03
+icce-berlin,657,ICCE-Berlin,0.03
+softcomp,656,SOCO,0.03
+avi,655,CoPDA@AVI,0.03
+coginfocom,654,CogInfoCom,0.03
+aips,652,ICAPS,0.03
+blackseecom,652,BlackSeaCom,0.03
+sice,651,SICE,0.03
+rcis,649,RCIS,0.03
+ausai,649,AI (1),0.03
+secon,649,SECON,0.03
+ihc,648,IHC,0.03
+lifetech,647,LifeTech,0.03
+bwcca,646,BWCCA,0.03
+colins,645,COLINS,0.03
+visigrapp,645,VISIGRAPP (2): VISAPP,0.03
+iske,645,ISKE,0.03
+imc,644,IMC,0.03
+hais,642,HAIS,0.03
+mmsys,642,MMSys,0.03
+chinacom,641,ChinaCom,0.03
+iwssip,640,IWSSIP,0.03
+cyberc,640,CyberC,0.03
+icer,639,ICER,0.03
+fccm,639,FCCM,0.03
+ewsn,639,EWSN,0.03
+conext,637,CoNEXT,0.03
+sas2,636,SAS,0.03
+ieeewisa,635,IEEE WISA,0.03
+ieeesam,634,SAM,0.03
+sbrc,633,SBRC,0.03
+secrypt,630,SECRYPT,0.03
+sigite,629,SIGITE,0.03
+icccrea,628,ICCC,0.03
+icitee,627,ICITEE,0.03
+sccc,626,SCCC,0.03
+safecomp,626,SAFECOMP Workshops,0.03
+vissym,626,EuroVis (Posters),0.03
+bica,624,BICA,0.03
+ciarp,624,CIARP,0.03
+trec,623,TREC,0.03
+sisy,623,SISY,0.03
+csai,622,CSAI,0.03
+aiide,621,AIIDE,0.03
+simultech,621,SIMULTECH (Selected Papers),0.03
+itnac,621,ITNAC,0.03
+dh,620,DigitalHERITAGE/VSMM,0.03
+hpdc,620,HPDC,0.03
+issac,619,ISSAC,0.03
+atsip,618,ATSIP,0.03
+camsap,618,CAMSAP,0.03
+cf,617,Conf. Computing Frontiers,0.03
+isnn,616,ISNN,0.03
+sibgrapi,614,SIBGRAPI,0.03
+wanlp,613,WANLP@ACL 2019,0.03
+comad,613,COMAD/CODS,0.03
+icores,612,ICORES,0.03
+isola,612,ISoLA (1),0.03
+gil,611,GIL Jahrestagung,0.03
+ihiet,611,IHIET (Paris),0.03
+gsi,610,GSI,0.03
+icumt,609,ICUMT,0.03
+islped,608,ISLPED,0.03
+mcsoc,608,MCSoC,0.03
+sigdial,605,SIGdial,0.03
+socpros,605,SocProS (1),0.03
+ht,605,HT,0.03
+caasafeproc,604,CAA SAFEPROCESS,0.03
+irc,603,IRC,0.03
+vl,603,VL/HCC,0.03
+icacds,603,ICACDS (1),0.03
+rfidta,603,RFID-TA,0.03
+caibda,600,CAIBDA,0.03
+cse,599,CSE/EUC,0.03
+cloudcom,598,CloudCom,0.03
+oopsla,598,SPLASH (Companion Volume),0.03
+ai,598,Canadian AI,0.03
+isdfs,597,ISDFS,0.03
+hsi,596,HSI,0.03
+sigmetrics,595,SIGMETRICS (Abstracts),0.03
+iccae,594,ICCAE,0.03
+cist,594,CIST,0.03
+camad,592,CAMAD,0.03
+aipr2,592,AIPR,0.03
+ipta,591,IPTA,0.03
+wocc,590,WOCC,0.03
+vdat,589,VDAT,0.03
+vldb,589,Poly/DMAH@VLDB,0.03
+fit,587,FIT,0.03
+latincom,587,LATINCOM,0.03
+besc,587,BESC,0.03
+ipsn,586,IPSN,0.03
+icspcs,585,ICSPCS,0.03
+egov,585,EGOV,0.03
+conll,584,CoNLL,0.03
+i-semantics,584,"SEMANTiCS (Posters, Demos, Workshops & Tutorials)",0.03
+icsenst,582,ICST,0.03
+vnc,582,VNC,0.03
+springsim,580,SpringSim (ANSS),0.03
+premi,580,PReMI,0.03
+iconference,576,iConference,0.03
+aime,575,AIME (1),0.03
+refsq,574,REFSQ Workshops,0.03
+mhs,574,MHS,0.03
+icfnds,574,ICFNDS,0.03
+cloud,574,SoCC,0.03
+ficta,573,FICTA (2),0.03
+agro-geoinformatics,573,Agro-Geoinformatics,0.03
+mtits,572,MT-ITS,0.03
+i3e,572,I3E,0.03
+incos,571,INCoS,0.03
+wdag,571,DISC,0.03
+iccma,571,ICCMA,0.03
+cscn,570,CSCN,0.03
+isita,569,ISITA,0.03
+icmech,568,ICM,0.03
+iscslp,565,ISCSLP,0.03
+tsd,565,TSD,0.03
+ntcir,564,NTCIR (Revised Selected Papers),0.03
+bis,564,BIS (Workshops),0.03
+vts,562,VTS,0.03
+spaa,562,SPAA,0.03
+csr2,562,CSR,0.03
+icetc,561,ICETC,0.03
+wsa,559,WSA,0.03
+ihci,559,ICHI,0.03
+iwec,559,ICEC,0.03
+jcsse,559,JCSSE,0.03
+m2vip,557,M2VIP,0.03
+acai2,557,ACAI,0.03
+icids,557,ICIDS,0.03
+5gwf,557,5G World Forum,0.03
+mediaeval,556,MediaEval,0.03
+rskt,553,IJCRS,0.03
+tvx,553,IMX,0.03
+bci3,552,BCI,0.03
+geoinformatics,551,Geoinformatics,0.03
+icsca,551,ICSCA,0.03
+pcs,550,PCS,0.03
+wecwis,549,CBI (1),0.03
+mipr,549,MIPR,0.03
+asiaccs,548,AsiaCCS,0.03
+ivcnz,548,IVCNZ,0.03
+somet,548,SoMeT,0.03
+icitl,548,ICITL,0.03
+colcom,547,CollaborateCom (1),0.03
+essderc,547,ESSDERC,0.03
+esem,546,ESEM,0.03
+iciip,546,ICIIP,0.03
+smacd,545,SMACD,0.03
+ercimdl,542,TPDL,0.03
+eurospi,541,EuroSPI,0.03
+icete,541,ICETE (Selected Papers),0.03
+mva,540,MVA,0.03
+sbbd,539,SBBD,0.03
+rtss,539,RTSS,0.03
+sips,539,SiPS,0.03
+webmedia,538,WebMedia,0.03
+icphm,535,ICPHM,0.03
+cncl,535,CCL (Chinese Papers),0.03
+pst,535,PST,0.03
+iccbr,535,ICCBR Workshops,0.03
+iceme,534,ICEME,0.03
+ipcc,534,ProComm,0.03
+isspit,533,ISSPIT,0.03
+cocoa,532,COCOA,0.03
+caip,532,CAIP (1),0.03
+icca3,532,ICCA,0.03
+iccip,532,ICCIP,0.03
+csa2,531,CSA/CUTE,0.03
+profes,531,PROFES (1),0.03
+taai,531,TAAI,0.03
+aaaifs,531,AI4SG@AAAI Fall Symposium,0.03
+dlog,531,Description Logics,0.03
+atci,528,ICATCI (2),0.03
+racs,527,RACS,0.03
+fsttcs,527,FSTTCS,0.03
+nldb,527,NLDB,0.03
+cp,527,CP,0.03
+nca,527,NCA,0.03
+pdcat,526,PDCAT,0.03
+ieeecit,526,CIT,0.03
+eleot,526,eLEOT (1),0.03
+iwpc,526,ICPC,0.03
+eurocast,526,EUROCAST,0.03
+apn,525,Petri Nets,0.03
+iolts,525,IOLTS,0.03
+is,524,IEEE Conf. on Intelligent Systems,0.03
+soict,523,SoICT,0.03
+eurographics,522,Eurographics (Posters),0.03
+mobiquitous,521,MobiQuitous,0.03
+ets,520,ETS,0.03
+applepies,520,ApplePies,0.03
+ecoop,520,ECOOP,0.03
+icta3,519,ICTA,0.03
+icvgip,519,ICVGIP,0.03
+icwl,519,ICWL,0.03
+eidwt,518,EIDWT,0.03
+ieeeicci,517,ICCI*CC,0.03
+miua,516,MIUA,0.03
+bigmm,515,BigMM,0.03
+edoc,515,EDOC Workshops,0.03
+aist,515,AIST (Supplement),0.03
+icics,514,ICICS,0.03
+iwinac,513,IWINAC (1),0.03
+jurix,513,JURIX,0.03
+ph,512,PervasiveHealth,0.03
+prime,512,PRIME,0.03
+bionlp,511,BioNLP,0.03
+cade,510,Vampire@IJCAR,0.03
+nfvsdn,510,NFV-SDN,0.03
+cscloud,510,CSCloud,0.03
+cbd,509,CBD,0.03
+ssrr,509,SSRR,0.03
+taros,508,TAROS (2),0.03
+cibse,507,CIbSE,0.03
+ickii,507,ICKII,0.03
+kst,506,KST,0.03
+sigdoc,505,SIGDOC,0.03
+icbk,504,ICKG,0.03
+icit,500,ICIT,0.03
+ieeecca,500,CCA,0.03
+midl,499,MIDL,0.02
+niles,498,NILES,0.02
+wisec,497,WISEC,0.02
+pkc,496,Public Key Cryptography (1),0.02
+acisp,494,ACISP,0.02
+jowo,492,JOWO,0.02
+otm,492,OTM Conferences (2),0.02
+segah,492,SeGAH,0.02
+eann,491,EANN,0.02
+ist,491,IST,0.02
+gala,490,GALA,0.02
+cccg,490,CCCG,0.02
+cits,489,CITS,0.02
+waspaa,488,WASPAA,0.02
+bea,488,BEA@NAACL-HLT,0.02
+isbra,487,ISBRA,0.02
+ieeepact,486,PACT,0.02
+iciar,485,ICIAR,0.02
+lm,484,Living Machines,0.02
+ic2e,484,IC2E Workshops,0.02
+gd,483,GD,0.02
+icarsc,483,ICARSC,0.02
+ics,483,ICS,0.02
+btw,483,BTW,0.02
+ico,483,ICO,0.02
+ict4ageingwell,482,ICT4AWE,0.02
+spcom,481,SPCOM,0.02
+drc,481,DRC,0.02
+audio,481,Audio Mostly Conference,0.02
+smartgreens,481,SMARTGREENS/VEHITS (Selected Papers),0.02
+sofsem,480,SOFSEM,0.02
+icpm,480,ICPM,0.02
+spa,479,SPA,0.02
+iccpr,479,ICCPR,0.02
+tabletop,479,ISS,0.02
+iotbd,478,IoTBDS,0.02
+fskd,478,FSKD,0.02
+ram,478,CIS/RAM,0.02
+ifaamas,478,AAMAS,0.02
+ondm,477,ONDM,0.02
+inlg,477,INLG,0.02
+ictir,477,ICTIR,0.02
+sui,477,SUI,0.02
+cibcb,476,CIBCB,0.02
+persuasive,473,PERSUASIVE,0.02
+ccscw,472,ChineseCSCW (1),0.02
+icin,472,ICIN,0.02
+isalalife,471,ALIFE,0.02
+icon-nlp,471,ICON,0.02
+snams,470,SNAMS,0.02
+icvisp,470,ICVISP,0.02
+kolicalling,470,Koli Calling,0.02
+adhip,469,ADHIP (1),0.02
+cisim,468,CISIM,0.02
+wetice,467,WETICE,0.02
+icait,466,ICAIT,0.02
+its,465,ITS,0.02
+fdse,463,FDSE (CCIS Volume),0.02
+kesidt,463,KES-IDT (1),0.02
+socs,462,SOCS,0.02
+iccsce,462,ICCSCE,0.02
+ppsn,461,PPSN (1),0.02
+dis,461,DS,0.02
+ococosda,461,O-COCOSDA,0.02
+ibica,459,IBICA,0.02
+xpu,459,XP Companion,0.02
+iot,459,IOT,0.02
+cicba,458,CICBA,0.02
+dev,457,COMPASS,0.02
+rev,457,REV,0.02
+sbqs,457,SBQS,0.02
+cloudnet,456,CloudNet,0.02
+ihsi,456,IHSI,0.02
+sbac-pad,455,SBAC-PAD,0.02
+dessert,455,DESSERT,0.02
+ppam,455,PPAM (2),0.02
+icaif,454,ICAIF,0.02
+ipec,454,IPEC,0.02
+ehealth2,453,dHealth,0.02
+haicta,453,HAICTA,0.02
+jurse,452,JURSE,0.02
+ic3ina,451,IC3INA,0.02
+dsit,450,DSIT,0.02
+cicling,450,CICLing (2),0.02
+imaging,449,CIC,0.02
+mfi,449,MFI,0.02
+cascon,449,CASCON,0.02
+sgai,449,SGAI Conf.,0.02
+kmo,448,KMO,0.02
+icgec,448,ICGEC,0.02
+photoptics,447,PHOTOPTICS,0.02
+cacre,447,CACRE,0.02
+automation,447,AUTOMATION,0.02
+sefm,446,SEFM,0.02
+dagm,446,GCPR,0.02
+debs,446,DEBS,0.02
+gistam,445,GISTAM,0.02
+fpt,445,FPT,0.02
+cniot,445,CNIOT,0.02
+cbmi,444,CBMI,0.02
+miwai,443,MIWAI (3),0.02
+emcis,443,EMCIS,0.02
+icara,442,ICARA,0.02
+bigdatasec,442,BigDataSecurity/HPSC/IDS,0.02
+sera,441,SERA,0.02
+ismvl,441,ISMVL,0.02
+blockchain2,440,Blockchain,0.02
+concur,439,CONCUR,0.02
+chase,439,CHASE,0.02
+bcicts,438,BCICTS,0.02
+xai,438,"xAI (Late-breaking Work, Demos, Doctoral Consortium)",0.02
+hpsr,437,HPSR,0.02
+edge,437,SEC,0.02
+icicdt,436,ICICDT,0.02
+iccps,436,ICCPS,0.02
+svr,436,SVR,0.02
+host,435,HOST,0.02
+eamt,435,EAMT (2),0.02
+ifip8-1,435,PoEM Companion,0.02
+ispass,435,ISPASS,0.02
+ecil,435,ECIL,0.02
+smartiot,434,SmartIoT,0.02
+icmhi,433,ICMHI,0.02
+aivr,432,AIVR,0.02
+brain,432,BI,0.02
+vlsi-dat,432,VLSI-DAT,0.02
+aughuman,432,AH,0.02
+asap,431,ASAP,0.02
+agile,431,AGILE Conference,0.02
+dyspan,431,DySPAN,0.02
+coins,431,COINS,0.02
+bigcom,430,BigCom,0.02
+icist,428,ICIST,0.02
+icadl,428,ICADL,0.02
+ats,427,ATS,0.02
+compsystech,426,CompSysTech,0.02
+lacci,426,LA-CCI,0.02
+europlop,426,EuroPLoP,0.02
+icebe,425,ICEBE,0.02
+ilrn,424,iLRN,0.02
+expat,424,exp.at,0.02
+icaie,424,ICAIE,0.02
+acmturc,424,ACM TUR-C,0.02
+alt,423,ALT,0.02
+amc,423,AMC,0.02
+vinci,423,VINCI,0.02
+acmse,422,ACM Southeast Regional Conference,0.02
+digra,422,DiGRA,0.02
+aiiot,422,AIIoT,0.02
+sbcci,421,SBCCI,0.02
+cisc,421,Inscrypt,0.02
+commnet,421,CommNet,0.02
+fm,421,FM,0.02
+bcca,420,BCCA,0.02
+ithet,420,ITHET,0.02
+ipres,419,iPRES,0.02
+recomb,419,RECOMB,0.02
+srds,419,SRDS,0.02
+meditcom,419,MeditCom,0.02
+cidr,418,CIDR,0.02
+riiforum,418,RIIFORUM,0.02
+ibpria,418,IbPRIA,0.02
+ccia,417,CCIA,0.02
+seeda,417,SEEDA-CECNSM,0.02
+chitaly,417,CHItaly,0.02
+icail,417,ICAIL,0.02
+rtip2r,417,RTIP2R (3),0.02
+cscl,415,CSCL,0.02
+wfcs,415,WFCS,0.02
+bir,414,BIR Workshops,0.02
+iccst,413,ICCST,0.02
+spiot,412,SPIoT (2),0.02
+bigdataservice,412,BigDataService,0.02
+icite,411,ICITE,0.02
+csfw,411,CSF,0.02
+csl,411,CSL,0.02
+osdi,411,OSDI,0.02
+ispec2,411,iSPEC,0.02
+ki,409,KI,0.02
+dmbd,409,DMBD,0.02
+midp,407,Digital Pathology,0.02
+icawst,407,iCAST,0.02
+wuwnet,405,WUWNet,0.02
+nafips,405,NAFIPS,0.02
+raid,404,RAID,0.02
+rtas,404,RTAS,0.02
+aipr,403,AIPR,0.02
+ecmr,403,ECMR,0.02
+agi,403,AGI,0.02
+wine,402,WINE,0.02
+iiki,402,IIKI,0.02
+istas,401,ISTAS,0.02
+icbo,401,ICBO/BioCreative,0.02
+dtpi,400,DTPI,0.02
+sosp,400,ResilientFL,0.02
+mascots,398,MASCOTS,0.02
+mlicom,398,MLICOM (1),0.02
+prima,397,PRIMA Workshops,0.02
+wi,397,Wirtschaftsinformatik,0.02
+ecce,397,ECCE,0.02
+cdve,396,CDVE,0.02
+doceng,395,DocEng,0.02
+ml4cs,395,ML4CS (3),0.02
+ficc,395,FICC (2),0.02
+ddecs,394,DDECS,0.02
+mindtrek,394,MindTrek,0.02
+sin,393,SIN,0.02
+isi,393,ISI,0.02
+iceit,392,ICEIT,0.02
+spaccs,392,SpaCCS Workshops,0.02
+hucc,391,HCC,0.02
+visualization,391,VAST Challenge@VIS,0.02
+icict2,391,ICICT,0.02
+iccsci,390,ICCSCI,0.02
+iwaenc,390,IWAENC,0.02
+dft,390,DFT,0.02
+artiis,390,ARTIIS,0.02
+acsos,390,ACSOS-C,0.02
+icmcis,389,ICMCIS,0.02
+nanocom,388,NANOCOM,0.02
+soli,388,SOLI,0.02
+aqtr,387,AQTR,0.02
+fmec,387,FMEC,0.02
+ic4e,387,IC4E,0.02
+wifs,387,WIFS,0.02
+interaccion,387,Interacción,0.02
+ieeesec,386,SEC,0.02
+sose,385,SOSE,0.02
+fmcad,385,FMCAD,0.02
+cbs,384,CBS,0.02
+acivs,384,ACIVS,0.02
+iotdi,384,IoTDI,0.02
+lion,384,LION,0.02
+ispd,384,ISPD,0.02
+coco,383,CCC,0.02
+artech,383,ARTECH,0.02
+dcis,382,DCIS,0.02
+ntms,381,NTMS,0.02
+niss,379,NISS,0.02
+rcdl,379,DAMDID/RCDL (Supplementary Proceedings),0.02
+medes,378,MEDES,0.02
+iwoca,378,IWOCA,0.02
+latw,378,LATS,0.02
+hybrid,377,HSCC,0.02
+services,377,SERVICES,0.02
+samos,377,SAMOS,0.02
+ideas,377,IDEAS,0.02
+wea2,376,WEA (2),0.02
+anzcc,376,ANZCC,0.02
+ichms,376,ICHMS,0.02
+itp,376,ITP,0.02
+chira,376,CHIRA,0.02
+soups,375,WAY@SOUPS,0.02
+cie,375,CiE,0.02
+roedunet,375,RoEduNet,0.02
+cpaior,375,CPAIOR,0.02
+icaiis,374,ICAIIS,0.02
+simutools,374,SimuTools,0.02
+iwslt,374,IWSLT,0.02
+nss,373,NSS,0.02
+icimmi,372,ICIMMI,0.02
+sat,371,SAT,0.02
+icbar,371,ICBAR,0.02
+opodis,370,OPODIS,0.02
+ismict,370,ISMICT,0.02
+gamesem,370,GEM,0.02
+robocup,369,RoboCup,0.02
+icsipa,369,ICSIPA,0.02
+iccir,368,ICCIR,0.02
+coinco,368,CIC,0.02
+ever,368,EVER,0.02
+efmi-stc,368,EFMI-STC,0.02
+sohoma,367,SOHOMA,0.02
+cui,367,CUI,0.02
+eics,365,EICS,0.02
+air,365,AIR,0.02
+acsw,365,ACSW,0.02
+iwpec,364,IPEC,0.02
+icncc,364,ICNCC,0.02
+fimh,364,FIMH (1),0.02
+icppw,364,ICPP Workshops,0.02
+jsai,363,JSAI-isAI Workshops,0.02
+saso,363,SASO,0.02
+cacml,363,CACML,0.02
+iccms,362,ICCMS,0.02
+cgo,361,CGO,0.02
+mcpr2,361,MCPR,0.02
+spac,361,SPAC,0.02
+itat,361,ITAT,0.02
+cpits,360,CPITS,0.02
+bled,360,Bled eConference,0.02
+crv,359,CRV,0.02
+sigcpr,359,CPR,0.02
+siguccs,359,SIGUCCS,0.02
+desrist,359,DESRIST,0.02
+icmc,359,ICMC,0.02
+iukm,358,IUKM,0.02
+nodalida,357,NoDaLiDa/Baltic-HLT,0.02
+lssc,357,LSSC,0.02
+ipmi,357,IPMI (2),0.02
+isorc,356,ISORC,0.02
+hotnets,355,HotNets,0.02
+icict,355,ICICT (3),0.02
+memsys,353,MEMSYS,0.02
+ebimcs,353,EBIMCS,0.02
+robophilosophy,353,Robophilosophy,0.02
+hhai,352,HHAI Workshops,0.02
+iih-msp,352,IIH-MSP (2),0.02
+icibe,352,ICIBE,0.02
+ida,351,IDA,0.02
+iotsms,351,IoTSMS,0.02
+comma,350,COMMA,0.02
+prdc,349,PRDC,0.02
+pdc,349,PDC (2),0.02
+artsit,349,ArtsIT/DLI,0.02
+medi,348,MEDI Workshops,0.02
+mlhc,348,MLHC,0.02
+sss,348,SSS,0.02
+ncaa,346,NCAA (2),0.02
+isat,346,ISAT (3),0.02
+indiase,346,ISEC,0.02
+iicaiet,345,IICAIET,0.02
+iti2,345,IT&I,0.02
+schule,344,INFOS,0.02
+dsrt,344,DS-RT,0.02
+icves,343,ICVES,0.02
+wg,342,WG,0.02
+sec,341,SEC,0.02
+edcc,341,EDCC,0.02
+staf,341,STAF Workshops,0.02
+smartcloud,341,SmartCloud,0.02
+tpsisa,340,TPS-ISA,0.02
+psb,340,PSB,0.02
+icsse,339,ICSSE,0.02
+icmre,339,ICMRE,0.02
+aaate,339,AAATE Conf.,0.02
+imcl,339,IMCL,0.02
+rtcsa,338,RTCSA,0.02
+mtsr,338,MTSR,0.02
+mind,337,MIND (2),0.02
+npc,337,NPC (1),0.02
+civemsa,337,CIVEMSA,0.02
+ihsed,336,IHSED,0.02
+eumas,336,EUMAS/AT,0.02
+mkwi,335,MKWI,0.02
+cpsweek,335,ARCH@CPSWeek,0.02
+bigdata,335,BigData Congress,0.02
+amps,335,AMPS,0.02
+icaice,334,ICAICE,0.02
+spml,334,SPML,0.02
+smartnets,334,SmartNets,0.02
+enviroinfo,334,EnviroInfo (2),0.02
+atva,334,ATVA,0.02
+wisee,333,WiSEE,0.02
+imms,333,IMMS,0.02
+nfm,333,NFM,0.02
+wassa,332,WASSA,0.02
+hotchips,332,HCS,0.02
+desec,332,DSC,0.02
+w4a,332,W4A,0.02
+icmu,331,ICMU,0.02
+green,330,IGSC,0.02
+iscide,330,IScIDE (1),0.02
+ispec,330,ISPEC,0.02
+icbet,330,ICBET,0.02
+arso,330,ARSO,0.02
+ssdbm,330,SSDBM,0.02
+bigda,330,BDA,0.02
+mkm,329,CICM,0.02
+graphicsinterface,329,Graphics Interface,0.02
+iccomm,329,COMM,0.02
+swat4ls,329,SWAT4HCLS,0.02
+kesamsta,329,KES-AMSTA,0.02
+istc,329,ISTC,0.02
+egve,328,ICAT-EGVE (Posters and Demos),0.02
+biosig,327,BIOSIG,0.02
+walcom,327,WALCOM,0.02
+skima,327,SKIMA,0.02
+ivic,327,IVIC,0.02
+apwcs2,326,APWCS,0.02
+smartcom,326,SmartCom,0.02
+rocling,326,ROCLING,0.02
+isse2,326,ISSE,0.02
+istel,326,IST,0.02
+arc,325,ARC,0.02
+icbdt,325,ICBDT,0.02
+bdc,324,BDCAT,0.02
+dawak,324,DaWaK,0.02
+icmlde,324,ICMLDE,0.02
+misnc,324,MISNC,0.02
+icsengt,324,ICSET,0.02
+caldam,324,CALDAM,0.02
+phealth,323,pHealth,0.02
+wmcsa,323,HotMobile,0.02
+cmis,323,CMIS,0.02
+icai2,323,ICAI,0.02
+iotais,322,IoTaIS,0.02
+quatic,322,QUATIC,0.02
+lwa,322,LWDA,0.02
+icbbe,322,ICBBE,0.02
+iccl2,321,ICCL,0.02
+csonet,321,CSoNet,0.02
+brainles-ws,320,BrainLes@MICCAI (1),0.02
+scalespace,320,SSVM,0.02
+geoinfo,319,GEOINFO,0.02
+pods,318,PODS,0.02
+vrml,317,Web3D,0.02
+socpar,317,SoCPaR,0.02
+socinfo,317,SocInfo (1),0.02
+esop,317,ESOP,0.02
+ukci,317,UKCI,0.02
+crc,317,CRC,0.02
+cans,317,CANS,0.02
+icdsp2,316,ICDSP,0.02
+cpm,316,CPM,0.02
+starsem,316,*SEM@NAACL-HLT,0.02
+emo,316,EMO (1),0.02
+ictd,316,ICTD,0.02
+goodit,315,GoodIT,0.02
+icsob,315,ICSOB Companion,0.02
+annsim,315,ANNSIM,0.02
+sbesc,315,SBESC,0.02
+bic,315,BIC,0.02
+sbgames,314,SBGames,0.02
+sita,314,SITA,0.02
+nof,314,NOF,0.02
+paap,314,PAAP,0.02
+diagrams,313,Diagrams,0.02
+mlsys,313,SysML,0.02
+sisap,313,SISAP,0.02
+aics,313,AICS,0.02
+icmlca,313,ICMLCA,0.02
+icdl,312,ICDL,0.02
+ecctd,312,ECCTD,0.02
+icbase,311,ICBASE,0.02
+icl-gnss,311,ICL-GNSS (Work in Progress),0.02
+miipop,310,"Image Perception, Observer Performance, and Technology Assessment",0.02
+stil,310,STIL,0.02
+moco,310,MOCO,0.02
+icdl-epirob,309,ICDL-EPIROB,0.02
+dsmp,308,DSMP,0.02
+icca2,308,ICCA,0.02
+itasec,307,ITASEC/SERICS,0.02
+icbl,307,ICBL,0.02
+icits2,307,ICITS (2),0.02
+ital-ia,306,Ital-IA,0.02
+incdm,306,ICDM,0.02
+asiasim,306,AsiaSim (1),0.02
+internetware,306,Internetware,0.02
+icfhr,306,ICFHR,0.02
+fossacs,306,FoSSaCS,0.02
+iiswc,305,IISWC,0.02
+icdcit,305,ICDCIT,0.02
+bdcloud,305,ISPA/BDCloud/SocialCom/SustainCom,0.02
+rv,304,RV,0.02
+5gwn,304,6GN (1),0.02
+ejc,303,EJC,0.02
+wipsce,303,WiPSCE,0.02
+iswc,303,ISWC,0.02
+unet,303,UNet,0.02
+respect,302,RESPECT,0.02
+iccsip,302,ICCSIP (2),0.02
+pads,302,SIGSIM-PADS,0.02
+fps,301,FPS,0.02
+aclnut,301,W-NUT@EMNLP,0.02
+idc,301,IDC,0.02
+ict-dm,301,ICT-DM,0.02
+icsports,301,icSPORTS,0.02
+icmtel,301,ICMTEL (2),0.02
+dlt,301,DLT,0.02
+gmds,301,GMDS,0.02
+norchip,300,NORCAS,0.02
+euvip,300,EUVIP,0.02
+ised,300,ISED,0.02
+ipco,300,IPCO,0.02
+fast,299,FAST,0.01
+scia,299,SCIA,0.01
+giots,299,GIoTS,0.01
+wisa,299,WISA,0.01
+isami,299,ISAmI,0.01
+sca2,299,SCA,0.01
+mis4tel,298,MIS4TEL (Workshops),0.01
+icnidc,297,IC-NIDC,0.01
+ruleml,297,RuleML+RR,0.01
+iccspa,297,ICCSPA,0.01
+odyssey,297,Odyssey,0.01
+ismis,296,ISMIS,0.01
+cogsima,296,CogSIMA,0.01
+casc,296,CASC,0.01
+sagt,296,SAGT,0.01
+mesas,296,MESAS,0.01
+ismr,295,ISMR,0.01
+isssr,295,ISSSR,0.01
+mtsummit,295,MTSummit (1),0.01
+sds,294,SDS,0.01
+icr,294,ICR,0.01
+ekaw,294,EKAW,0.01
+isw,294,ISC (1),0.01
+nas,293,NAS,0.01
+iceei,293,ICEEI,0.01
+nids,293,NiDS,0.01
+iwasi,293,IWASI,0.01
+sgda,293,JCSG,0.01
+spire,293,SPIRE,0.01
+candar,293,CANDARW,0.01
+momm,293,MoMM,0.01
+raad,292,RAAD,0.01
+icspis,292,ICSPIS,0.01
+icitst,292,ICITST,0.01
+iotaai,291,IoTAAI,0.01
+ictcs2,291,ICTCS,0.01
+icimtech,290,ICIMTech,0.01
+acling,290,ACLING,0.01
+isica,290,ISICA,0.01
+ud,290,UD,0.01
+jist,289,IJCKG,0.01
+icigp,289,ICIGP,0.01
+css,289,CSS,0.01
+setn,289,SETN,0.01
+dsai,289,DSAI,0.01
+dcase,288,DCASE,0.01
+intcompsymp,288,ICS,0.01
+csee,288,CSEE&T,0.01
+scam,288,SCAM,0.01
+systor,287,SYSTOR,0.01
+wads,287,WADS,0.01
+adc,286,ADC,0.01
+iccr,286,ICCR,0.01
+iscsic,286,ISCSIC,0.01
+ictac,286,ICTAC,0.01
+indocrypt,285,INDOCRYPT,0.01
+euromed,284,EuroMed (2),0.01
+gamesec,284,GameSec,0.01
+bcshci,284,BCS HCI,0.01
+propor,283,PROPOR,0.01
+ihm,283,IHM (Adjunct),0.01
+sirocco,283,SIROCCO,0.01
+ita,283,ITA,0.01
+lanman,282,LANMAN,0.01
+ipas2,282,IPAS,0.01
+smap,282,SMAP,0.01
+sacmat,282,SACMAT,0.01
+acmicn,282,ICN,0.01
+ispdc,282,ISPDC,0.01
+icemt,282,ICEMT,0.01
+liss,280,LISS,0.01
+iwocl,280,IWOCL,0.01
+cri,280,CRI,0.01
+techdefense,280,TechDefense,0.01
+icmlt,280,ICMLT,0.01
+arith,279,ARITH,0.01
+ict4d,279,ICT4D (2),0.01
+pacrim,279,PACRIM,0.01
+sacrypt,278,SAC,0.01
+iotdcc,278,ICC,0.01
+cvmi,278,CVMI,0.01
+ictcs,278,ICTCS,0.01
+aiccc,277,AICCC,0.01
+goodtechs,277,GOODTECHS,0.01
+tase,276,TASE,0.01
+icmlsc,275,ICMLSC,0.01
+ias,275,IAS,0.01
+provsec,275,ProvSec,0.01
+wd,275,WD,0.01
+bdiot,274,BDIOT,0.01
+programming,274,Programming,0.01
+icfem,274,ICFEM,0.01
+eos,273,Earth Observing Systems,0.01
+icitjo,273,ICIT,0.01
+pam,272,PAM (1),0.01
+inforsid,271,INFORSID,0.01
+apvis,271,PacificVis,0.01
+ih,271,IH&MMSec,0.01
+f-ic,271,IC,0.01
+ctrsa,271,CT-RSA,0.01
+vrcai,271,VRCAI,0.01
+vmcai,270,VMCAI,0.01
+iclp,270,PLP@ICLP,0.01
+scipy,270,SciPy,0.01
+das,269,DAS,0.01
+iceccs,269,ICECCS,0.01
+iccta,269,ICCTA,0.01
+netys,269,NETYS,0.01
+isivc,269,ISIVC,0.01
+icliqe,269,ICLIQE,0.01
+cecnet,268,CECNet,0.01
+iciss,268,ICISS,0.01
+his2,268,HIS,0.01
+aaim,268,AAIM,0.01
+wea,268,SEA,0.01
+icdte,267,ICDTE,0.01
+icmss,267,ICMSS,0.01
+reconfig,267,ReConFig,0.01
+rait,267,RAIT,0.01
+vss,266,VSS,0.01
+amlta,266,AMLTA,0.01
+cicai,265,CICAI (1),0.01
+mwcn,265,RNDM@WMNC,0.01
+icdt,265,ICDT,0.01
+fllm,265,FLLM,0.01
+hipeac,265,SiPhotonics@HiPEAC,0.01
+icnlsp,265,ICNLSP,0.01
+haisa,265,HAISA,0.01
+grmse,265,GSES,0.01
+bics,264,BICS,0.01
+ircdl,264,IRCDL,0.01
+mig,264,MIG,0.01
+amta,264,AMTA,0.01
+iwbf,264,IWBF,0.01
+ftc,263,FTC (2),0.01
+ims2,263,IMS (CLCO),0.01
+ontobras,263,ONTOBRAS,0.01
+ifip5-4,262,TFC,0.01
+mldm,262,MLDM,0.01
+comcomap,262,ComComAP,0.01
+tamc,262,TAMC,0.01
+tma,262,TMA,0.01
+dexaw,262,DEXA Workshops,0.01
+cccv,262,CCCV (2),0.01
+iccids,261,ICCIDS (2),0.01
+mcis,261,MCIS,0.01
+ecsqaru,261,ECSQARU,0.01
+africom,261,AFRICOMM,0.01
+psivt,260,PSIVT,0.01
+depcos,260,DepCoS-RELCOMEX,0.01
+bcd,260,BCD,0.01
+icfsp,259,ICFSP,0.01
+uyms,258,UYMS,0.01
+coria,258,CORIA,0.01
+3dic,258,3DIC,0.01
+apnet,258,APNet,0.01
+acit2,258,ACIT-CSI,0.01
+icimcs,258,ICIMCS,0.01
+rfid,258,RFID,0.01
+clrimg,257,"Color Imaging: Displaying, Processing, Hardcopy, and Applications",0.01
+icvip,257,ICVIP,0.01
+cpp,257,CPP,0.01
+wabi,257,WABI,0.01
+hp3c,256,HP3C,0.01
+icost,256,ICOST,0.01
+teletraffic,256,ITC (1),0.01
+iwmn,256,M&N,0.01
+conf-irm,255,CONF-IRM,0.01
+wsse,255,WSSE,0.01
+latin,255,LATIN,0.01
+nlpir,255,NLPIR,0.01
+siet,254,SIET,0.01
+iccsie,254,ICCSIE,0.01
+brains,254,BRAINS,0.01
+wts,253,WTS,0.01
+iftc,253,IFTC,0.01
+kcap,253,K-CAP,0.01
+metacom,253,MetaCom,0.01
+nanoarch,253,NANOARCH,0.01
+icrc,253,ICRC,0.01
+lpar,252,LPAR Complementary Volume,0.01
+rita,252,RiTA,0.01
+csicc,252,CSICC,0.01
+pg,252,"PG (Short Papers, Posters, and Demos)",0.01
+lata,252,LATA,0.01
+dbsec,251,DBSec,0.01
+enter,251,ENTER,0.01
+ecrts,251,ECRTS,0.01
+iser,251,ISER,0.01
+drcn,251,DRCN,0.01
+copa,251,COPA,0.01
+mdai,251,MDAI,0.01
+icexss,250,IESS,0.01
+intelitsis,250,IntelITSIS,0.01
+csse,249,CSSE,0.01
+icaai,249,ICAAI,0.01
+vast,249,GCH,0.01
+mike,249,MIKE,0.01
+esocc,248,ESOCC Workshops,0.01
+wer,248,WER,0.01
+cscml,248,CSCML,0.01
+rtns,247,RTNS,0.01
+iccns,247,ICCNS,0.01
+valuetools,247,VALUETOOLS,0.01
+irict,247,IRICT,0.01
+acomp,246,ACOMP,0.01
+itc-asia,246,ITC-Asia,0.01
+africhi,246,AfriCHI,0.01
+ittap,246,ITTAP,0.01
+sipaim,246,SIPAIM,0.01
+iqsp,246,IQSP,0.01
+iwdw,246,IWDW,0.01
+simbig,245,SIMBig,0.01
+icisc,245,ICISC,0.01
+rochi,245,RoCHI,0.01
+wac2,245,WAC,0.01
+giscience,244,GIScience,0.01
+hvei,244,HVEI,0.01
+arcs,244,ARCS,0.01
+gpc,244,GPC,0.01
+crowncom,243,CrownCom,0.01
+sbp-brims,243,SBP-BRiMS,0.01
+wordnet,243,GWC,0.01
+icbbt,242,ICBBT,0.01
+dtis,242,DTIS,0.01
+ldk,242,LDK,0.01
+dhn,242,DHNB,0.01
+iir,242,IIR,0.01
+menacomm,241,MENACOMM,0.01
+fase,241,FASE,0.01
+dpta,241,DPTA,0.01
+ifm,241,IFM,0.01
+nsyss,241,NSysS,0.01
+pqcrypto,240,PQCrypto,0.01
+rovisp,240,RoViSP,0.01
+wollic,240,WoLLIC,0.01
+isrr,239,ISRR,0.01
+icaip,239,ICAIP,0.01
+hotstorage,239,HotStorage,0.01
+issep,239,ISSEP,0.01
+imspa,238,ISPA,0.01
+icons2,238,ICONS,0.01
+ihtc,238,IHTC,0.01
+hic,237,UbiComp Companion,0.01
+bmsd,237,BMSD,0.01
+parco,237,PARCO,0.01
+icmcs2,237,ICMCS,0.01
+cogmi,236,CogMI,0.01
+isoen,236,ISOEN,0.01
+ictas,235,ICTAS,0.01
+rice,235,RICE,0.01
+konvens,235,KONVENS,0.01
+iddm,235,IDDM,0.01
+momlet,234,MoMLeT,0.01
+sum,234,SUM,0.01
+vecos,233,AISoLA,0.01
+icvs,233,ICVS,0.01
+igta,233,IGTA,0.01
+itits,233,ITITS (2),0.01
+cisis-spain,232,CISIS,0.01
+mue,232,MUE/FutureTech,0.01
+iwsds,232,IWSDS,0.01
+rep4nlp,232,RepL4NLP@ACL,0.01
+vsgames,231,VS-GAMES,0.01
+icceic,231,ICCEIC,0.01
+itib,231,ITIB,0.01
+icatech,231,ICAT,0.01
+modellierung,231,Modellierung,0.01
+ucet,231,UCET,0.01
+icsim,231,ICSIM,0.01
+pais,230,PAIS,0.01
+icprai,230,ICPRAI (2),0.01
+ifsa,230,IFSA/NAFIPS,0.01
+cmsb,230,CMSB,0.01
+saicsit,230,SAICSIT,0.01
+faw,229,FAW,0.01
+iotaas,229,IoTaaS,0.01
+crisis,229,CRiSIS,0.01
+iccbn,229,ICCBN,0.01
+sscc,228,SSCC,0.01
+itch,228,ITCH,0.01
+essa,228,ESSA,0.01
+sle,227,SLE,0.01
+secdev,227,SecDev,0.01
+wisnet,226,WiSNet,0.01
+sas,226,SAS,0.01
+time,225,TIME,0.01
+isdmci,224,ISDMCI,0.01
+cilc,223,CILC,0.01
+mobiwis,223,MobiWIS,0.01
+vissoft,223,VISSOFT,0.01
+cores,223,CORES,0.01
+isiwi,223,ISI,0.01
+jelia,223,JELIA,0.01
+jfsma,223,JFSMA,0.01
+csr,222,CSR,0.01
+chinasip,222,ChinaSIP,0.01
+wia,222,CIAA,0.01
+pscc,222,PSCC,0.01
+radioelektronika,221,RADIOELEKTRONIKA,0.01
+hcomp,221,HCOMP,0.01
+eais,221,EAIS,0.01
+smsociety,221,SMSociety,0.01
+cybconf,221,CYBCONF,0.01
+ebccsp,221,EBCCSP,0.01
+eeet,221,EEET,0.01
+pgm,221,PGM,0.01
+iberspeech,220,IberSPEECH,0.01
+btas,220,BTAS,0.01
+mlmi-ws,220,MLMI@MICCAI (2),0.01
+kaleidoscope,219,ITU K,0.01
+ladc,219,LADC,0.01
+ict4s,219,ICT4S,0.01
+critis,219,critis,0.01
+ecscw,218,ECSCW,0.01
+bdas,218,BDAS,0.01
+secitc,218,SecITC,0.01
+isplc,217,ISPLC,0.01
+in4pl,217,IN4PL (2),0.01
+mobihealth,217,MobiHealth,0.01
+dimva,217,DIMVA,0.01
+sofa,216,SOFA,0.01
+dsie,216,DSIE,0.01
+ruscdays,216,RuSCDays,0.01
+acl-alta,216,ALTA,0.01
+icccm,216,ICCCM,0.01
+iccabs,216,ICCABS,0.01
+nesy,216,NeSy,0.01
+icac,215,ICAC,0.01
+icetm,215,ICETM,0.01
+ol2a,215,OL2A,0.01
+blockchain,215,BLOCKCHAIN,0.01
+cchi,215,CCHI,0.01
+apgv,215,SAP,0.01
+chr,214,CHR,0.01
+eatis,214,EATIS,0.01
+icbds,214,ICBDS,0.01
+ieeevast,214,VAST,0.01
+nordsec,214,NordSec,0.01
+ipas,213,Image Processing: Algorithms and Systems,0.01
+isbdai,213,ISBDAI,0.01
+ppdp,213,PPDP,0.01
+aplas,213,APLAS,0.01
+iccda,213,ICCDA,0.01
+cybersa,212,CyberSA,0.01
+sensornets,212,SENSORNETS,0.01
+icfp,212,FARM@ICFP,0.01
+icecocs,212,ICECOCS,0.01
+clawar,212,CLAWAR,0.01
+memocode,212,MEMOCODE,0.01
+icacs2,212,ICACS,0.01
+kka,212,KKA,0.01
+adhs,212,ARCH@ADHS,0.01
+fablearn,212,FabLearn/MakeEd,0.01
+icms,211,ICMS,0.01
+perdis,211,PerDis,0.01
+iceel,211,ICEEL,0.01
+icmc2,211,ICMC,0.01
+ecal,210,ECAL,0.01
+msie,209,MSIE,0.01
+aimusic,209,AIMC,0.01
+ifip8-6,209,TDIT (1),0.01
+scsc,209,SummerSim,0.01
+cycon,208,CyCon,0.01
+vcbm,208,VCBM,0.01
+lsms,208,LSMS/ICSEE (1),0.01
+intap,208,INTAP,0.01
+iwsda,208,IWSDA,0.01
+numta,208,NUMTA(1),0.01
+ieea,208,IEEA,0.01
+ictinnovations,207,ICT Innovations,0.01
+iseud,207,IS-EUD,0.01
+aike,207,AIKE,0.01
+apsys,207,APSys,0.01
+group,207,GROUP (Companion),0.01
+aicv2,207,AICV,0.01
+psats,207,WISATS (2),0.01
+animalci,206,ACI,0.01
+iciai,206,ICIAI,0.01
+smartcity,206,SmartCity,0.01
+woa,206,WOA,0.01
+iccsp,206,ICCSP,0.01
+confcds,206,CONF-CDS,0.01
+ivus,206,IVUS,0.01
+uksim,205,UKSim,0.01
+iccve,205,ICCVE,0.01
+slate,205,SLATE,0.01
+cc,205,CC,0.01
+balt,205,DB&IS,0.01
+bnaic,205,BNAIC/BENELEARN,0.01
+wims,205,WIMS,0.01
+iesa,204,I-ESA Workshops,0.01
+blackboxnlp,204,BlackboxNLP@EMNLP,0.01
+wons,204,WONS,0.01
+icccs,204,ICCCS,0.01
+dms,203,DMS,0.01
+upinlbs,203,UPINLBS,0.01
+pact,203,PaCT,0.01
+ciac,203,CIAC,0.01
+ict4da,203,ICT4DA,0.01
+micad2,203,MICAD,0.01
+cmmr,203,CMMR,0.01
+icdh,203,ICDH,0.01
+egitaly,203,STAG,0.01
+blocksys,202,BlockSys,0.01
+cacic,202,CACIC,0.01
+emoocs,202,EMOOCs-WIP,0.01
+qshine,202,QSHINE,0.01
+iceeg,202,ICEEG,0.01
+fscd,202,FSCD,0.01
+mesa,202,MESA,0.01
+fqas,202,FQAS,0.01
+multitemp,202,MultiTemp,0.01
+cosit,201,COSIT,0.01
+rie,201,RiE,0.01
+qest,201,QEST,0.01
+hpcasia,200,HPC Asia,0.01
+eurogp,200,EuroGP,0.01
+icbbs,200,ICBBS,0.01
+iscmi,200,ISCMI,0.01
+ccks,200,CCKS,0.01
+imw2,198,IMW,0.01
+systol,198,SysTol,0.01
+mlcad,198,MLCAD,0.01
+isr2,198,ISR,0.01
+mmbd,197,MMBD/MLIS,0.01
+iwsec,197,IWSEC,0.01
+comped,197,CompEd (2),0.01
+argmining,196,ArgMining@ACL,0.01
+iccoms,196,ICCS,0.01
+cnml,196,CNML,0.01
+csdm,196,CSDM Asia / CSDM,0.01
+wikis,196,OpenSym,0.01
+wpes,196,WPES@CCS,0.01
+icieai,196,ICIEAI,0.01
+icdim,196,ICDIM,0.01
+popl,195,POPL,0.01
+rc,195,RC,0.01
+scdm,195,SCDM,0.01
+chil,195,CHIL,0.01
+ark,195,ARK,0.01
+iccbd,195,ICCBD,0.01
+lpnmr,195,LPNMR,0.01
+acirs,195,ACIRS,0.01
+ciot,195,CIoT,0.01
+gecon,195,GECON,0.01
+vamos,195,VaMoS,0.01
+iwomp,194,IWOMP,0.01
+icdel,194,ICDEL,0.01
+metroauto,194,MetroAutomotive,0.01
+icuwb,194,ICUWB,0.01
+bionetics,194,BICT,0.01
+icdec,193,ICDEc,0.01
+icrca,193,ICRCA,0.01
+ausdm,193,AusDM,0.01
+pts,193,ICTSS,0.01
+asiajcis,193,AsiaJCIS,0.01
+apcorise,193,APCoRISE,0.01
+fabulous,192,FABULOUS,0.01
+ica2,192,ICA,0.01
+cte,192,CTE,0.01
+icise,192,ICISE,0.01
+isipta,192,ISIPTA,0.01
+vmv,192,VMV,0.01
+vardial,191,VarDial@COLING 2018,0.01
+iccmb,191,ICCMB,0.01
+ssbse,191,SSBSE,0.01
+skg,191,SKG,0.01
+scf,191,SCF Adjunct,0.01
+icdf2c,190,ICDF2C (2),0.01
+cn,190,CN,0.01
+enc,190,ENC,0.01
+clear2,190,CLeaR,0.01
+carla,190,CARLA,0.01
+scds,190,SCDS,0.01
+icdsc,190,ICDSC,0.01
+giis,189,GIIS,0.01
+iccp,189,ICCP,0.01
+mapr,189,MAPR,0.01
+setta,188,SETTA,0.01
+modelica,188,Modelica,0.01
+wivace,188,WIVACE,0.01
+isce,188,ISCE,0.01
+isaim,188,ISAIM,0.01
+nooj,188,NooJ,0.01
+bioma,188,BIOMA,0.01
+alenex,187,ALENEX,0.01
+patmos,187,PATMOS,0.01
+trecvid,187,TRECVID,0.01
+asianhost,187,AsianHOST,0.01
+aiss,187,AISS,0.01
+waim,186,WAIM (2),0.01
+space,186,SPACE,0.01
+tst,186,TST,0.01
+tac,186,TAC,0.01
+lagos,186,LAGOS,0.01
+cibb,186,CIBB,0.01
+ispw,186,ICSSP,0.01
+gol,186,GOL,0.01
+icdip,185,ICDIP,0.01
+primelife,185,Privacy and Identity Management,0.01
+dcfs,185,DCFS,0.01
+icitcs,185,ICITCS,0.01
+bodynets,185,BODYNETS,0.01
+lwmoocs,184,LWMOOCS,0.01
+cts,184,CTS,0.01
+enumath,184,ENUMATH,0.01
+wicon,184,WiCON,0.01
+ace,184,ACE,0.01
+fdl,183,FDL,0.01
+fois,183,FOIS,0.01
+lori,183,LORI,0.01
+raslan,182,RASLAN,0.01
+contel,182,ConTEL,0.01
+amw,182,AMW,0.01
+sped,182,SpeD,0.01
+aiml,182,AiML,0.01
+pacbb,182,PACBB,0.01
+waoa,181,WAOA,0.01
+citi,181,CITI,0.01
+itgspeech,181,ITG Symposium on Speech Communication,0.01
+adhoc-now,181,ADHOC-NOW,0.01
+ieeeicics,181,ICICS,0.01
+icta,181,ICTA,0.01
+spw,181,Security Protocols Workshop,0.01
+hotos,180,HotOS,0.01
+ssw,180,SSW,0.01
+mcm2,180,MCM,0.01
+aiai,180,AIAI (3),0.01
+icbdc,180,ICBDC,0.01
+icbra,180,ICBRA,0.01
+helmeto,180,HELMeTO,0.01
+gaiis,180,GAIIS,0.01
+icseb,180,ICSEB,0.01
+icsie,180,ICSIE,0.01
+dasip,179,DASIP,0.01
+romoco,179,RoMoCo,0.01
+africacrypt,179,AFRICACRYPT,0.01
+adhocnets,179,ADHOCNETS,0.01
+fct,179,FCT,0.01
+acmace,179,Advances in Computer Entertainment,0.01
+3dui,178,3DUI,0.01
+sdf,178,SDF,0.01
+splash,178,SPLASH Companion,0.01
+icisdm,178,ICISDM,0.01
+candt,177,C&T,0.01
+eurohaptics,177,EuroHaptics,0.01
+icst2,177,ICST,0.01
+mlnlp,177,MLNLP,0.01
+wafr,177,WAFR,0.01
+insci,176,INSCI,0.01
+icacs,176,ICACS,0.01
+ccci,176,CCCI,0.01
+mwe,176,MWE-UD@COLING,0.01
+iccasa,176,ICCASA,0.01
+icreate,176,i-CREATe,0.01
+ei-sda,176,SD&A,0.01
+swat,175,SWAT,0.01
+csnet,175,CSNet,0.01
+gamifin,174,GamiFIN,0.01
+icdis,174,ICDIS,0.01
+iccta2,174,ICCTA,0.01
+atmos,174,ATMOS,0.01
+icmip,174,ICMIP,0.01
+asiahaptics,174,AsiaHaptics,0.01
+aiipcc,174,AIIPCC,0.01
+its2,173,ITS,0.01
+ssd,173,SSTD,0.01
+acri,173,ACRI,0.01
+collas,173,CoLLAs,0.01
+ispan,173,ISPAN-FCST-ISCC,0.01
+ppig,173,PPIG,0.01
+acl-clinicalnlp,172,ClinicalNLP@NAACL,0.01
+coordination,171,COORDINATION,0.01
+icrai,171,ICRAI,0.01
+ehealth,171,DH,0.01
+pasc,171,PASC,0.01
+lctrts,171,LCTES,0.01
+kgswc,171,KGSWC,0.01
+evalita,170,EVALITA,0.01
+ukrprog,170,UkrPROG,0.01
+nvmsa,170,NVMSA,0.01
+iics,170,I4CS,0.01
+rt,170,EGSR (DL),0.01
+mhv,169,MHV,0.01
+bci,169,BCI,0.01
+aft,169,AFT,0.01
+cimaging,169,Computational Imaging,0.01
+epew,168,EPEW,0.01
+vsip,168,VSIP,0.01
+gpce,168,GPCE,0.01
+isaga,168,SimTecT/ISAGA,0.01
+ceec,167,CEEC,0.01
+cdmake,167,CD-MAKE,0.01
+conielecomp,167,CONIELECOMP,0.01
+mlmi2,167,MLMI,0.01
+sspr,167,S+SSPR,0.01
+icbde,167,ICBDE,0.01
+mediaforensics,167,"Media Watermarking, Security, and Forensics",0.01
+buildsys,167,BuildSys,0.01
+ica,166,LVA/ICA,0.01
+iwbis,166,IWBIS,0.01
+icfet,166,ICFET,0.01
+bdca,166,BDCA,0.01
+aclwat,166,WAT@AAC/IJCNLPL,0.01
+caepia,166,CAEPIA,0.01
+caad-futures,165,CAAD Futures,0.01
+hci-collab,165,HCI-COLLAB,0.01
+gg,165,ICGT,0.01
+rta,165,FSCD,0.01
+peai,165,PEAI,0.01
+iimss,165,IIMSS,0.01
+anrw,165,ANRW,0.01
+idcs,165,IDCS,0.01
+iit,164,IIT,0.01
+uv,164,UV,0.01
+iciss2,164,ICISS,0.01
+icisa,163,ICISA,0.01
+sosr,163,SOSR,0.01
+complexis,163,COMPLEXIS,0.01
+gdn,163,GDN,0.01
+iccbdc,163,ICCBDC,0.01
+wns3,163,WNS3,0.01
+vorgehensmodelle,163,PVM,0.01
+uc,163,UCNC,0.01
+sosa,163,SOSA,0.01
+mobiwac,162,MobiWac,0.01
+sqamia,162,SQAMIA,0.01
+iwci,162,IWCI,0.01
+gbcic,161,GBCIC,0.01
+rndm,161,RNDM,0.01
+itdrr,161,ITDRR,0.01
+pppj,161,ManLang,0.01
+openidentity,161,Open Identity Summit,0.01
+econvn,160,ECONVN,0.01
+scn,160,SCN,0.01
+sds2,160,SDS,0.01
+icmssp,160,ICMSSP,0.01
+iwaipr,160,IWAIPR,0.01
+lopstr,160,LOPSTR,0.01
+collabtech,160,CollabTech,0.01
+fcv,159,IW-FCV,0.01
+egovis,159,EGOVIS,0.01
+t4e,159,T4E,0.01
+ancs,159,ANCS,0.01
+ivsp,158,IVSP,0.01
+aughuman2,158,AHs,0.01
+icea,158,ICEA,0.01
+iwoar,158,iWOAR,0.01
+norcas,158,NorCAS,0.01
+tableaux,158,TABLEAUX,0.01
+ifip11-9,158,IFIP Int. Conf. Digital Forensics,0.01
+forte,158,FORTE,0.01
+fmics,157,FMICS-AVoCS,0.01
+ieeeiwcia,157,IWCIA,0.01
+apit,157,APIT,0.01
+ccris,157,CCRIS,0.01
+ukicer,157,UKICER,0.01
+eisic,157,EISIC,0.01
+comnet,157,ComNet,0.01
+motor,157,MOTOR,0.01
+iccvit,156,ICCVIT,0.01
+ilp,156,PLP@ILP,0.01
+iwcs,156,IWCS (2),0.01
+ip-c,156,IP&C,0.01
+ic3d,156,IC3D,0.01
+swisstext,156,SwissText,0.01
+icgse,156,ICGSE,0.01
+service,156,ICSS,0.01
+sies,156,SIES,0.01
+dars,155,DARS,0.01
+s-bpm-one,155,S-BPM ONE,0.01
+idsta,155,IDSTA,0.01
+mrs,155,MRS,0.01
+intetain,154,INTETAIN,0.01
+ciis,154,CIIS,0.01
+icdlt,154,ICDLT,0.01
+scisec,154,SciSec,0.01
+damon,154,DaMoN,0.01
+dtesi,154,"DTESI (workshops, short papers)",0.01
+tdit,154,TDIT (2),0.01
+nocs,153,NOCS,0.01
+siot,153,SIoT,0.01
+icsh,153,ICSH,0.01
+iciei,153,ICIEI,0.01
+codes,153,CODES+ISSS,0.01
+ldav,153,LDAV,0.01
+emsoft,153,EMSOFT,0.01
+ola,153,OLA,0.01
+ispr,153,ISPR,0.01
+ml4h,153,ML4H@NeurIPS,0.01
+icett,153,ICETT,0.01
+bdeim,153,BDEIM,0.01
+heart,152,HEART,0.01
+delta2,152,DeLTA,0.01
+medcomnet,152,MedComNet,0.01
+icieb,151,ICIEB,0.01
+cain,151,CAIN,0.01
+erf,151,ERF (2),0.01
+iscopt,151,ISCO,0.01
+hotsos,150,HotSoS,0.01
+aiml2,150,AIMLSystems,0.01
+epart,149,ePart,0.01
+is2,149,IS2,0.01
+iberamia,149,IBERAMIA,0.01
+eicc,149,EICC,0.01
+socialsec,149,SocialSec,0.01
+sarnoff,149,Sarnoff Symposium,0.01
+stpis,149,STPIS,0.01
+iwsm,148,IWSM-Mensura,0.01
+sbr,148,SBR/WRE,0.01
+isdcs,148,ISDCS,0.01
+icsr,148,ICSR,0.01
+icqe,148,ICQE,0.01
+ssiai,148,SSIAI,0.01
+isicdm,148,ISICDM,0.01
+haskell,148,Haskell,0.01
+icbbb,147,ICBBB,0.01
+pvm,147,EuroMPI,0.01
+belief,147,BELIEF,0.01
+hase,147,HASE,0.01
+padl,147,PADL,0.01
+optima,147,OPTIMA,0.01
+intsys,147,INTSYS,0.01
+woot,146,WOOT @ USENIX Security Symposium,0.01
+foritaal,146,ForItAAL,0.01
+itng,146,ITNG,0.01
+cases,146,CASES,0.01
+async,146,ASYNC,0.01
+sltu,146,SLTU-CCURL@LREC,0.01
+egose,146,EGOSE,0.01
+dgmm,146,DGMM,0.01
+slte,146,SLaTE,0.01
+mobilecloud,145,MobileCloud,0.01
+cla,145,CLA,0.01
+iceed,145,ICEED,0.01
+monami,145,MONAMI,0.01
+iciit,145,ICIIT,0.01
+relmics,145,RAMiCS,0.01
+gcaiot,145,GCAIoT,0.01
+spin,145,SPIN,0.01
+rsp,144,RSP,0.01
+rp,144,RP,0.01
+icsm2,144,ICSM,0.01
+aredu,144,AREdu,0.01
+hpcct,144,HPCCT/BDAI,0.01
+coolchips,144,COOL CHIPS,0.01
+ismm,143,ISMM,0.01
+akbc,143,AKBC@NIPS,0.01
+emisa,143,EMISA,0.01
+iconetsi,143,ICONETSI,0.01
+evoapps,143,EvoApplications (2),0.01
+coopis,143,CoopIS,0.01
+log,143,LoG,0.01
+cosade,143,COSADE,0.01
+aucc,142,AuCC,0.01
+csp,142,CS&P,0.01
+mlis,142,MLIS,0.01
+soca,142,SOCA,0.01
+gski,142,GSKI (1),0.01
+atis,142,ATIS,0.01
+bdicn,142,BDICN,0.01
+ewgdss,142,ICDSST,0.01
+midi,142,MIDI,0.01
+si3d,142,I3D Companion,0.01
+ncvpripg,141,NCVPRIPG,0.01
+fcs2,141,FCS,0.01
+web,141,WEB,0.01
+ivmsp,141,IVMSP,0.01
+antsw,141,ANTS Conference,0.01
+icapr,141,ICAPR,0.01
+6gnet,141,6GNet,0.01
+ahs,141,AHS,0.01
+vcc,140,VCC,0.01
+iccbb,140,ICCBB,0.01
+cybersecpods,140,Cyber Security,0.01
+iccvg,140,ICCVG,0.01
+eurovr,140,EuroVR,0.01
+icmmi,140,ICMMI,0.01
+ewaf,140,EWAF,0.01
+icgsp,140,ICGSP,0.01
+mln,139,MLN,0.01
+isads,139,ISADS,0.01
+profitai,139,ProfIT AI,0.01
+ifip11-10,139,Critical Infrastructure Protection,0.01
+eurocris,139,CRIS,0.01
+cods,139,CODS,0.01
+formats,139,FORMATS,0.01
+iwobi,139,IWOBI,0.01
+fun,139,FUN,0.01
+icccsp,138,ICCCSP,0.01
+nldl,138,NLDL,0.01
+icisp,138,ICISP,0.01
+sbp,138,SBP-BRiMS,0.01
+intersol,138,InterSol,0.01
+clihc,138,CLIHC,0.01
+es,138,ES,0.01
+pe-wasun,137,PE-WASUN,0.01
+cceai,137,CCEAI,0.01
+pemwn,137,PEMWN,0.01
+icfpt,137,FPT,0.01
+icacit,137,ICACIT,0.01
+els,137,ELS,0.01
+algosensors,137,ALGOSENSORS,0.01
+sca,137,Symposium on Computer Animation (Posters),0.01
+ldic,137,LDIC,0.01
+icaic2,137,ICAIC,0.01
+mlic,136,MLIC,0.01
+aitest,136,AITest,0.01
+syroco,136,SyRoCo,0.01
+isic2,136,ISIC,0.01
+icai4,135,ICAI (2),0.01
+iov,135,IOV,0.01
+elec,135,ELEC,0.01
+cordi,135,CoRDI,0.01
+ei-iss,135,Imaging Sensors and Systems,0.01
+asse,134,ASSE,0.01
+eecs,134,EECS,0.01
+icaps,134,ICAPS,0.01
+lcpc,134,LCPC,0.01
+stacom-ws,133,STACOM@MICCAI,0.01
+data2,133,DATA,0.01
+cwit,133,CWIT,0.01
+iwcia,132,IWCIA,0.01
+rehab,132,REHAB (Revised Selected Papers),0.01
+inhci,132,IHCI,0.01
+dais,132,DAIS,0.01
+actea,132,ACTEA,0.01
+ems,132,EMS,0.01
+tmmch,131,TMM_CH (2),0.01
+blizzard,131,Blizzard Challenge / Voice Conversion Challenge,0.01
+ltec,131,LTEC,0.01
+gvd,131,Grundlagen von Datenbanken,0.01
+cs-se-sw,131,CS&SE@SW,0.01
+ecrime,131,eCrime,0.01
+wocn,131,WOCN,0.01
+nossdav,131,NOSSDAV,0.01
+icgda,131,ICGDA,0.01
+sigir-ap,130,SIGIR-AP,0.01
+icdcsw,130,ICDCS Workshops,0.01
+siie,130,SIIE,0.01
+dccn,130,DCCN,0.01
+icoms,130,ICoMS,0.01
+calco,130,CALCO,0.01
+cshi,130,CSHI,0.01
+cardis,130,CARDIS,0.01
+acl-louhi,130,Louhi@EMNLP,0.01
+icia2,130,ICIA,0.01
+wcce,129,WCCE,0.01
+stm,129,STM,0.01
+wwic,129,WWIC,0.01
+mspn,129,MSPN,0.01
+system,129,SYSTEM,0.01
+sete,129,SETE@ICWL,0.01
+dddas,129,DDDAS/Infosymbiotics,0.01
+aibthings,129,AIBThings,0.01
+iait,129,IAIT,0.01
+latechclfl,129,LaTeCH-CLfL,0.01
+tpnc,129,TPNC,0.01
+context,129,DS@CONTEXT,0.01
+hotcloud,129,HotCloud,0.01
+eapcogsci,128,EAPCogSci,0.01
+femib,128,FEMIB,0.01
+door,128,DOOR (Supplement),0.01
+cwsn,128,CWSN,0.01
+sast,128,SAST,0.01
+rtacsit,128,RTA-CSIT,0.01
+isba,128,ISBA,0.01
+ceeegov,128,CEEeGov,0.01
+icfca,128,ICFCA,0.01
+techedu,128,TECH-EDU,0.01
+w2gis,128,W2GIS,0.01
+edutainment,127,Edutainment,0.01
+sensors,127,Sensors,0.01
+ami,127,AmI,0.01
+satml,127,SaTML,0.01
+vda,127,Visualization and Data Analysis,0.01
+vsmm,127,VSMM,0.01
+csii,127,ACIT/CSII/BCD,0.01
+sgiot,126,SGIoT,0.01
+ichsa,126,ICHSA,0.01
+faiml,126,FAIML,0.01
+micsecs,126,MICSECS,0.01
+ai4i,126,AI4I,0.01
+tqc,126,TQC,0.01
+sblp,126,SBLP,0.01
+airs,126,AIRS,0.01
+sinc,126,SINC,0.01
+imis2,125,IMIS@ECAI,0.01
+isess,125,ISESS,0.01
+ei-mobmu,125,MOBMU,0.01
+gbrpr,125,GbRPR,0.01
+slsp,125,SLSP,0.01
+automata,125,Automata,0.01
+ccbd,125,CCBD,0.01
+cwords,125,WORDS,0.01
+annpr,125,ANNPR,0.01
+smartcity360,125,SmartCity360°,0.01
+aldt,124,ADT,0.01
+seams,124,SEAMS,0.01
+histocrypt,124,HistoCrypt,0.01
+clarin,124,CLARIN Annual Conference,0.01
+ismsi,124,ISMSI,0.01
+macis,124,MACIS,0.01
+cocole,123,CoCoLe,0.01
+wsom,123,WSOM,0.01
+ifuzzy,123,iFUZZY,0.01
+pkaw,123,PKAW,0.01
+eaamo,123,EAAMO,0.01
+ifipiot,123,IFIPIoT,0.01
+aisem,123,AISEM,0.01
+curac,123,CURAC,0.01
+itpm,122,ITPM,0.01
+icrmat,122,ICRMAT,0.01
+scopes,122,SCOPES,0.01
+acludw,122,UDW,0.01
+ecc,122,ECC,0.01
+vstte,122,VSTTE,0.01
+acss,122,ACSS (1),0.01
+iccse,122,ICCSE,0.01
+icecc,122,ICECC,0.01
+asm,122,ABZ,0.01
+sbmf,122,SBMF,0.01
+euc,121,EUC,0.01
+ccpr,121,CCPR (1),0.01
+dna,121,DNA,0.01
+iniscom,121,INISCOM,0.01
+sbcars,121,SBCARS,0.01
+spatialdi,121,SpatialDI,0.01
+lim,121,LIM,0.01
+zeus,121,ZEUS,0.01
+ei-imawm,120,IMAWM,0.01
+mco,120,MCO (1),0.01
+ngcas,120,NGCAS,0.01
+iccde,120,ICCDE,0.01
+psd,120,PSD,0.01
+dmip,120,DMIP,0.01
+wci,120,WCI,0.01
+ei-avm,120,Autonomous Vehicles and Machines,0.01
+nice,119,NICE,0.01
+cloudtech,119,CloudTech,0.01
+wob,119,BSB,0.01
+dolap,119,DOLAP,0.01
+aicconf,119,AICCONF,0.01
+cciot,119,CCIOT,0.01
+bdiot2,119,BDIoT,0.01
+fsr,119,FSR,0.01
+cybhyg,118,CybHyg,0.01
+istar,118,iStar,0.01
+eewc,118,EEWC,0.01
+latice,118,LaTiCE,0.01
+mabs,118,MABS,0.01
+summersim,118,ICBGM@SummerSim,0.01
+saner,118,SANER,0.01
+acllaw,118,LAW-MWE-CxG@COLING,0.01
+peccs,117,PECCS,0.01
+compute,117,COMPUTE,0.01
+latincrypt,117,LATINCRYPT,0.01
+icsc-cities,117,ICSC-Cities,0.01
+facs2,117,FACS,0.01
+apf,117,APF,0.01
+alife,117,ALIFE,0.01
+wccce,117,WCCCE,0.01
+iot360,117,IoT 360 (1),0.01
+wpnc,116,WPNC,0.01
+kivs,116,NetSys,0.01
+dlfm,116,DLfM,0.01
+eda,116,EDA,0.01
+types,116,TYPES,0.01
+iintec,116,IINTEC,0.01
+icai5,116,ICAI,0.01
+iwcit,116,IWCIT,0.01
+ceig,116,CEIG,0.01
+mobicase,115,MobiCASE,0.01
+dsw,115,DSW,0.01
+inns,115,INNS Conference on Big Data,0.01
+csaide,115,CSAIDE,0.01
+mobisec2,115,MobiSec,0.01
+rose,115,ROSE,0.01
+bigdata2,115,BigData,0.01
+dappcon,115,DAPPS,0.01
+istt,115,ISTT,0.01
+robce,115,RobCE,0.01
+iccct,115,ICCCT,0.01
+vric,115,VRIC,0.01
+coms2,115,COMS2,0.01
+cloud2,114,CLOUD,0.01
+nik,114,NIK,0.01
+icmai2,114,ICMAI,0.01
+ukais,114,UKAIS,0.01
+pacificvis,114,PacificVis,0.01
+hcc,113,HCC,0.01
+becb,113,BECB,0.01
+tap,113,TAP@STAF,0.01
+icpec,113,ICPEC,0.01
+clar,113,CLAR,0.01
+deon,113,DEON,0.01
+itest,113,ITEST,0.01
+ei-iriacv,113,IRIACV,0.01
+confws,113,ConfWS@ECAI,0.01
+ssip,113,SSIP,0.01
+bdccf,112,Big Data (CCF),0.01
+jcs,112,JC&S,0.01
+icfec,112,ICFEC,0.01
+bench,112,Bench,0.01
+medprai,112,MedPRAI,0.01
+wcgo,112,WCGO,0.01
+iccsama,112,ICCSAMA,0.01
+dmi,112,DMI,0.01
+vee,112,VEE,0.01
+stringology,112,PSC,0.01
+tpctc,112,TPCTC,0.01
+cmigin,112,CMiGIN,0.01
+cisetc,112,CISETC,0.01
+sicherheit,112,Sicherheit,0.01
+ccir,111,CCIR,0.01
+dsdis,111,DSDIS,0.01
+frocos,111,FroCoS,0.01
+iscisc,111,ISCISC,0.01
+digipro,111,DigiPro,0.01
+gcai,111,GCAI,0.01
+hoti,110,HOTI,0.01
+keshcis,110,KES-HCIS,0.01
+unif,110,UNIF,0.01
+nspw,110,NSPW,0.01
+iwmm,110,ISMM,0.01
+healthyiot,110,HealthyIoT,0.01
+smm4h,110,SMM4H@COLING,0.01
+aofa,109,AofA,0.01
+icebt,109,ICEBT,0.01
+icondeepcom,109,IconDeepCom,0.01
+nctcs,109,NCTCS,0.01
+iwis,109,IWIS,0.01
+acg,108,ACG,0.01
+oss,108,OSS,0.01
+recosoc,108,ReCoSoC,0.01
+enc2,108,ENC,0.01
+idaacssws,108,IDAACS-SWS,0.01
+icbct,108,ICBCT,0.01
+aces,108,ACeS,0.01
+bdmip,107,BDMIP,0.01
+ches,107,CHES,0.01
+3dor,107,3DOR@Eurographics,0.01
+conversations,107,CONVERSATIONS,0.01
+mbmv,107,MBMV,0.01
+rssrail,107,RSSRail,0.01
+ciia,107,CIIA,0.01
+gptp,107,GPTP,0.01
+aiih,107,AIiH (2),0.01
+sma2,107,SMA,0.01
+ssps,106,SSPS,0.01
+ec,106,EC,0.01
+bsci,106,BSCI,0.01
+3dtv,106,3DTV-Conference,0.01
+iciot3,106,ICIoT,0.01
+robovis,106,ROBOVIS,0.01
+emas,105,EMAS,0.01
+icbc,105,ICBC,0.01
+ifl,105,IFL,0.01
+icaase,105,ICAASE,0.01
+asms-spsc,105,ASMS/SPSC,0.01
+iseeie,105,ISEEIE,0.01
+eurousec,105,EuroUSEC,0.01
+cvmp,105,CVMP,0.01
+waw,104,WAW,0.01
+iecc,104,IECC,0.01
+nets4cars,104,Nets4Cars/Nets4Trains/Nets4Aircraft,0.01
+miet,104,MIET (2),0.01
+promise,104,PROMISE,0.01
+c2si,104,C2SI,0.01
+icccv,104,ICCCV,0.01
+swqd,104,SWQD,0.01
+dsaisc,103,DSA ISC (1),0.01
+sfp,103,TFP,0.01
+dgci,103,DGCI,0.01
+icssa,103,ICSSA,0.01
+simpar,103,SIMPAR,0.01
+spice,103,SPICE,0.01
+3dica,102,"3D Image Processing, Measurement (3DIPM), and Applications",0.01
+qtna,102,QTNA,0.01
+bpmds,102,BPMDS/EMMSAD@CAiSE,0.01
+iwai2,102,IWAI,0.01
+cifer,102,CIFEr,0.01
+icis2,102,ICIS,0.01
+imbsa,102,IMBSA,0.01
+sadasc,102,SADASC,0.01
+vmbo,101,VMBO,0.01
+rulemlrr,101,RuleML+RR,0.01
+cvm,101,CVM (2),0.01
+acr,101,ACR,0.01
+ebee,101,EBEE,0.01
+chiwork,101,CHIWORK,0.01
+cvcs,100,CVCS,0.01
+improve,100,IMPROVE,0.01
+idt,100,IDT,0.01
+foga,100,FOGA,0.01
+icsbt,100,ICSBT,0.01
+sirs,100,SIRS,0.01
+sofl,100,SOFL+MSVL,0.01
+bats,100,Q-BATS,0.01
+trustbus,100,TrustBus,0.01
+hfr,100,HFR,0.01
+aecia,100,AECIA,0.01
+nextcomp,100,NextComp,0.01
+ldac,100,LDAC@ESWC,0.01
+icgi2,99,ICGI,0.0
+icmva,99,ICMVA,0.0
+jsspp,99,JSSPP,0.0
+algocloud,99,ALGOCLOUD,0.0
+emccompo,99,EMC Compo,0.0
+acl-lchange,99,LChange@ACL,0.0
+iscis,99,ISCIS,0.0
+chigreece,99,CHI Greece,0.0
+icii,99,ICII,0.0
+mobserv,98,IEEE MS,0.0
+tpcg,98,CGVC,0.0
+aibdf,98,AIBDF,0.0
+fdtc,98,FDTC,0.0
+icws2,98,ICWS,0.0
+doceis,98,DoCEIS,0.0
+ipmv,98,IPMV,0.0
+icbip,98,ICBIP,0.0
+appis,98,APPIS,0.0
+isamsr,98,ISAMSR,0.0
+idt2,97,IDT,0.0
+evoteid,97,E-Vote-ID (GI),0.0
+transai,97,TransAI,0.0
+avsp,97,AVSP,0.0
+agop,97,AGOP,0.0
+ifip11-8,97,World Conference on Information Security Education,0.0
+icbsp,96,ICBSP,0.0
+pearl,96,Echtzeit,0.0
+aiotc,96,AIoTC,0.0
+most,96,MOST,0.0
+prni,96,PRNI,0.0
+ast,96,AST,0.0
+ei-maap,96,"Measuring, Modeling, and Reproducing Material Appearance",0.0
+itst,96,ITST,0.0
+compeng,95,COMPENG,0.0
+sumo,95,SUMO,0.0
+ubisec,95,UbiSec,0.0
+bde,95,BDE,0.0
+sab,95,SAB,0.0
+missi,94,MISSI,0.0
+iwst,94,IWST,0.0
+retis,94,ReTIS,0.0
+smps,94,SMPS,0.0
+icbta,94,ICBTA,0.0
+ciat,94,CIAT,0.0
+icslt,93,ICSLT,0.0
+tas,93,TAS,0.0
+egice,93,EG-ICE,0.0
+pccnt,93,PCCNT,0.0
+membrane,93,Int. Conf. on Membrane Computing,0.0
+fsen,93,FSEN,0.0
+alcob,92,AlCoB,0.0
+foiks,92,FoIKS,0.0
+mindcare,92,MindCare/Fabulous,0.0
+iip,92,IIP,0.0
+msml,92,MSML,0.0
+broadnets,92,BROADNETS,0.0
+cata,92,CATA,0.0
+ifip3,91,OCCE,0.0
+jcc,91,JCC,0.0
+pepm,91,PEPM,0.0
+acsc,91,ACSW,0.0
+appt,90,APPT,0.0
+naa,90,NAA,0.0
+icsps,90,ICSPS,0.0
+wistp,90,WISTP,0.0
+issa,90,ISSA,0.0
+cciw,90,CCIW,0.0
+egpgv,90,EGPGV@EuroVis,0.0
+zum,89,ABZ,0.0
+citi2,89,CITI,0.0
+lfcs,89,LFCS,0.0
+scse,89,SCSE,0.0
+m3e2,89,M3E2-MLPEED,0.0
+psychobit,89,PSYCHOBIT,0.0
+chiuxid,89,CHIuXiD,0.0
+icdsci,89,ICDS,0.0
+smc2,89,SMC,0.0
+waifi,89,WAIFI,0.0
+seuh,89,SEUH,0.0
+ngmast,89,NGMAST,0.0
+ssi,89,SSI,0.0
+sand,89,SAND,0.0
+hucapp,89,VISIGRAPP (2: HUCAPP),0.0
+ifiptm,89,IFIPTM,0.0
+aosd,89,MODULARITY,0.0
+nvmts,88,NVMTS,0.0
+dsde,88,DSDE,0.0
+pacling,88,PACLING,0.0
+gecon2,88,GeCon,0.0
+automl,88,AutoML,0.0
+ltedi,88,LT-EDI,0.0
+criwg,88,CRIWG,0.0
+iwpt,88,IWPT,0.0
+tcce,88,TCCE,0.0
+cyberscitech,88,CyberSciTech,0.0
+apia,88,APIA,0.0
+isci,88,iSCI,0.0
+icvars,88,ICVARS,0.0
+culture,87,Culture Computing,0.0
+eis,87,EI.A (2),0.0
+itadata,87,ITADATA,0.0
+ecsee,87,ECSEE,0.0
+esse,87,ESSE,0.0
+icsecs,87,ICSECS,0.0
+aaaisus,86,AAAI Summer Symposia,0.0
+latech,86,LaTeCH@ACL,0.0
+iaic,86,IAIC (1),0.0
+icgs3,86,ICGS3,0.0
+intsol,86,IntSol,0.0
+itcc2,86,ITCC,0.0
+aswec,86,ASWEC,0.0
+icmml,86,ICMML,0.0
+nma,86,NMA,0.0
+skill,86,SKILL,0.0
+sigsand,86,PLAIS,0.0
+marble,86,MARBLE,0.0
+ervr,86,ERVR,0.0
+icist2,86,ICIST,0.0
+dc,86,Dublin Core Conference,0.0
+benevol,86,BENEVOL,0.0
+iccwcs,86,ICCWCS,0.0
+seal,85,SEAL,0.0
+dai2,85,DAI,0.0
+icacie,85,ICACIE (2),0.0
+cep,85,CEP,0.0
+fg,85,FG,0.0
+imeta,85,iMETA,0.0
+cpal,85,CPAL,0.0
+aimsa,85,AIMSA,0.0
+iceitsa,85,ICEITSA,0.0
+sm,85,SM,0.0
+citc,84,ITC,0.0
+issnip,84,ISSNIP,0.0
+eurosec,84,EUROSEC,0.0
+ipaw,84,IPAW,0.0
+mammo,84,Digital Mammography / IWDM,0.0
+icla,83,ICLA,0.0
+acmicec,83,ICEC,0.0
+grades,83,GRADES,0.0
+ca,83,CASA,0.0
+ima,83,IMACC,0.0
+icr2,83,ICR,0.0
+atait,83,ATAIT,0.0
+icitam,83,ICITAM,0.0
+icse-chase,83,CHASE@ICSE,0.0
+telexbe,82,teleXbe (2),0.0
+mmvr,82,MMVR,0.0
+phycs,82,PhyCS (Selected Papers),0.0
+infrahealth,82,InfraHealth,0.0
+redundancy,82,REDUNDANCY,0.0
+iccc2,82,ICCC,0.0
+nmr,82,NMR,0.0
+qsw,82,QSW,0.0
+mab,82,MAB,0.0
+ifip8-2,81,IS&O,0.0
+conf-spml,81,CONF-SPML,0.0
+aintec,81,AINTEC,0.0
+ispcs,81,ISPCS,0.0
+aic,81,AIC,0.0
+aarhus,81,Aarhus Conference (Adjunct),0.0
+services2,81,SERVICES,0.0
+wbir,81,WBIR,0.0
+evomusart,81,EvoMUSART,0.0
+ae,81,EA,0.0
+dspp,81,DSPP (1),0.0
+asita,81,ASITA,0.0
+hlt,80,Baltic HLT,0.0
+medhocnet,80,Med-Hoc-Net,0.0
+ltconf,80,LCT,0.0
+fdm,80,FDM,0.0
+icast,80,ICAST (1),0.0
+icalp2,80,ICALP (1),0.0
+complexsystems,80,Complex Adaptive Systems,0.0
+vizsec,80,VizSEC,0.0
+acl-tea,80,NLP-TEA@COLING,0.0
+sdp,80,SDP@ACL,0.0
+bdsic,79,BDSIC,0.0
+icserv,79,ICServ,0.0
+enic,79,ENIC,0.0
+pcc,79,PCC (2),0.0
+isicir,79,ISIC,0.0
+rweb,79,RW,0.0
+wilf,79,WILF,0.0
+aisns,79,AISNS,0.0
+cvdl,79,CVDL,0.0
+pris2,79,PRIS,0.0
+ershov,78,Ershov Memorial Conference,0.0
+greenets,78,GreeNets,0.0
+dione,78,DIONE,0.0
+jiaf,78,JIAF-JFPDA,0.0
+elpub,78,ELPUB,0.0
+ecbseerc,78,ECBS,0.0
+wicsa,78,WICSA,0.0
+tapp,78,TaPP,0.0
+daset,78,DaSET,0.0
+europhras,78,Europhras,0.0
+mdtt,78,MDTT,0.0
+icrsa,78,ICRSA,0.0
+svcc,77,SVCC,0.0
+colognetwente,77,CTW,0.0
+sigmorphon,77,SIGMORPHON,0.0
+icess,77,ICESS,0.0
+iciot2,77,ICIOT,0.0
+aisp,77,AIS&P (2),0.0
+iceb,77,ICEB,0.0
+smartgift,77,SmartGIFT,0.0
+iciot,77,ICIOT,0.0
+icbea2,76,ICBEA,0.0
+erlang,76,Erlang Workshop,0.0
+flops,76,FLOPS,0.0
+iciso,76,ICISO,0.0
+dictap,76,DICTAP,0.0
+dphoto,76,"Photography, Mobile, and Immersive Imaging",0.0
+vipc,76,Visual Information Processing and Communication,0.0
+ictcc,76,ICTCC,0.0
+wodes,76,WODES,0.0
+dsai2,76,DSAI,0.0
+iml,76,IML,0.0
+osmses,75,OSMSES,0.0
+est,75,EST,0.0
+fnss,75,FNSS,0.0
+dls,75,DLS,0.0
+icdp,75,ICDP,0.0
+dsp-spe,75,SP/SPE,0.0
+icicm,75,ICICM,0.0
+cloudcomp,75,CloudComp,0.0
+gamenets,75,GAMENETS,0.0
+simpda,75,SIMPDA,0.0
+icvns,75,ICVNS,0.0
+spcnc,75,SPCNC,0.0
+iwsc,75,IWSC,0.0
+kui,75,KUI,0.0
+smp,75,SMP,0.0
+bias,74,BIAS/IR4U2,0.0
+slip,74,SLIP,0.0
+tagml,74,TAG-ML,0.0
+eurova-ws,74,EuroVA@Eurographics/EuroVis,0.0
+vahc,74,VAHC,0.0
+eunis,74,EUNIS,0.0
+aivr2,74,AIVR,0.0
+dps,74,DPS,0.0
+accc,74,ACCC,0.0
+hcse,74,HCSE,0.0
+6gsummit,74,6G SUMMIT,0.0
+iotml,73,IoTML,0.0
+aims2,73,AIMS,0.0
+dlt2,73,DLT,0.0
+spects,73,SPECTS,0.0
+ncma,73,NCMA,0.0
+icbdr,73,ICBDR,0.0
+asmta,73,ASMTA,0.0
+mss,73,MSST,0.0
+mtv,73,MTV,0.0
+rif,73,RIF,0.0
+cvippr,73,CVIPPR,0.0
+adcs,73,ADCS,0.0
+icadiwt,73,ICADIWT,0.0
+citrisk,73,CITRisk,0.0
+apmar,73,APMAR,0.0
+acs2,73,ACS,0.0
+kesw,73,KESW,0.0
+cerc,72,CERC,0.0
+qai,72,QAI,0.0
+secsr,72,SSR,0.0
+analco,72,ANALCO,0.0
+icemc,72,ICEMC,0.0
+wis2,72,WIS,0.0
+acl-cmcl,72,CMLS,0.0
+iwbi,72,IWBI,0.0
+cosecivi,72,CoSECivi,0.0
+jcc-bd,72,JCC&BD,0.0
+malware,72,MALWARE,0.0
+circle,72,CIRCLE,0.0
+misdoom,72,MISDOOM,0.0
+hworkload,71,H-WORKLOAD,0.0
+ivapp,71,VISIGRAPP (3: IVAPP),0.0
+mcss2,71,MCSS,0.0
+overlay,71,OVERLAY,0.0
+winsys,71,WINSYS,0.0
+iccac,71,ICCAC,0.0
+eval4nlp,71,Eval4NLP,0.0
+dx,71,DX,0.0
+fcst,71,FCST,0.0
+icwcsn,71,icWCSN,0.0
+rvsp,71,RVSP,0.0
+voteid,70,E-VOTE-ID,0.0
+icseng,70,ICSEng,0.0
+smartblock,70,SmartBlock,0.0
+depling,70,DepLing,0.0
+bibe2,70,BIBE,0.0
+cadgraphics,70,CAD/Graphics,0.0
+post,69,POST,0.0
+onward,69,Onward!,0.0
+stast,69,STAST,0.0
+iscbi,69,ISCBI,0.0
+sysint,69,SYSINT,0.0
+sbst,69,SBFT@ICSE,0.0
+icacis,69,ICACIS,0.0
+ictrs,69,ICTRS,0.0
+icgj,69,ICGJ,0.0
+scia2,69,SCIA,0.0
+cscs2,68,CSCS,0.0
+ifip13,68,HWID,0.0
+scc2,68,SCC,0.0
+acsd,68,ACSD,0.0
+acl-codeswitch,68,CodeSwitch@EMNLP,0.0
+desires,68,DESIRES,0.0
+forc,68,FORC,0.0
+beliv,68,BELIV,0.0
+icsde,68,ICSDE,0.0
+kicss,68,KICSS,0.0
+aiee,68,AIEE,0.0
+cd,68,Conf. Computing Frontiers,0.0
+ifip8,67,CONFENIS,0.0
+icaids,67,ICAIDS,0.0
+astroinf,67,Astroinformatics,0.0
+sc2,67,SC²,0.0
+icgi,67,ICGI,0.0
+sacair,67,SACAIR,0.0
+recombcg,67,RECOMB-CG,0.0
+mobilesoft,67,MOBILESoft,0.0
+icad,67,ICAD,0.0
+mlcb,67,MLCB,0.0
+cserc,67,CSERC,0.0
+spatialcognition,67,Spatial Cognition,0.0
+expressive,66,Expressive + WICED,0.0
+om2,66,OM@ISWC,0.0
+asar,66,ASAR,0.0
+inns-dlia,66,INNS DLIA@IJCNN,0.0
+wooc,66,WOOC,0.0
+witcom,66,WITCOM,0.0
+ivsw,66,IVSW,0.0
+siamct,66,SIAM Conf. on Control and its Applications,0.0
+ascat,66,ASCAT,0.0
+acda,66,ACDA,0.0
+ecmdafa,66,ECMFA,0.0
+hc,66,HC@AIxIA+HYDRA,0.0
+sigmap,66,SIGMAP,0.0
+tethics,66,Tethics,0.0
+maics,66,MAICS,0.0
+csa3,66,CSA,0.0
+wcet,66,WCET,0.0
+essos,66,ESSoS,0.0
+aii2,66,AII,0.0
+tbillc,66,TbiLLC,0.0
+ccce,66,CCCE,0.0
+bigdas,65,BigDAS,0.0
+bdet,65,BDET,0.0
+wir,65,WIR,0.0
+lasi-spain,65,LASI Spain,0.0
+tacc,65,TACC,0.0
+tridentcom,65,TRIDENTCOM,0.0
+envirvis-ws,65,EnvirVis@EuroVis,0.0
+edge2,65,EDGE,0.0
+ssic,65,SSIC,0.0
+aims,65,AIMS,0.0
+rrnr,65,RRNR,0.0
+pcbbe,65,PCBBE,0.0
+gldv,65,GSCL,0.0
+case-ws,65,CASE@EMNLP,0.0
+openshmem,65,OpenSHMEM,0.0
+aaia,65,AAIA,0.0
+acal,64,ACALCI,0.0
+egh,64,High Performance Graphics (Short Papers),0.0
+jcdcg,64,JCDCGG,0.0
+aaltd,64,AALTD@ECML/PKDD,0.0
+icdcs2,64,ICDCS,0.0
+aiware,63,AIware,0.0
+daeng,63,DaEng,0.0
+bdaw,63,BDAW,0.0
+mlearn,63,mLearn,0.0
+ccsw-ws,63,CCSW,0.0
+ncs,63,NCS,0.0
+hcity,63,Hybrid City,0.0
+ase-bigdata,62,ASE BD&SI,0.0
+coin-ws,62,COIN(E)@AAMAS,0.0
+mdis,62,MDIS,0.0
+cncert,62,CNCERT,0.0
+lopal,62,LOPAL,0.0
+tea,62,TEA,0.0
+dependsys,62,DependSys,0.0
+fgct,62,FGCT,0.0
+iknow,62,I-KNOW,0.0
+vehiclesec,62,VehicleSec,0.0
+icxr,62,ICXR,0.0
+intellec,62,INTELLECT,0.0
+smt,62,SMT,0.0
+csiirw,62,CISRC,0.0
+abp,62,ABP,0.0
+dec,62,DEC,0.0
+ssn,61,SSN,0.0
+rcai,61,RCAI,0.0
+ehealth360,61,eHealth 360°,0.0
+ftvi,61,RVI,0.0
+hotedge,61,HotEdge,0.0
+safeprocess,61,DX,0.0
+mmb,61,MMB,0.0
+comso,61,CoMSO,0.0
+acl-socialnlp,61,SocialNLP@EACL,0.0
+icbinb,61,ICBINB@NeurIPS,0.0
+apscc,61,APSCC,0.0
+mippr,61,MIPPR,0.0
+bdva,61,BDVA,0.0
+icime,61,ICIME,0.0
+aicol,61,AICOL,0.0
+icyrime,60,ICYRIME,0.0
+cfi,60,CFI,0.0
+ftscs,60,FTSCS,0.0
+mc2,60,MC,0.0
+mendel,60,MENDEL,0.0
+cmlds,60,CMLDS,0.0
+sam,60,SAM,0.0
+wrla,60,WRLA,0.0
+sesc,59,SESC,0.0
+icmecg,59,ICMECG,0.0
+scis,59,SCIS,0.0
+ncdhws,59,NCDHWS (1),0.0
+cvc,59,CVC (1),0.0
+camlis,59,CAMLIS,0.0
+have,59,HAVE,0.0
+icits,59,ICITS,0.0
+dttis,59,DTTIS,0.0
+ieeeiccc,59,ICCC,0.0
+dli,59,DLI,0.0
+isair,59,ISAIR (2),0.0
+vem,59,VEM,0.0
+cecc,59,CECC,0.0
+mownet,59,MoWNet,0.0
+jckbse,59,JCKBSE,0.0
+itams,59,ITAMS,0.0
+acosis,58,ACOSIS,0.0
+notere,58,CFIP/NOTERE,0.0
+wscad,58,WSCAD,0.0
+cost,58,International KEYSTONE Conference,0.0
+ergoia,58,Ergo'IA,0.0
+euromlsys,58,EuroMLSys,0.0
+kryptotag,58,Krypto-Tag,0.0
+nlbse,58,NLBSE@ICSE,0.0
+iq,58,ICIQ,0.0
+tlt,58,TLT,0.0
+icse-seip,58,SEIP@ICSE,0.0
+aca,58,ACA,0.0
+icscib,58,ICSCIB,0.0
+mssis,58,MSSiS,0.0
+ictcsdm,57,ICTCSDM,0.0
+fse,57,FSE,0.0
+cavs,57,CAVS,0.0
+dosier,57,DoSIER,0.0
+netcoop,57,NetGCooP,0.0
+imet,57,IMET,0.0
+geoai,57,GeoAI@SIGSPATIAL,0.0
+cyphy,57,CyPhy,0.0
+infos,56,INFOS,0.0
+smm,56,SMM,0.0
+mrac,56,MRAC@MM,0.0
+muscle,56,IWCIM,0.0
+icdsm,56,ICDSM,0.0
+acl-wnlp,56,WNLP@ACL,0.0
+acl-alw,56,ALW,0.0
+mobiarch,56,MobiArch,0.0
+mmsports,56,MMSports@MM,0.0
+acl-figlang,56,Fig-Lang@ACL,0.0
+isit2,56,ISIT,0.0
+icusi,56,ICUSI,0.0
+datech,56,DATeCH,0.0
+lawcc,56,LAWCC@CLEI,0.0
+icaa2,56,ICAA,0.0
+seed,55,SEED,0.0
+acm,55,ACM TUR-C,0.0
+icta2,55,ICTA,0.0
+nds,55,nDS,0.0
+coapsn,55,COAPSN,0.0
+qi,55,QI,0.0
+clip-ws,55,CLIP@MICCAI,0.0
+icse-formalise,55,FormaliSE,0.0
+cai,55,CAI,0.0
+holomas,55,HoloMAS,0.0
+bci2,55,BCI,0.0
+iscram-med,55,ISCRAM-med,0.0
+snapl,54,SNAPL,0.0
+eeke,54,EEKE/AII@iConference,0.0
+idia,54,IDIA,0.0
+acmrep,54,ACM-REP,0.0
+gsw,54,Global Sourcing Workshop,0.0
+dils,54,DILS,0.0
+iccs-de,54,ICCS-DE,0.0
+octa,54,OCTA,0.0
+wbma,54,WBMA,0.0
+ewme,54,EWME,0.0
+sais,54,SAIS,0.0
+acl-nllp,54,NLLP@EMNLP,0.0
+inns-wc,54,INNS Conference on Big Data,0.0
+cpss,54,CPSS@AsiaCCS,0.0
+edemocracy,54,e-Democracy,0.0
+cmcs,54,CMCS,0.0
+lpkm,53,LPKM,0.0
+rivp,53,Real-Time Image and Video Processing,0.0
+scala,53,SCALA@ECOOP,0.0
+birws,53,BIR@ECIR,0.0
+eia,53,EI.A,0.0
+scvt,53,SCVT,0.0
+aclnmt,53,NMT@ACL,0.0
+africatek,53,AFRICATEK,0.0
+xovetic,53,XoveTIC,0.0
+scivis,53,SciVis,0.0
+sccg,53,SCCG,0.0
+apsitt,53,APSITT,0.0
+nccet,52,NCCET,0.0
+fdia,52,FDIA,0.0
+advait,52,AdvAIT,0.0
+inoc,52,INOC,0.0
+hvc,52,Haifa Verification Conference,0.0
+genderit,52,GenderIT,0.0
+cg,52,Computers and Games,0.0
+cslaw,52,CSLAW,0.0
+icpr-a,52,ICPR-Americas (1),0.0
+ifip6-3,52,SustainIT,0.0
+smartindustry,52,SMARTINDUSTRY,0.0
+adaeurope,52,Ada-Europe,0.0
+mates,52,MATES,0.0
+ethicomp,51,ETHICOMP,0.0
+dmiaf,51,DMIAF,0.0
+icmt,51,ICMT,0.0
+cyconus,51,CyCon U.S.,0.0
+icsc3,51,ICSC (2),0.0
+acl-bsnlp,51,BSNLP@EACL,0.0
+eianordic,51,EIA Nordic (2),0.0
+ccc2,51,CCC,0.0
+wcsc,50,WCSC,0.0
+limits,50,LIMITS,0.0
+sycss,50,SCSS (Work in Progress),0.0
+icse-apr,50,APR,0.0
+unireps,50,UniReps,0.0
+dsmlai,50,DSMLAI,0.0
+complenet,50,CompleNet,0.0
+icss3,50,ICSS,0.0
+cvcbt,50,CVCBT,0.0
+ccmt,50,CCMT,0.0
+codesisss,50,CODES+ISSS,0.0
+ecom,50,eCom@SIGIR,0.0
+qcav,49,QCAV,0.0
+ifip7,49,System Modelling and Optimization,0.0
+kkio,49,KKIO Software Engineering Conference,0.0
+spde,49,SPDE,0.0
+pac,49,PAC,0.0
+c3s2e,49,C3S2E,0.0
+icaicst,49,ICAICST,0.0
+har,49,HAR,0.0
+concepts,49,CONCEPTS,0.0
+dfn,49,DFN-Forum Kommunikationstechnologien,0.0
+summersoc,49,SummerSOC,0.0
+rrpr,49,RRPR,0.0
+esslli,49,ESSLLI Student Sessions,0.0
+ciise,48,CIISE,0.0
+exag,48,EXAG@AIIDE,0.0
+modast,48,MoDaST,0.0
+scai,48,SCAI,0.0
+hr-recsys,48,HR@RecSys,0.0
+mexihc,48,MexIHC,0.0
+cedem,48,CeDEM,0.0
+ei-ipmva,48,Image Processing: Machine Vision Applications,0.0
+isace,48,ISACE,0.0
+lanmr,48,LANMR,0.0
+companion,48,ICCT,0.0
+ijcar,48,IJCAR (1),0.0
+iwsg,48,IWSG,0.0
+seda,47,SEDA,0.0
+c3ai,47,C3AI,0.0
+dis2,47,DIS,0.0
+educhi,47,EduCHI,0.0
+wiced,47,WICED@Eurographics/EuroVis,0.0
+pkia,47,PKIA,0.0
+forge,47,Forge@ICSE,0.0
+hci-si,47,HCI-SI,0.0
+llm4code,47,LLM4CODE@ICSE,0.0
+icscc,47,ICSCC,0.0
+tokenomics,47,Tokenomics,0.0
+serp4iot,47,SERP4IoT,0.0
+ml4cps,47,ML4CPS,0.0
+cmcsn,47,CMCSN,0.0
+cita,47,CITA,0.0
+acl-ldl,47,LDL@IJCNLP,0.0
+arabwic,47,ArabWIC,0.0
+textgraphs,47,TextGraphs@EMNLP,0.0
+citie,47,CITIE,0.0
+macro,46,MACRo,0.0
+icyberphys,46,ICyberPhyS,0.0
+neurreps,46,NeurReps,0.0
+misc,46,MISC,0.0
+gerupa,46,UP,0.0
+acl-bucc,46,BUCC@ACL/IJCNLP,0.0
+ecbs,46,ECBS,0.0
+waf,46,WAF,0.0
+iccsit,46,ICCSIT,0.0
+natw,46,NATW,0.0
+wh,46,Wireless Health,0.0
+dbpl,46,DBPL,0.0
+scored,46,SCORED@CCS,0.0
+icbea,46,ICBEA,0.0
+enlsp,46,ENLSP,0.0
+bioinfomed,46,BioInfoMed,0.0
+scsquare,46,SC-Square@FLoC,0.0
+smds,45,SMDS,0.0
+iess,45,IESS,0.0
+qestformats,45,QEST+FORMATS,0.0
+dali,45,DaLÃ­,0.0
+sign-lang,45,sign-lang@LREC/COLING,0.0
+kbclm,45,KBC-LM/LM-KBC@ISWC,0.0
+arch,45,ARCH@ADHS,0.0
+nlperspectives,45,NLPerspectives@ECAI,0.0
+symbiotic,45,Symbiotic,0.0
+icai3,45,ICAI,0.0
+apascience,45,APAScience,0.0
+milcis,45,MilCIS,0.0
+ccs3,44,CcS,0.0
+bigdatase,44,BigDataSE,0.0
+society5,44,Society 5.0,0.0
+iceute,44,ICEUTE,0.0
+tktp,44,TKTP,0.0
+hotweb,44,HotWeb,0.0
+bdta,44,BDTA,0.0
+bncod,44,BICOD,0.0
+universai,44,UniversAI,0.0
+ieeehpsc,44,HPSC,0.0
+nais,44,NAIS,0.0
+rsfdgrc,44,RSFDGrC,0.0
+acl-insights,43,Insights@ACL,0.0
+tepra,43,TePRA,0.0
+ei-srv,43,Surveillance: Applications and Algorithms,0.0
+tto,43,TTO,0.0
+wadl,43,WADL,0.0
+aequitas,43,AEQUITAS@ECAI,0.0
+sar,43,SAR,0.0
+hopc,43,HOPC@SPAA,0.0
+rose-ws,43,RoSE@ICSE,0.0
+datalog,43,Datalog,0.0
+financecom,43,FinanceCom,0.0
+gscit,43,GSCIT,0.0
+serene,43,SERENE,0.0
+hscr,43,HSCR,0.0
+isecit,43,ISecIT,0.0
+icat,43,ICAT-EGVE,0.0
+wirn,43,WIRN,0.0
+etis,43,ETIS,0.0
+lanc,43,LANC,0.0
+acmpt,43,ACMPT,0.0
+ewsdn,43,EWSDN,0.0
+aisec-ws,42,AISec@CCS,0.0
+extraamas,42,EXTRAAMAS,0.0
+hldvt,42,HLDVT,0.0
+httf,42,HTTF,0.0
+panafricon,42,PanAfriCon AI,0.0
+networds,42,NetWordS,0.0
+discomt,42,DiscoMT@EMNLP,0.0
+kdweb,42,KDWeb,0.0
+icccri,42,ICCCRI,0.0
+semcco,42,SEMCCO/FANCCO,0.0
+cbc,42,CBCrypto,0.0
+biomesip,42,BIOMESIP,0.0
+mcu,42,MCU,0.0
+cecct,42,CECCT,0.0
+compay,42,COMPAY@MICCAI,0.0
+cloudforward,42,Cloud Forward,0.0
+estimedia,42,ESTIMedia,0.0
+tsa,42,TSA,0.0
+acl-deeplo,42,DeepLo@EMNLP-IJCNLP,0.0
+hscma,41,HSCMA,0.0
+viperc,41,VIPERC,0.0
+vecpar,41,VECPAR,0.0
+fmt,41,Forum Media Technology,0.0
+micrads,41,MICRADS,0.0
+ceri,41,CERI,0.0
+dighum,41,DIGHUM,0.0
+cncit,41,CNCIT,0.0
+icsdm,41,ICSDM,0.0
+sate,41,SATE,0.0
+sattose,41,SATToSE,0.0
+slpat,41,SLPAT@Interspeech,0.0
+fairdo,41,FDO,0.0
+ichmi,41,ICHMI,0.0
+npar,41,Expressive,0.0
+doors,40,doors,0.0
+mpc,40,MPC,0.0
+deem,40,DEEM@SIGMOD,0.0
+iam,40,IAM,0.0
+hilda,40,HILDA@SIGMOD,0.0
+ies2,40,IES,0.0
+aclnews,40,NEWS@ACL,0.0
+tishw,40,TISHW,0.0
+ittmm,40,ITTMM,0.0
+datacom,40,DataCom,0.0
+sa,40,SA,0.0
+dafx,40,DAFx,0.0
+elearning,40,eLearning,0.0
+biotc,40,BIOTC,0.0
+ctic,40,CTIC,0.0
+bd,40,BD,0.0
+cicsyn,40,CICSyN,0.0
+ciaw,40,CIAW,0.0
+itbam,40,ITBAM,0.0
+neus,40,NeuS,0.0
+tfm,40,FMTea,0.0
+3lperson,40,3L-Person,0.0
+isia2,39,ISIA,0.0
+pmbs-ws,39,PMBS@SC,0.0
+qurator,39,Qurator,0.0
+hcaiep,39,HCAIep,0.0
+nabic,39,NaBIC,0.0
+rectour,39,RecTour@RecSys,0.0
+sam-iot,39,eSAAM,0.0
+acrit,39,ACRIT,0.0
+ictes,39,ICTES,0.0
+esweek,39,WESE,0.0
+mcna,39,MCNA,0.0
+bfal,39,BFAL,0.0
+wcae,39,WCAE,0.0
+aimscm,39,AIMSCM,0.0
+miar,39,MIAR,0.0
+uhdl,39,UHDL,0.0
+akwi,38,AKWI Jahrestagung,0.0
+rjcia,38,RJCIA,0.0
+wamta,38,WAMTA,0.0
+cari,38,CARI,0.0
+csdp,38,CSDP,0.0
+slds,38,SLDS,0.0
+abc,38,ABC,0.0
+cori,38,OcRI,0.0
+sgames,38,SGAMES,0.0
+hpcse,38,HPCSE,0.0
+mam,38,Material Appearance Modeling,0.0
+hpc2,38,HPC,0.0
+scfa,38,SCFA,0.0
+cbi,38,CBI,0.0
+cscesm,38,CSCESM,0.0
+apres,38,APRES,0.0
+cpsiotsec,37,CPSIOTSEC@CCS,0.0
+iwcm,37,WAILS,0.0
+aabi,37,AABI,0.0
+gir,37,GIR,0.0
+wises,37,WISES,0.0
+ide,37,IDE@ICSE,0.0
+icetet,37,ICETET,0.0
+emmcvpr,37,EMMCVPR,0.0
+agere,37,AGERE!@SPLASH,0.0
+bisec,37,BISEC,0.0
+fsmnlp,37,FSMNLP,0.0
+jauti,37,jAUTI,0.0
+repeval,37,RepEval@ACL,0.0
+mcetech,37,MCETECH,0.0
+trustai,37,TRUST-AI@ECAI,0.0
+text2kg,37,TEXT2KG/DQMLKG@ESWC,0.0
+mbees,37,MBEES,0.0
+icse-qse,37,Q-SE,0.0
+iciks,37,ICIKS,0.0
+em-gis,37,EM-GIS,0.0
+hasp,37,HASP@MICRO,0.0
+ci2,37,CI,0.0
+acl-dialdoc,37,DialDoc@ACL-IJCNLP,0.0
+siamcsc,36,CSC,0.0
+greens,36,GREENS@ICSE,0.0
+dmah-ws,36,Poly/DMAH@VLDB,0.0
+lbs,36,LBS,0.0
+sessos,36,SESoS,0.0
+eups,36,EPS,0.0
+lanoms,36,LANOMS,0.0
+icsent,36,ICSENT,0.0
+elm,36,ELM,0.0
+hsb,36,HSB,0.0
+setss,36,SETSS,0.0
+mlsa,36,MLSA@PKDD/ECML,0.0
+isd2,36,ISD,0.0
+temu,36,TEMU,0.0
+delta,36,DELTA,0.0
+dataed,36,DataEd@SIGMOD,0.0
+lightsec,36,LightSec,0.0
+icse-encycris,36,EnCyCriS@ICSE,0.0
+eisa,35,EISA,0.0
+i4cs,35,I4CS,0.0
+ieeeids,35,IDS,0.0
+digitransfed,35,DigiTransfEd,0.0
+jcrai,35,JCRAI,0.0
+ict-eurasia,35,ICT-EurAsia/CONFENIS,0.0
+dagstuhl,35,Entertainment Computing and Serious Games,0.0
+drr,35,Document Recognition and Retrieval,0.0
+permin,35,PerMIn,0.0
+sportshci,35,SportsHCI,0.0
+uavm,35,UAVM,0.0
+botse-ws,35,BotSE,0.0
+sea2,35,SEA²,0.0
+enssys,35,ENSsys@SenSys,0.0
+rapido,35,RAPIDO@HiPEAC,0.0
+bdcsintell,35,BDCSIntell,0.0
+icfc,35,ICFC,0.0
+compimage,35,CompIMAGE,0.0
+cmna,35,CMNA@COMMA,0.0
+waai,35,WAAI/AIESD/WDEA/WKMIT/SCTSD/WSM,0.0
+icdse,34,ICDSE,0.0
+eoolt,34,EOOLT,0.0
+tiwdc,34,TIWDC,0.0
+icicis,34,ICICIS,0.0
+adiot,34,ADIoT,0.0
+sigrad,34,SIGRAD,0.0
+eurfid,34,EURFID,0.0
+patentsemtech,34,PatentSemTech@SIGIR,0.0
+geoindustry,34,GeoIndstry@SIGSPATIAL,0.0
+applied,34,ApPLIED@PODC,0.0
+riit,34,RIIT,0.0
+tools,34,TOOLS,0.0
+cogalex,34,CogALex@COLING,0.0
+cpsna,34,CPSNA,0.0
+asian-chi,34,Asian CHI@CHI,0.0
+isipers,34,ISIP,0.0
+spacechi,34,SpaceCHI,0.0
+ctte,34,CTTE-FITCE,0.0
+wm,34,WM,0.0
+ihaw,34,IHAW,0.0
+teachml,34,Teaching ML,0.0
+admit,34,ADMIT,0.0
+ichl,34,ICHL,0.0
+afcai,33,AfCAI,0.0
+iccl,33,ICCL,0.0
+cpsschool,33,"CPS Summer School, PhD Workshop",0.0
+ic2it,33,IC2IT,0.0
+mobimedia,33,MobiMedia,0.0
+sdsc,33,SDSC,0.0
+irehi,33,IREHI,0.0
+explimed,33,EXPLIMED@ECAI,0.0
+lfa,33,LFA,0.0
+fisee,33,FISEE,0.0
+iccsw,33,ICCSW,0.0
+icbicc,33,ICBICC,0.0
+acl-sighan,33,SIGHAN@IJCNLP,0.0
+netgames,33,NetGames,0.0
+ttc,33,Agile MDE/MeSS/TTC@STAF,0.0
+ausctw,33,AusCTW,0.0
+sis2,32,SIS,0.0
+acalci,32,ACALCI,0.0
+geneme,32,GeNeMe,0.0
+amdo,32,AMDO,0.0
+humansys,32,HumanSys@SenSys,0.0
+webdb,32,WebDB,0.0
+hm,32,HM,0.0
+hccs,32,HCCS,0.0
+yaisd,32,YAISD Workshops,0.0
+vale,32,VALE,0.0
+icgtis,32,ICGTIS,0.0
+leo-net,32,LEO-NET,0.0
+lenls,32,LENLS,0.0
+ptai,32,PT-AI,0.0
+cev,32,CEV,0.0
+dhm,32,DHM,0.0
+smartct,32,Smart-CT,0.0
+acl-nlpcss,32,NLP+CSS@EMNLP,0.0
+apocs,32,APOCS,0.0
+acl-spnlp,32,SPNLP@ACL-IJCNLP,0.0
+nl4ai,32,NL4AI@AI*IA,0.0
+scube,32,S-CUBE,0.0
+birte,32,BIRTE (Revised Selected Papers),0.0
+blocktea,32,BlockTEA,0.0
+wosc,32,WOSC@Middleware,0.0
+paisi,31,PAISI,0.0
+interiot,31,InterIoT/SaSeIoT,0.0
+worldcis,31,WorldCIS,0.0
+iptcomm,31,IPTComm,0.0
+obd,31,OBD,0.0
+naic,31,NAIC,0.0
+lasispain,31,LASI Europe,0.0
+wadt,31,WADT,0.0
+acl-clpsych,31,CLPsych@ACL,0.0
+etvis,31,ETVIS,0.0
+bigsdm,31,BigSDM,0.0
+inap,31,DECLARE,0.0
+lmac,31,LMAC,0.0
+cmse,31,CMSE,0.0
+acl-peoples,31,PEOPLES@NAACL-HTL,0.0
+icsed,31,ICSED,0.0
+mse,31,MSE,0.0
+isgt2,31,ISGT,0.0
+wetseb-ws,31,WETSEB,0.0
+ics-csr,31,ICS-CSR,0.0
+mol,31,MOL,0.0
+loresmt,31,LoResMT@MUSummit,0.0
+wcicss,31,WCICSS,0.0
+wop,31,WOP/HAIBRIDGE@ISWC,0.0
+acct,31,ACCT,0.0
+gazeml,31,Gaze Meets ML,0.0
+edu4ai,30,edu4AI@ECAI,0.0
+icds2,30,ICDS,0.0
+inc,30,INC,0.0
+africanlp,30,AfricaNLP,0.0
+widecom,30,WIDECOM,0.0
+vriphys,30,VRIPHYS,0.0
+iceac,30,ICEAC,0.0
+gram,30,GRaM,0.0
+gi-ws,30,GI@ICSE,0.0
+tafa,30,TAFA,0.0
+crc2,30,CRC,0.0
+icdar2,30,ICDAR@ICMR,0.0
+iwsib,30,IWSiB@ICSE,0.0
+eilm,30,EILM,0.0
+dcsmart,30,DCSMart,0.0
+icse-met,30,MET@ISSTA,0.0
+ro,30,RO,0.0
+mycrypt,30,Mycrypt,0.0
+cmn,30,CMN,0.0
+llvmhpc,30,LLVM-HPC@SC,0.0
+linhac,30,LINHAC,0.0
+uis,30,UIS,0.0
+icaa,30,ICAA,0.0
+damalos,30,DaMaLOS,0.0
+ifip9,30,HC,0.0
+works-ws,30,WORKS,0.0
+xai4cv,30,XAI4CV,0.0
+dsmsi,29,DSMSI (1),0.0
+ijclr,29,IJCLR,0.0
+iscai,29,ISCAI,0.0
+sdl,29,SDL Forum,0.0
+isgv,29,ISGV,0.0
+owled,29,OWLED,0.0
+swodch,29,SWODCH,0.0
+acl-mrqa,29,MRQA@EMNLP,0.0
+datamod,29,DataMod,0.0
+edb,29,EDB,0.0
+ifgis,29,IF&GIS,0.0
+neurotechnix,29,NEUROTECHNIX,0.0
+assri,29,ASSRI,0.0
+itn-dch,29,ITN-DCH,0.0
+cbse,29,CBSE,0.0
+cloudcom-asia,29,CloudCom-Asia,0.0
+cmmca,29,CMMCA@MICCAI,0.0
+sicsa,29,SICSA ReaLX,0.0
+ttcs,29,TTCS,0.0
+urbanai,29,UrbanAI,0.0
+bcc,29,BCC,0.0
+sfpvv,29,SFPVV,0.0
+r3geo,29,R3GEO,0.0
+qccl,29,qCCL,0.0
+msm,29,#MSM,0.0
+tllm,29,TLLM,0.0
+amihealth,29,AmIHEALTH,0.0
+qosa,28,QoSA,0.0
+ifip5-8,28,IWEI,0.0
+iwow,28,IWOW,0.0
+preregister,28,Preregister@NeurIPS,0.0
+safeconfig,28,SafeConfig@CCS,0.0
+hikm,28,HIKM,0.0
+searis,28,SEARIS,0.0
+evocop,28,EvoStar,0.0
+farm,28,FARM,0.0
+ebpf,28,eBPF@SIGCOMM,0.0
+expanded,28,Expanded,0.0
+cinaic,28,CINAIC,0.0
+mmmacns,28,MMM-ACNS,0.0
+cisda,28,CISDA,0.0
+ai2a,28,AI2A,0.0
+infosec,28,InfoSec,0.0
+lidta,28,LIDTA,0.0
+rcra,28,AI4CC-IPS-RCRA-SPIRIT@AI*IA,0.0
+fetlt,28,FETLT,0.0
+stids,28,STIDS,0.0
+recsogood,28,RecSoGood@RecSys,0.0
+ldt,28,LDT,0.0
+iwssl,28,IWSSL,0.0
+sds3,27,SDS@ESWC,0.0
+cybersec,27,CyberSec,0.0
+aistds,27,AISTDS,0.0
+semanticaudio,27,Semantic Audio,0.0
+iwaal,27,IWAAL,0.0
+nutmic,27,NuTMiC,0.0
+evostar,27,EvoApplications@EvoStar,0.0
+gramsec,27,GraMSec,0.0
+plos,27,PLOS@SOSP,0.0
+ifip3-4,27,SUZA,0.0
+wdc,27,WDC@AsiaCCS,0.0
+itag,27,iTAG,0.0
+wcci,27,CI4PM/PAI@WCCI,0.0
+fededge,27,FedEdge@MobiCom,0.0
+enlg,27,ENLG,0.0
+vikingplop,27,VikingPLoP,0.0
+adms,27,ADMS@VLDB,0.0
+ai3,27,AI³@AI*IA,0.0
+aicsp,27,AI-CSP,0.0
+icitkm,27,ICITKM,0.0
+wikidata,26,Wikidata@ISWC,0.0
+mmve,26,MMVE@MMSys,0.0
+tag,26,TAG,0.0
+dtuc,26,DTUC,0.0
+tia,26,TIA,0.0
+gascom,26,GASCom,0.0
+aixedu,26,AIxEDU@AI*IA,0.0
+mcge,26,MCGE@MM,0.0
+trust,26,TRUST,0.0
+miga,26,MiGA@IJCAI,0.0
+intrs,26,IntRS@RecSys,0.0
+iissc,26,IISSC/CN4IoT,0.0
+isum,26,ISUM,0.0
+semdeep,26,SemDeep@IWCS,0.0
+cug,26,CUG,0.0
+ieeeias,26,IAS,0.0
+acmeas,26,ACM Europe Summer School,0.0
+cosn,26,COSN,0.0
+ge-ws,26,GEICSE@ICSE,0.0
+ppsc,26,PP,0.0
+urbiot,26,Urb-IoT,0.0
+opml,26,OpML,0.0
+ssct,26,SSCT,0.0
+graphonomics,26,IGS,0.0
+saiv,26,SAIV,0.0
+lt4dh,25,LT4DH@COLING,0.0
+acl-trac,25,TRAC@LREC,0.0
+csbio,25,CSBio,0.0
+sageo,25,SAGEO,0.0
+ashes,25,ASHES@CCS,0.0
+acl-cl4lc,25,CL4LC@COLING 2016,0.0
+imr,25,IMR,0.0
+ew,25,EW,0.0
+geosim,25,GeoSim@SIGSPATIAL,0.0
+onlinegreencomm,25,OnlineGreenComm,0.0
+ismco,25,ISMCO,0.0
+gkr,25,GKR,0.0
+ifip13-5,25,HCSE/HESSD,0.0
+lsr,25,LSR,0.0
+bait,25,BAIT,0.0
+eghpg,25,High Performance Graphics (Symposium Papers),0.0
+iwesep,25,IWESEP,0.0
+ftal,25,FTAL,0.0
+fomi,25,FOMI,0.0
+udmv,25,UDMV,0.0
+ftfjp,25,FTfJP@ECOOP,0.0
+bidede,25,BiDEDE@SIGMOD,0.0
+icse-seeng,25,SEENG@ICSE,0.0
+icse-gas,25,GAS,0.0
+ice-b,25,ICE-B,0.0
+braincomp,25,BrainComp,0.0
+aitais,25,AIT&AIS,0.0
+wsese,25,WSESE@ICSE,0.0
+ysip,25,YSIP,0.0
+cqpc,25,CQPC,0.0
+lasd,25,LASD,0.0
+iscipt,25,ISCIPT,0.0
+greenai,24,GreenAI@AI*IA,0.0
+sustainlp,24,SustaiNLP,0.0
+aiiima,24,AIIIMA,0.0
+cnhpca,24,HPCA (China),0.0
+dimes,24,DIMES@SOSP,0.0
+feast,24,FEAST@CCS,0.0
+inra,24,INRA@RecSys,0.0
+wlsi,24,WLSI/OIAF4HLT@COLING,0.0
+fmbc,24,FMBC@CAV,0.0
+semiim,24,SemIIM,0.0
+wahc,24,WAHC@CCS,0.0
+aiqxqia,24,AIQxQIA@AI*IA,0.0
+lala,24,LALA,0.0
+isse,24,ISSE,0.0
+d2r2,24,D2R2,0.0
+asiapkc,24,APKC@AsiaCCS,0.0
+hmwc,24,HMWC,0.0
+humob,24,HuMob-Challenge@SIGSPATIAL,0.0
+icmcta,24,ICMCTA,0.0
+paar,24,PAAR+SC²@IJCAR,0.0
+cascade,24,CASCADE,0.0
+semdh,24,SemDH,0.0
+acl-deelio,24,DeeLIO@NAACL-HLT,0.0
+edurobotics,24,EDUROBOTICS,0.0
+safer-tea,24,SAFER-TEA,0.0
+conga,24,CoNGA,0.0
+llms4ol,24,LLMs4OL@ISWC,0.0
+grec,24,GREC,0.0
+muse,24,MuSe@ACM Multimedia,0.0
+techdebt,24,TechDebt@ICSE,0.0
+engage,24,ENGAGE,0.0
+erpf,24,ERP Future,0.0
+lvi,24,Law via the Internet,0.0
+rfidsec,24,RFIDSec,0.0
+icss2,23,ICSS,0.0
+cesar,23,C&ESAR,0.0
+eurocybersec,23,Euro-CYBERSEC,0.0
+ecweb,23,EC-Web,0.0
+pmai,23,PMAI@ECAI,0.0
+deepbdb,23,DBB,0.0
+rr,23,RR,0.0
+sgcrc,23,SG-CRC,0.0
+eucognition,23,EUCognition,0.0
+acl-vl,23,VL@EMNLP,0.0
+ragekg,23,RAGE-KG@ISWC,0.0
+rail,23,RAIL,0.0
+msan,23,MSAN,0.0
+tailor,23,TAILOR,0.0
+mlvis-ws,23,MLVis@EuroVis,0.0
+skm,23,SKM,0.0
+tlca,23,TLCA,0.0
+mchm,23,MCHM@MM,0.0
+ems2,23,EMS@SIGCOMM,0.0
+eris,23,ERIS,0.0
+gamify,23,Gamify@SIGSOFT FSE,0.0
+lq,23,LQ,0.0
+icaita,23,ICAITA,0.0
+syde,23,SyDe Summer School,0.0
+pacmi,23,PACMI@SOSP,0.0
+ewili,23,EWiLi,0.0
+aclwac,23,WAC@ACL,0.0
+spline,23,SPLINE,0.0
+fmano,23,FMANO@SIGCOMM,0.0
+isddc,23,ISDDC,0.0
+rsae,22,RSAE,0.0
+hciaero,22,HCI-Aero,0.0
+decat,22,DECaT,0.0
+sci-k,22,Sci-K@ISWC,0.0
+aclevents,22,EVENTS@HLP-NAACL,0.0
+sewebmeda,22,SeWeBMeDA@ESWC,0.0
+kgcw,22,KGCW@ESWC,0.0
+fwc,22,FWC,0.0
+sacla,22,SACLA,0.0
+ittcs,22,ITTCS,0.0
+jinis,22,JINIS,0.0
+coop,22,COOP,0.0
+icse-wain,22,WAIN@ICSE,0.0
+cnl,22,CNL,0.0
+iciia,22,ICIIA,0.0
+hbu,22,HBU,0.0
+sumac-ws,22,SUMAC@ ACM Multimedia,0.0
+syscom,22,SysCom,0.0
+ambn,22,AMBN,0.0
+spaca,22,SPACA,0.0
+witfor,22,WITFOR,0.0
+cgames,22,CGAMES,0.0
+macom,22,MACOM,0.0
+mprss,22,MPRSS,0.0
+dhw,22,DHW,0.0
+imf,22,IMF,0.0
+nslp,21,NSLP,0.0
+weis,21,WEIS,0.0
+clfl,21,CLfL@NAACL-HLT,0.0
+ioecon,21,IoECon,0.0
+dnis,21,DNIS,0.0
+chai,21,CHAI/FCR@KI,0.0
+aibio,21,AIBio@ECAI,0.0
+ratio,21,RATIO,0.0
+raie,21,RAIE,0.0
+beware,21,BEWARE@AI*IA,0.0
+hapoc,21,HaPoC,0.0
+infrkm,21,CAMP,0.0
+icse-deeptest,21,DeepTest@ICSE,0.0
+altnlp,21,ALTNLP,0.0
+dices,21,DiCES-N,0.0
+iseaisap,21,ISEA-ISAP,0.0
+acai3,21,ACAI,0.0
+dhandnlp-ws,21,DHandNLP@PROPOR,0.0
+aissle,21,AISSLE,0.0
+splst,21,SPLST,0.0
+aixhmi,21,AIxHMI@AI*IA,0.0
+jhpcs,21,JHPCS,0.0
+gpgpu,21,GPGPU@PPoPP,0.0
+empathich,21,EMPATHICH,0.0
+kars,21,KaRS@RecSys,0.0
+iwsw,21,IWSW,0.0
+vrar,21,VR/AR,0.0
+cwmt,21,CWMT,0.0
+aimlr,21,AIMLR,0.0
+spigl,21,SPIGL,0.0
+ictce,21,ICTCE,0.0
+stairs,21,STAIRS,0.0
+cefp,21,CEFP,0.0
+commonsense,21,COMMONSENSE,0.0
+wocci,21,WOCCI,0.0
+dada,21,DADA@IJCAI,0.0
+ebiss,21,eBISS,0.0
+ecdp,21,ECDP,0.0
+itas,21,IT&AS,0.0
+sg,20,Smart Graphics,0.0
+utp,20,UTP,0.0
+hotcarbon,20,HotCarbon,0.0
+wssanlp,20,WSSANLP@COLING,0.0
+netecon,20,NetEcon@SIGMETRICS,0.0
+bbgi,20,BBGI,0.0
+idmb,20,IDMB,0.0
+aila,20,AILA,0.0
+scctt,20,SCCTT,0.0
+cvmlh,20,WINS/CVMLH,0.0
+issp,20,ISSP,0.0
+text2story,20,Text2Story@ECIR,0.0
+moba,20,MOBA,0.0
+ci,20,CI,0.0
+gandalf,20,OVERLAY@GandALF,0.0
+etaa,20,ETAA,0.0
+cae,20,CAe@Expressive,0.0
+fair2,20,FAIR,0.0
+aisc,20,AISC,0.0
+mseem,20,MS,0.0
+mda,20,MDA,0.0
+fuzzing,20,FUZZING,0.0
+icson,20,ICSON,0.0
+creai,20,CREAI@AI*IA,0.0
+sesame,20,SESAME@EuroSys,0.0
+hytra,20,HyTra@ACL,0.0
+aicts,20,AICTS,0.0
+p3hpc-ws,20,P3HPC@SC,0.0
+ttsiit,19,TTSIIT,0.0
+risk,19,RISK,0.0
+mcs,19,MCS,0.0
+amlda,19,AMLDA,0.0
+iciea,19,ICIEA-EU,0.0
+sibw,19,SiBW,0.0
+afci,19,AFME,0.0
+sigtype,19,SIGTYPE,0.0
+cita2,19,CITA-DW,0.0
+tophpc,19,TopHPC,0.0
+aisd2,19,AISD,0.0
+iqsoft,19,IQSOFT,0.0
+diss,19,DiSS,0.0
+ipcat,19,IPCAT,0.0
+ipmvm,19,iPMVM,0.0
+ukrprogiit,19,UkrProg-IIT,0.0
+i-do,19,I-DO,0.0
+strl,19,STRL@IJCAI,0.0
+fods,19,FODS,0.0
+netcod,19,NetCod,0.0
+lamps,19,LAMPS@CCS,0.0
+jtres,19,JTRES,0.0
+ssspr,19,S+SSPR,0.0
+lacl,19,LACL,0.0
+ivs2,19,IVS,0.0
+acl-dmtw,19,DMTW,0.0
+spicit,19,SPICIT,0.0
+pos2,19,SMT/POS@CP/SAT/SoCS,0.0
+geosearch,19,GeoSearch,0.0
+evallac,19,EcalLAC@AIED,0.0
+sci2,19,SCI,0.0
+wiphal,18,WIPHAL,0.0
+dff,18,DFF@MM,0.0
+asiaccsscc,18,SBC@AsiaCCS,0.0
+iwost,18,IWOST-2,0.0
+ifip,18,IFIPIoT@WCC,0.0
+area,18,AREA@ECAI,0.0
+dateso,18,DATESO,0.0
+acl-convai,18,ConvAI@ACL,0.0
+wflp,18,WFLP,0.0
+ial,18,IAL@PKDD/ECML,0.0
+useware,18,Useware,0.0
+lsfa,18,LSFA,0.0
+lifelike,18,LIFELIKE,0.0
+vmil,18,VMIL@SPLASH,0.0
+adp,18,ADP,0.0
+vrtch,18,VRTCH,0.0
+voy,18,VOY,0.0
+cea,18,CEA@ICMR,0.0
+etaps,18,Bx@ETAPS,0.0
+netsci,18,NetSci-X,0.0
+monterey,18,Monterey Workshop,0.0
+mecc2,18,MECC@EuroSys,0.0
+energieinformatik,18,D-A-CH EI,0.0
+bcss,18,BCSS,0.0
+pw,18,Provenance Week@SIGMOD,0.0
+aims-ws,18,AIMS,0.0
+aisafety,18,AISafety/SafeRL@IJCAI,0.0
+pahi,18,PAHI,0.0
+aag,18,AAG,0.0
+flaiec,18,FLAIEC,0.0
+ansya,18,ANSyA@ECAI,0.0
+geoanomalies,18,GeoAnomalies@SIGSPATIAL,0.0
+bcs,18,BCD,0.0
+mai-xai,18,MAI-XAI@ECAI,0.0
+emc2,18,EMC2@HPCA/CVPR/ISCA,0.0
+at,17,AT,0.0
+hcma,17,HCMA@MM,0.0
+infoseccd,17,InfoSecCD,0.0
+insid,17,INSID,0.0
+kpdays,17,SSP,0.0
+ir-rag,17,IR-RAG@SIGIR,0.0
+wot,17,WoT,0.0
+aninex,17,AniNex,0.0
+inf-dh,17,INF-DH,0.0
+snsfait,17,SNSFAIT,0.0
+riot,17,RIoT,0.0
+baitmp,17,BAITmp,0.0
+explains,17,EXPLAINS,0.0
+aisd,17,AISD,0.0
+cal,17,CAL,0.0
+aiat,17,AIAT,0.0
+narsum,17,NarSUM@MM,0.0
+neo,17,NEO,0.0
+laser,17,DEVOPS,0.0
+de,17,DEC@SIGMOD,0.0
+cosine,17,CoSinE,0.0
+atacss,17,ATACCS,0.0
+edgesys,17,EdgeSys@EuroSys,0.0
+iicst,17,IICST,0.0
+automationxp,17,AutomationXP@CHI,0.0
+ccmcc,17,CCMCC,0.0
+swste,17,SwSTE,0.0
+c3gi,17,TriCoLore (C3GI/ISD/SCORE),0.0
+slerd,17,SLERD,0.0
+cdceo,17,CDCEO@IJCAI,0.0
+robontics,17,RobOntics@ROBOTICC,0.0
+cnia,17,CNIA,0.0
+ai4kmes,17,AI4KMES@ECAI,0.0
+mmcs,17,MMCS,0.0
+cmsc,17,CMSC,0.0
+scala-ws,16,ScalA@SC,0.0
+icdipc,16,ICDIPC,0.0
+imamr,16,IMAMR,0.0
+healthsec,16,HealthSec@CCS,0.0
+localrec,16,LocalRec@SIGSPATIAL,0.0
+kg4s,16,KG4S@ESWC,0.0
+defactify,16,DE-FACTIFY@AAAI,0.0
+semats,16,SeMatS@SEMANTiCS,0.0
+wco,16,WCO,0.0
+edurobx,16,EduRobotX@EC-TEL,0.0
+wcdcc,16,WCDCC@ICCC,0.0
+human2,16,HUMAN@HT,0.0
+agiledc,16,AGILE,0.0
+mbd,16,MBD,0.0
+tml4h,16,TML4H,0.0
+micml,16,MICML,0.0
+awict,16,AWICT,0.0
+mlde,16,ML-DE,0.0
+aibc,16,AIBC,0.0
+icarti,16,icARTi,0.0
+stiot,16,STIoT,0.0
+murs,16,MuRS@RecSys,0.0
+ncca,16,NCCA,0.0
+aimmes,16,AIMMES,0.0
+normalize,16,NORMalize@RecSys,0.0
+evia,16,EVIA@NTCIR,0.0
+cce2,16,CCE,0.0
+gnnet,16,GNNet@CoNEXT,0.0
+papoc,16,PaPoC@EuroSys,0.0
+calm,16,CALM,0.0
+simbad,16,SIMBAD,0.0
+innovate-data,16,Innovate-Data,0.0
+repss,16,RePSS@IJCAI,0.0
+wows,16,WOWS@ECIR,0.0
+xmeeting,16,X-Meeting,0.0
+dl4kg,15,DL4KG@ISWC,0.0
+wintech,15,WiNTECH,0.0
+chinz,15,CHINZ,0.0
+finrec,15,FINREC,0.0
+icghpc,15,ICGHPC,0.0
+devops-ws,15,DEVOPS,0.0
+acl-alr,15,ALR@COLING,0.0
+gamilearn,15,GamiLearn,0.0
+fab,15,FAB,0.0
+aire-ws,15,AIRE@RE,0.0
+ethnlp,15,EthNLP@EACL,0.0
+sest,15,SEST,0.0
+aigel,15,AIGEL,0.0
+igisc,15,iGISc,0.0
+ddpchi,15,DDPCHI@CHI,0.0
+explai,15,ExplAI,0.0
+spatialconnect,15,SpatialConnect,0.0
+opensky,15,OpenSky,0.0
+graph,15,GRAPH,0.0
+comhum,15,COMHUM,0.0
+eurorvvv-ws,15,EuroRV³@EuroVis,0.0
+evolve,15,EVOLVE,0.0
+mcqmc,15,MCQMC,0.0
+adkdd,15,AdKDD@KDD,0.0
+semtech4stld,15,SemTech4STLD@ESWC,0.0
+saia,15,SAIA,0.0
+soap-ws,15,SOAP@PLDI,0.0
+iwisc,15,IWISC,0.0
+bdai,15,BDAI,0.0
+intrust,15,INTRUST,0.0
+ieeeisic,15,ISIC,0.0
+sbm,15,SBIM@Expressive,0.0
+pasm,15,PASM,0.0
+sosy,15,SoSy,0.0
+ifdad,15,IFDaD,0.0
+geomedia,15,GeoMedIA,0.0
+kodis,15,KoDis+CAKR@KR,0.0
+sectl,15,SecTL@AsiaCCS,0.0
+sea4dq,15,SEA4DQ@SIGSOFT FSE,0.0
+iaai2,15,IAAI/ALA@ECAI,0.0
+flexscience,14,FlexScience@HPDC,0.0
+microservices,14,Microservices,0.0
+rcve,14,RCVE,0.0
+nlxai,14,NL4XAI@INGL,0.0
+cap,14,PASCO,0.0
+ccnlg,14,CC-NLG,0.0
+healthrecsys,14,HealthRecSys@RecSys,0.0
+sumob,14,SuMob@SIGSPATIAL,0.0
+cdssk,14,CDSSK,0.0
+mesoca,14,MESOCA,0.0
+mfps,14,MFPS,0.0
+tomteams,14,ToM for Teams,0.0
+ai4gs,14,AI4GS,0.0
+igsc,14,IGSC,0.0
+debt,14,DEBT@ISSTA,0.0
+ithgc,14,ITHGC,0.0
+eduhpc,14,EduHPC@SC,0.0
+rfmi,14,RFMI,0.0
+p2p,14,P2P,0.0
+qunet,14,QuNet@SIGCOMM,0.0
+sc-iaaa,14,IA3@SC,0.0
+fgcn,14,FGCN,0.0
+apbpm,14,AP-BPM,0.0
+wcds,14,WCDS@SMICS,0.0
+adt,14,WADT,0.0
+visgap-ws,14,VisGap@EuroVis,0.0
+cpscip,14,CPS4CIP,0.0
+sne,14,SNE,0.0
+molva-ws,14,MolVa@EuroVis,0.0
+tesca,14,TESCA,0.0
+sats,14,SaTS@CCS,0.0
+tai4h,13,TAI4H,0.0
+mlmhd,13,ML4MHD,0.0
+mmgr,13,MMGR@MM,0.0
+scid,13,SCID@AsiaCCS,0.0
+gc,13,GC,0.0
+smbm,13,SMBM,0.0
+kil,13,KiL@KDD,0.0
+correctness,13,Correctness@SC,0.0
+aixpac,13,AIxPAC@AI*IA,0.0
+jva,13,JVA,0.0
+mo2re,13,MO2RE@ICSE,0.0
+waccpd-ws,13,WACCPD@SC,0.0
+hermeneutics,13,Digital Hermeneutics,0.0
+acl-workshops,13,WebNLG,0.0
+crone,13,CRoNe,0.0
+vortex,13,VORTEX@ISSTA,0.0
+csw,13,CSW@WSDM,0.0
+ait,13,AIT,0.0
+jeri,13,JERI,0.0
+ixr,13,IXR@MM,0.0
+jaiio,13,SAOA@JAIIO,0.0
+synergy,13,SYNERGY@AVI,0.0
+cisn,13,CISN,0.0
+icdpa,13,ICDPA,0.0
+xaiit,13,XAI.it@AI*IA,0.0
+serip-ws,13,SER&IP@ICSE,0.0
+ahpcai,13,AHPCAI,0.0
+icsmm,13,ICSMM,0.0
+egcee,13,EGC,0.0
+odls,13,ODLS,0.0
+nwised,13,NWISEd,0.0
+dares,13,DARES@ECAI,0.0
+vaam,13,VAAM/FFER@ICPR,0.0
+qualita,13,QualITA,0.0
+gmsys,13,GMSys@MMSys,0.0
+ftw,13,FTW@ICSE,0.0
+funarch,13,FUNARCH,0.0
+sgp,13,SGP (Posters),0.0
+att,13,ATT@ECAI,0.0
+netscix,13,NetSci-X,0.0
+icsp2,13,ICSP,0.0
+iccic,13,ICCIC,0.0
+memics,13,MEMICS,0.0
+isuvr,13,ISUVR,0.0
+sfm,13,SFM,0.0
+artman,13,ARTMAN@CCS,0.0
+haid,13,HAID,0.0
+mid4cc,13,Mid4CC@Middleware,0.0
+determined,13,DETERMINED,0.0
+ils,13,ILS,0.0
+q-data,12,Q-DATA@SIGMOD,0.0
+free5gc,12,free5GC@CCS,0.0
+arduous,12,ARDUOUS@ECAI,0.0
+algos,12,ALGOS,0.0
+aitomorrow,12,AI Tomorrow,0.0
+aiofai,12,AiOfAi@IJCAI,0.0
+iwsls2,12,IWSLS²,0.0
+hefa,12,HEFA,0.0
+cspf,12,CSP Forum,0.0
+probnum,12,ProbNum,0.0
+ei-cvaa,12,Computer Vision and Image Analysis of Art,0.0
+aiseer,12,AISEER@ECAI,0.0
+birs,12,BIRS-IMLKE,0.0
+hyperagents,12,HyperAgents@ECAI,0.0
+hlc,12,HLC,0.0
+icse-seh,12,SEH@ICSE,0.0
+tahri,12,TAHRI,0.0
+tdi,12,TDI,0.0
+indis-ws,12,INDIS@SC,0.0
+qrsec,12,QRSEC@CCS,0.0
+handy,12,HANDY,0.0
+fogiot,12,Fog-IoT,0.0
+fmfun,12,FMFun,0.0
+qp4se,12,QP4SE@SIGSOFT FSE,0.0
+amf,12,Biomechanics of Anthropomorphic Systems,0.0
+avich,12,AVICH@AVI,0.0
+amc-sme,12,AMC-SME,0.0
+defi,12,DeFi@CCS,0.0
+muws,12,MUWS@MM,0.0
+inaut,12,INAUT,0.0
+realxr,12,RealXR@AVI,0.0
+seia-ws,12,ACSE,0.0
+balkancryptsec,12,BalkanCryptSec,0.0
+apccm,12,APCCM,0.0
+pdsw,12,PDSW@SC,0.0
+ssst,12,SSST@NAACL-HLT,0.0
+openran,12,OpenRan@MobiCom,0.0
+twsdetection,12,TWSDetection,0.0
+stem,12,STEM@ICon-MaSTEd,0.0
+epsec,12,ES,0.0
+isko-uk,12,ISKO-UK,0.0
+stict,12,StICT,0.0
+netaisys,12,NetAISys@MobiSys,0.0
+icmb,12,ICMB,0.0
+papis,12,PAPIs,0.0
+omnet,12,OMNeT++,0.0
+grandgamesbr,12,GranDGamesBR,0.0
+histoinfo,11,HistoInformatics@CIKM,0.0
+wins,11,WINS,0.0
+wifo,11,WiFo,0.0
+kddcd,11,CDPD,0.0
+dsail,11,D-SAIL@AIED,0.0
+amsmeet,11,AMS-EMS-SPM Joint Meeting,0.0
+xloop-ws,11,XLOOP@SC,0.0
+ebecegc,11,EBECEGC,0.0
+swm,11,Software Management,0.0
+cerciras,11,CERCIRAS,0.0
+automotivess,11,Automotive - Safety & Security,0.0
+russir,11,RuSSIR,0.0
+syncop,11,SynCoP,0.0
+sfcm,11,SFCM,0.0
+ncs2,11,NCS,0.0
+sgsoacs,11,SGSOACS,0.0
+systex,11,SysTEX@CCS,0.0
+haic,11,HAIC@ECAI,0.0
+fcpc,11,FCPC@PPOPP,0.0
+smartsp,11,SmartSP,0.0
+csw2,11,CSW,0.0
+bpoe,11,BPOE,0.0
+acm2,11,ACM,0.0
+modre-ws,11,MoDRE@RE,0.0
+faa,11,FAA,0.0
+socialcom,11,SocialCom,0.0
+checkmate,11,Checkmate@CCS,0.0
+hi-ai,11,HI-AI@KDD,0.0
+idp,11,IDP,0.0
+ei,11,Retinex at 50,0.0
+copda,11,CoPDA@AVI,0.0
+iwseco,11,IWSECO,0.0
+luhme,11,LUHMEi@ECAI,0.0
+emip,11,EMIP@ICSE,0.0
+paint,11,PAINT@SPLASH,0.0
+ricss,11,RICSS@CCS,0.0
+chddh,11,CHDDH,0.0
+envsys,11,EnvSys@MobiSys,0.0
+ore,11,ORE,0.0
+itea,11,ITEA,0.0
+raai,11,RAAI Summer School,0.0
+anticovid,11,ANTICOVID,0.0
+hcds,11,HCDS,0.0
+lgm3a,11,LGM3A@MM,0.0
+itap,11,ITAP,0.0
+m2p,11,M2P,0.0
+europ4,11,EuroP4@CoNEXT,0.0
+aidm,11,aiDM@SIGMOD,0.0
+trap,11,TRAP,0.0
+marami,11,MARAMI,0.0
+finanse,11,FinanSE@ICSE,0.0
+siit,11,SIIT,0.0
+cybersec4europe,11,CyberSec4Europe,0.0
+rsff,11,RSFF,0.0
+kisv,10,KISV@SOSP,0.0
+genaila,10,GenAI-LA@LAK,0.0
+bs,10,BS,0.0
+arqnl,10,ARQNL@IJCAR,0.0
+plansig,10,PlanSIG,0.0
+jfpda,10,JFPDA,0.0
+icse-bokss,10,BoKSS@ICSE,0.0
+mlops,10,MLOps@ECAI,0.0
+immercom,10,ImmerCom,0.0
+mmas,10,MMAS,0.0
+fomms,10,FOMMS,0.0
+imsc,10,IMSC@JCDL,0.0
+aixas,10,AIxAS@AI*IA,0.0
+xaikrkg,10,XAI-KRKG/UCEC-XAI@ECAI,0.0
+ecml,10,Meta-Knowledge Transfer @ ECML/PKDD,0.0
+nlp4kgc,10,NLP4KGC@SEMANTiCS,0.0
+spatialepi,10,SpatialEpi@SIGSPATIAL,0.0
+sat-cps,10,SAT-CPS@CODASPY,0.0
+nsad,10,NSAD@SAS,0.0
+nora,10,NORA@NeurIPS,0.0
+madima,10,MADiMa@MM,0.0
+caws,10,CAWS,0.0
+camtraps,10,CamTraps,0.0
+spacesec,10,SpaceSec,0.0
+exampi,10,ExaMPI@SC,0.0
+hdi,10,HDI,0.0
+ekgllm,10,EKG-LLM@CIKM,0.0
+cvww,10,CVWW,0.0
+icetasi,10,ICETASI,0.0
+canopie-hpc,10,CANOPIE-HPC@SC,0.0
+lambda-net,10,LAMBDA-PhD,0.0
+ftxs,10,FTXS@SC,0.0
+amec,10,AMEC/TADA,0.0
+ai-sipm,10,AI-SIPM,0.0
+dfds,10,DFDS,0.0
+guide-ai,10,GUIDE-AI@SIGMOD,0.0
+fit4medrob,10,Fit4MedRob@ICSR+AI,0.0
+rage,10,RAGE@SenSys,0.0
+mstec,10,MSTEC,0.0
+tgc,10,TGC,0.0
+gttse,10,GTTSE,0.0
+citsc,10,CITSC,0.0
+histlang,10,ListLang@NoDaLiDa,0.0
+dmrs,10,DMRS,0.0
+dilend,10,DILeND,0.0
+dttl,10,DTTL,0.0
+destion,9,DESTION@CPSIoTWeek,0.0
+edgefm,9,EdgeFM@MobiSys,0.0
+dbtest-ws,9,DBTest@SIGMOD,0.0
+mlhpc-ws,9,MLHPC@SC,0.0
+mlcsb,9,MLCSB,0.0
+espmm,9,ESPM2@SC,0.0
+wsfm,9,WS-FM,0.0
+geogenagent,9,GeoGenAgent,0.0
+altars,9,ALTARS@ECIR,0.0
+daoxai,9,DAO-XAI@ECAI,0.0
+ecss,9,ECSS,0.0
+wdam,9,WDAM,0.0
+wcssl,9,CSSL,0.0
+arecca,9,AReCCa@TABLEAUX,0.0
+quanswer,9,QANSWER,0.0
+frame,9,FRAME@HPDC,0.0
+ifip11-4,9,iNetSeC,0.0
+bighpc,9,BigHPC@ITADATA,0.0
+iwcts-ws,9,IWCTS@SIGSPATIAL,0.0
+auisc,9,AISC,0.0
+auic,9,AUIC,0.0
+clif,9,CLiF,0.0
+icsibo,9,ICSIBO,0.0
+h2rc,9,H2RC@SC,0.0
+tl4nlp,9,TL4NLP,0.0
+iwpse,9,IWPSE,0.0
+f4mr,9,F4MR@AI*IA,0.0
+socialedu,9,SOCIALEDU,0.0
+snr,9,SNR,0.0
+fca4ai,9,FCA4AI@ECAI,0.0
+persom,9,PerSOM,0.0
+soqe,9,SOQE,0.0
+richmediagai,9,RichMediaGAI@MM,0.0
+passwords,9,PASSWORDS,0.0
+badgers,9,BADGERS@RAID,0.0
+eles,9,ELES,0.0
+superhuman,9,Superhuman Sports Design Challenge,0.0
+shapes,9,SHAPES,0.0
+leri,9,LERI@RecSys,0.0
+caipi,9,CAIPI@ECAI,0.0
+haii,9,HAII5.0@ECAI,0.0
+ubimob,9,Ubimob,0.0
+maner,9,MANER Conference,0.0
+ngno,9,NGNO@MM,0.0
+emtcir,9,EMTCIR/UM-CIR@SIGIR-AP,0.0
+massdata,9,MDA,0.0
+mcs2,9,MCS@IJCAI,0.0
+colco,9,COLCO,0.0
+codai,9,CODAI,0.0
+ross-ws,9,ROSS@SC,0.0
+ini-dh,9,INI-DH@AVI,0.0
+ws-drbsd,9,DRBSD@SC,0.0
+scor,9,SCOR,0.0
+wiseml,9,WiseML@WiSec,0.0
+e2dc,8,E2DC@e-Energy,0.0
+acan,8,ACAN@IJCAI,0.0
+words2,8,WORDS@SOSP,0.0
+scolia,8,SCOLIA,0.0
+epiuai,8,Epi UAI,0.0
+mchpc,8,MCHPC@SC,0.0
+aidr,8,AIDR,0.0
+medaded,8,Medication and Adverse Drug Event Detection,0.0
+amlts,8,AMLTS,0.0
+ai4dt,8,AI4DT&CP@IJCAI,0.0
+rmc,8,RMC,0.0
+umfm,8,UMFM,0.0
+lacatoda,8,LaCATODA@PRICAI,0.0
+knowcon,8,KNOWCON,0.0
+spaiml,8,SPAIML@ECAI,0.0
+orsum,8,ORSUM@RecSys,0.0
+spm,8,Software Product Management,0.0
+llm4eval,8,LLM4Eval@SIGIR,0.0
+sasb,8,SASB,0.0
+robustrecsys,8,RobustRecSys@RecSys,0.0
+ethaics,8,ETHAICS@IJCAI,0.0
+ndigra,8,Nordic DiGRA,0.0
+damocles,8,DAMOCLES@AVI,0.0
+amid,8,AMID@MobileHCI,0.0
+acl-cvsc,8,CVSC,0.0
+5g-memu,8,5G-MeMZ@SIGCOMM,0.0
+waiss,8,WAISS@VECoS,0.0
+mvrmlm,8,MVRMLM@ICMR,0.0
+clin,8,GxG@CLIN,0.0
+csdmasia,8,CSDM Asia,0.0
+cspdata,8,CPS Data,0.0
+permavost,8,PERMAVOST@HPDC,0.0
+wac3,8,WAC,0.0
+satrends,8,SATrends@ICSE,0.0
+cheops,8,CHEOPS@EuroSys,0.0
+se4rai,8,SE4RAI@ICSE,0.0
+quweda,8,QuWeDa/MEPDaW@ISWC,0.0
+4dmr,8,4DMR@IJCAI,0.0
+fairware-ws,8,FairWare@ICSE,0.0
+rfh,8,RfH@AVI,0.0
+tyde,7,TyDe@ICFP,0.0
+nxdg,7,NXDG@SEMANTiCS,0.0
+sadfe,7,SADFE,0.0
+neoterm,7,NeoTerm,0.0
+sure,7,SURE@RecSys,0.0
+aieb,7,AIEB@ECAI,0.0
+nakodi,7,NakoDI,0.0
+autonomouscyber,7,AutonomousCyber@CCS,0.0
+semtab,7,SemTab@ISWC,0.0
+lkm,7,LKM@IJCAI,0.0
+icdpm,7,ICDPM,0.0
+keir,7,KEIR,0.0
+geoprivacy,7,GeoPrivacy@SIGSPATIAL,0.0
+bx,7,Bx@PLW,0.0
+kdh,7,KDH@IJCAI,0.0
+airo,7,AIRO@AI*IA,0.0
+cse4ia,7,CSE4IA@AVI,0.0
+aiqam,7,AIQAM@ICMR,0.0
+hybridaims,7,HybridAIMS+CAI (Selected Papers),0.0
+smallext,7,SmaLLEXT@CIKM,0.0
+hust-ws,7,HUST@SC,0.0
+ei-fais,7,Food and Agricultural Imaging Systems,0.0
+fcrc,7,FCRC,0.0
+wbdb,7,WBDB,0.0
+iact,7,IACT@SIGIR,0.0
+iwesq,7,IWESQ@APSEC,0.0
+multittrust,7,MULTITTRUST@HAI,0.0
+mmir,7,MMIR@MM,0.0
+tell,7,TELL,0.0
+simod,7,SiMoD@SIGMOD,0.0
+denert,7,Denert Award,0.0
+heda,7,HEDA@STAF,0.0
+distributedml,7,DistributedML@CoNEXT,0.0
+array,7,ARRAY@PLDI,0.0
+dicg,7,DICG@Middleware,0.0
+hydra,7,HYDRA@ECAI,0.0
+xcr,7,XCR,0.0
+daquamrec,7,DaQuaMRec@RecSys,0.0
+iiot-nets,7,IIoT-NETs@SIGCOMM,0.0
+acl-multiling,7,MultiLing@EACL,0.0
+geoext,7,GeoExT@ECIR,0.0
+qcai,7,QC+AI,0.0
+qoevma,7,QoEVMA@MM,0.0
+repai,7,REPAI,0.0
+argxai,7,ArgXAI@ECAI,0.0
+aapei,7,AAPEI@ECAI,0.0
+ai4hgi,7,AI4HGI@ECAI,0.0
+codai2,7,CODAI@ECAI,0.0
+ai4scisci,7,AI4SCISCI@JCDL,0.0
+lirai,7,LIRAI@HT,0.0
+lbas,7,LBAS,0.0
+midd4dt,7,Midd4DT@Middleware,0.0
+gecoin,7,GeCoIn@ECAI,0.0
+plato,7,PLATO@ICAPS,0.0
+plc2,7,PLC@ICPM,0.0
+exhet,6,ExHET@PPoPP,0.0
+continualai,6,CLAI Unconf,0.0
+empathia,6,EMPATH-IA@CHItaly,0.0
+emode,6,EMODE@SIGSPATIAL,0.0
+geold,6,GeoLD@ESWC,0.0
+sunrise,6,SUNRISE,0.0
+consensusday,6,ConsensusDay@CCS,0.0
+hcmir,6,HCMIR@ISMIR,0.0
+sibdata,6,SibDATA,0.0
+s3c,6,S3C@CHItaly,0.0
+intesa,6,INTESA,0.0
+dsia,6,DSIA,0.0
+nlp-misinfo,6,NLP-MisInfo@SEPLN,0.0
+toolympics,6,TOOLympics@ETAPS,0.0
+easc,6,EASC,0.0
+romcir,6,ROMCIR@ECIR,0.0
+ai4evir,6,AI4EVIR@JURIX,0.0
+rodbh,6,RODBH,0.0
+fopara,6,FOPARA,0.0
+int-ws,6,INT@AIIDE,0.0
+din,6,DIN@CoNEXT,0.0
+didit,6,DiDit@DisCoTec,0.0
+beyond,6,BEYOND@RecSys,0.0
+raw2,6,RAW,0.0
+zise,6,ZiSE,0.0
+satcom,6,SatCom@MobiCom,0.0
+behaiv,6,BEHAIV@ECAI,0.0
+qspatial,6,Q-Spatial,0.0
+pyhpc-ws,6,PyHPC@SC,0.0
+arcade,6,ARCADE@CADE,0.0
+qse-ne,6,QSE-NE@SIGSOFT FSE,0.0
+wda,6,WDA,0.0
+amm,6,AMM@MM,0.0
+hitlaml,6,HITLAML,0.0
+mmsr,6,MMSR@CIKM,0.0
+icse-sethics,6,SEthics@ICSE,0.0
+behavrec,6,BehavRec@RecSys,0.0
+eyre,6,EYRE@CIKM,0.0
+iwilds,6,DISMISS-FAKE/IWILDS@WSDM,0.0
+cristain,6,CRISTAIN@CHItaly,0.0
+voila,6,VOILA@ISWC,0.0
+wai,6,WAI,0.0
+cysss,6,CySSS@AsiaCCS,0.0
+wces,6,WCES,0.0
+geohcc,6,GeoHCC,0.0
+general,6,GENERAL@CHItaly,0.0
+genea,6,GENEA,0.0
+argapp,6,Arg&App 2025,0.0
+apwg-eu,6,APWG.EU Tech,0.0
+se4safeml,6,SE4SafeML@SIGSOFT FSE,0.0
+fgwm,6,FGWM@KI,0.0
+wcnc2,6,WCNC,0.0
+oasis,6,OASIS@HT,0.0
+nsg,6,NSG,0.0
+locate,6,Research@Locate,0.0
+lnsai,6,LNSAI@IJCAI,0.0
+fose-ws,6,ICSE-FoSE,0.0
+fpgaworld,6,FPGAworld,0.0
+itextbooks,6,iTextbooks@AIED,0.0
+middlewedge,6,MIDDLEWEDGE@Middleware,0.0
+caesar,6,cAESAR,0.0
+btiw,6,BTIW@MobiSys,0.0
+fme,6,FME@MM,0.0
+irongraphs,6,IRonGraphs,0.0
+aagpw,6,AAGPW@AIED,0.0
+geosocial,6,GeoSocial@SIGSPATIAL,0.0
+sensexr,6,SENSE-XR@CHItaly,0.0
+llms4rdm,6,LLMs4RDM@INFORMATIK,0.0
+aib,6,AIB,0.0
+tempxai,6,TempXAI@PKDD/ECML,0.0
+ei-sports,6,Computer Vision Applications in Sports,0.0
+phenohci,6,PhenoHCI@INTERACT,0.0
+pi-ai,6,PI-AI@KI,0.0
+kgstar,6,KG-STAR@ESWC,0.0
+responiblese,5,ResponibleSE@SIGSOFT FSE,0.0
+gamesys,5,GameSys@MMSys,0.0
+dstnds,5,DSTNDS,0.0
+mcfr,5,MCFR@MM,0.0
+maiot,5,MAIoT@Middleware,0.0
+net4us,5,NET4us@MobiCom,0.0
+hear,5,HEAR@NeurIPS,0.0
+woc2,5,WOC@Middleware,0.0
+ac,5,Bidirectional Transformations,0.0
+aidbei,5,AIDBEI,0.0
+snta,5,SNTA@HPDC,0.0
+tdis,5,TDIS@EuroSys,0.0
+proofs,5,PROOFS,0.0
+rebls,5,REBLS@SPLASH,0.0
+more,5,MORE@ICMR,0.0
+fcai,5,FCAI@ECAI,0.0
+kdid,5,KDID,0.0
+pawatm-ws,5,PAW-ATM@SC,0.0
+adaaiotsys,5,AdaAIoTSys@MobiSys,0.0
+poids,5,PoIDS,0.0
+all,5,ALL@AIED,0.0
+safe,5,SAFE@CoNEXT,0.0
+ukai,5,UK AI,0.0
+ei-hpci,5,High Performance Computing for Imaging,0.0
+s-3,5,S3@MobiCom,0.0
+lfmtp,5,LFMTP,0.0
+geowildlife,5,GeoWildLife@SIGSPATIAL,0.0
+vampire,5,Vampire,0.0
+oasc,5,OASC,0.0
+conda,4,CONDA,0.0
+ltlt,4,LTLT,0.0
+icooolps,4,ICOOOLPS@ECOOP,0.0
+worma,4,WoRMA@AsiaCCS,0.0
+wpmvp,4,PPoPP,0.0
+awc,4,AWC,0.0
+rethics-ws,4,REthics@RE,0.0
+stai,4,STAI@IJCAI,0.0
+fase4games,4,FaSE4Games@SIGSOFT FSE,0.0
+asss,4,ASSS@AsiaCCS,0.0
+lisa,4,LISA,0.0
+semotion,4,SEmotion@ICSE,0.0
+fosad,4,FOSAD,0.0
+isav-ws,4,ISAV@SC,0.0
+wide,4,WiDE@EuroSys,0.0
+eclipse,4,ETX,0.0
+cifsd,4,CIFSD,0.0
+geohealth,4,GeoHealth,0.0
+quasar,4,QUASAR@HPDC,0.0
+bigspatial-ws,4,BigSpatial@SIGSPATIAL,0.0
+vdbs,4,VDBS@SIGMOD,0.0
+protool-ws,4,ProTools@SC,0.0
+soheal-ws,4,SoHeal@ICSE,0.0
+morse,4,MORSE@MobiCom,0.0
+hotoptics,3,HotOptics@SIGCOMM,0.0
+rene,3,RENE@ASE,0.0
+ws-ipdrm,3,IPDRM@SC,0.0
+sdd,3,SDD@SIGSOFT FSE,0.0
+affectre-ws,3,AffectRE@RE,0.0
+espre-ws,3,ESPRE@RE,0.0
+d4re-ws,3,D4RE@RE,0.0
+sustaincom,3,SustainCom,0.0
+sigcsevirtual,3,SIGCSE Virtual (Working Group Reports),0.0
+vao,3,VAO,0.0
+onto4fair,3,Onto4FAIR,0.0
+stcausal,3,STCausal@SIGSPATIAL,0.0
+pecs,3,PECS@HPDC,0.0
+ersa2,3,ERSA@RTSS,0.0
+seated,3,SEATED@HPDC,0.0
+crowdre-ws,3,CrowdRE@RE,0.0
+atest-ws,3,A-TEST@ISSTA,0.0
+supercompcloud-ws,2,SuperCompCloud,0.0
+cop-ws,2,COP@ECOOP,0.0
+ei-mlsi,2,Machine Learning for Scientific Imaging,0.0
+pxtp,1,PxTP,0.0
