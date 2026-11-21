@@ -1,0 +1,9 @@
+itemset,k,support_count,support (%)
+nips,1,18621,4.061
+cvpr,1,14289,3.116
+eccv,1,11930,2.602
+aaai,1,11368,2.479
+icml,1,10111,2.205
+icassp,1,9944,2.169
+emnlp,1,9889,2.157
+iclr,1,9720,2.12
