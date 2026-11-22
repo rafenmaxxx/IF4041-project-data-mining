@@ -1,7 +1,7 @@
 Tahap_Preprocessing,Jumlah_Record
-1_total_inproceedings_all_years,4001570
-2_filtered_year_2015_2025,2004103
+1_total_inproceedings_all_years,4001762
+2_filtered_year_2015_2025,2004117
 3_dropped_missing_values,5416
-4_valid_before_dedup,1998687
+4_valid_before_dedup,1998701
 5_dropped_duplicates,1542
-6_final_clean_records,1997145
+6_final_clean_records,1997159
