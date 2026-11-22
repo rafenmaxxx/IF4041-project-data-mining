@@ -1,0 +1,11 @@
+itemset,k,support_count,support (%)
+"icml, nips",2,18503,1.016
+"iclr, nips",2,17852,0.98
+"aaai, nips",2,15973,0.877
+"cvpr, nips",2,15640,0.859
+"cvpr, iccv",2,15441,0.848
+"acl, emnlp",2,14557,0.799
+"cvpr, eccv",2,13752,0.755
+"iclr, icml",2,12947,0.711
+"aaai, cvpr",2,12169,0.668
+"icra, iros",2,11860,0.651
