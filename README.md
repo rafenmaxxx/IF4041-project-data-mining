@@ -28,7 +28,7 @@ Folder `data/raw/` dan `data/processed/` tidak ikut di Git. Parquet hasil prepro
 
 Ada dua cara menyiapkan data.
 
-1. Unduh file bersama dari Drive tim: `dblp_clean_2015_2025.parquet`, `tx_author_based.pkl`, `tx_author_year_based.pkl`, dan `tx_author_year_years.pkl`. Taruh keempatnya di `data/processed/`. Dengan cara ini kamu bisa langsung menjalankan notebook 02 dan 04 sampai 07 tanpa notebook 01 dan 03.
+1. Unduh file bersama dari [Google Drive tim](https://drive.google.com/drive/folders/1lLSLKE0zJ2fXRt_24ia-BJRx-eM8t1Hd?usp=sharing): `dblp_clean_2015_2025.parquet`, `tx_author_based.pkl`, `tx_author_year_based.pkl`, dan `tx_author_year_years.pkl`. Taruh keempatnya di `data/processed/`. Dengan cara ini kamu bisa langsung menjalankan notebook 02 dan 04 sampai 07 tanpa notebook 01 dan 03.
 2. Bangun sendiri dari XML DBLP. Jalankan `python src/download_dblp.py` untuk mengunduh `dblp.xml.gz` (sekitar 1,1 GB) dan `dblp.dtd` ke `data/raw/`, lalu jalankan notebook 01. Notebook ini membaca XML dua kali dan butuh sekitar 10 menit.
 
 DBLP terus menambah data, terutama untuk tahun terbaru, jadi unduhan di tanggal berbeda menghasilkan jumlah paper yang sedikit berbeda. Hasil di `data/results/` dan laporan memakai unduhan 19 November 2026, yaitu 1.997.244 paper setelah preprocessing. Supaya angka antaranggota tim cocok, pakai file dari Drive.
