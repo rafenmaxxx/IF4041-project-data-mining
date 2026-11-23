@@ -1,0 +1,5 @@
+min_support,rules Author-Based,rules Author-Year-Based,lift maks. Author-Based,lift maks. Author-Year-Based
+0.001,1387,3,172.27,27.12
+0.005,7,0,33.32,
+0.01,1,0,18.28,
+0.02,0,0,,

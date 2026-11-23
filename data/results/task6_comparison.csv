@@ -1,5 +1,7 @@
-min_support,jumlah_itemset (Apriori),jumlah_itemset (FP-Growth),jumlah_rules (Apriori),jumlah_rules (FP-Growth),runtime_median_s (Apriori),runtime_median_s (FP-Growth),peak_memory_mb (Apriori),peak_memory_mb (FP-Growth),speedup FP-Growth vs Apriori,rasio memori Apriori / FP-Growth
-0.001,1514.0,1514.0,1387.0,1387.0,11.633,11.731,87.9,267.0,0.99,0.33
-0.005,88.0,88.0,7.0,7.0,2.585,3.728,10.8,49.2,0.69,0.22
-0.01,30.0,30.0,1.0,1.0,2.3,3.252,4.2,15.3,0.71,0.27
-0.02,6.0,6.0,0.0,0.0,1.833,2.873,0.2,0.2,0.64,1.0
+min_support,rentang,jumlah_itemset (Apriori),jumlah_itemset (FP-Growth),jumlah_rules (Apriori),jumlah_rules (FP-Growth),runtime_median_s (Apriori),runtime_median_s (FP-Growth),peak_memory_mb (Apriori),peak_memory_mb (FP-Growth),speedup FP-Growth vs Apriori,rasio memori Apriori / FP-Growth
+0.0003,tambahan,16195.0,16195.0,52428.0,52428.0,56.177,26.756,,,2.1,
+0.0005,tambahan,5657.0,5657.0,10865.0,10865.0,30.825,22.367,,,1.38,
+0.001,spec,1514.0,1514.0,1387.0,1387.0,11.977,12.077,87.9,267.0,0.99,0.33
+0.005,spec,88.0,88.0,7.0,7.0,2.701,4.298,10.8,49.2,0.63,0.22
+0.01,spec,30.0,30.0,1.0,1.0,2.415,3.275,4.2,15.3,0.74,0.27
+0.02,spec,6.0,6.0,0.0,0.0,1.967,2.691,0.2,0.2,0.73,1.0

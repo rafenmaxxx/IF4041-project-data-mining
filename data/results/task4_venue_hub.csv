@@ -1,0 +1,11 @@
+venue,support venue (%),kombinasi 0.1%,kombinasi 0.5%,kombinasi 1%,kombinasi 2%,pasangan 0.1%,rata-rata lift pasangan 0.1%,pasangan dengan lift tertinggi
+nips,3.173,298,9,1,0,42,8.31,"aistats, nips (lift 19.29)"
+cvpr,2.616,234,5,0,0,34,10.23,"3dim, cvpr (lift 25.02)"
+aaai,2.549,262,6,0,0,44,9.48,"aaai, ijcai (lift 17.74)"
+icassp,2.309,106,0,0,0,41,7.61,"icassp, interspeech (lift 17.27)"
+embc,2.158,4,0,0,0,4,4.26,"embc, isbi (lift 7.51)"
+hci,2.08,1,0,0,0,1,4.08,"chi, hci (lift 4.08)"
+igarss,1.934,4,0,0,,4,2.35,"icassp, igarss (lift 2.83)"
+emnlp,1.864,127,3,0,,25,13.35,"eacl, emnlp (lift 32.85)"
+icml,1.751,144,4,1,,24,11.69,"aistats, icml (lift 30.44)"
+iros,1.715,22,1,0,,14,7.84,"icra, iros (lift 24.22)"

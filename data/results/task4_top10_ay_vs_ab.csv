@@ -1,11 +1,11 @@
-rank AY,itemset,support AY (%),rank AB,support AB (%)
-1,"icml, nips",0.434,1,1.016
-2,"iclr, nips",0.402,2,0.98
-3,"acl, emnlp",0.373,6,0.799
-4,"cvpr, nips",0.355,4,0.859
-5,"cvpr, iccv",0.303,5,0.848
-6,"aaai, nips",0.301,3,0.877
-7,"iclr, icml",0.272,8,0.711
-8,"globecom, icc",0.272,11,0.627
-9,"cvpr, eccv",0.244,7,0.755
-10,"aaai, cvpr",0.244,9,0.668
+rank AY,itemset,support AY (%),rank AB,support AB (%),min_support
+1,"icml, nips",0.434,1,1.016,0.001
+2,"iclr, nips",0.402,2,0.98,0.001
+3,"acl, emnlp",0.373,6,0.799,0.001
+4,"cvpr, nips",0.355,4,0.859,0.001
+5,"cvpr, iccv",0.303,5,0.848,0.001
+6,"aaai, nips",0.301,3,0.877,0.001
+7,"iclr, icml",0.272,8,0.711,0.001
+8,"globecom, icc",0.272,11,0.627,0.001
+9,"cvpr, eccv",0.244,7,0.755,0.001
+10,"aaai, cvpr",0.244,9,0.668,0.001

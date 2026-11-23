@@ -1,0 +1,7 @@
+min_support,rentang,frequent_1_itemset,transaksi_min_2_item_frequent,persen_transaksi_dipakai_level2,tuple_unik_apriori,apriori_first_pass_s,apriori_levelwise_s,apriori_total_s,kemunculan_item_frequent,node_fptree,node_per_kemunculan,fp_build_tree_s,fp_mining_s,fp_total_s
+0.0003,tambahan,1697,696439,38.2,485502,3.296,49.811,53.107,4365057,1739742,0.399,10.634,13.481,24.115
+0.0005,tambahan,1185,648442,35.6,432645,3.093,21.949,25.042,4002911,1504116,0.376,8.24,8.95,17.19
+0.001,spec,574,536596,29.5,315731,2.628,8.088,10.716,3207893,1023262,0.319,7.401,4.743,12.145
+0.005,spec,66,239256,13.1,74569,2.2,0.391,2.591,1368202,187338,0.137,3.096,0.625,3.721
+0.01,spec,29,159627,8.8,28264,2.071,0.07,2.142,883137,55926,0.063,2.802,0.132,2.934
+0.02,spec,6,42103,2.3,57,1.886,0.012,1.898,271160,63,0.0,2.863,0.0,2.863

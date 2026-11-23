@@ -1,0 +1,5 @@
+min_support,total,sisa dari min support terendah (%),venue yang lolos,venue yang lolos (% dari semua venue),itemset multi-venue,porsi multi-venue (%),itemset terpanjang (k)
+0.001,1514,100.0,574,13.13,940,62.1,6
+0.005,88,5.8,66,1.51,22,25.0,3
+0.01,30,2.0,29,0.66,1,3.3,2
+0.02,6,0.4,6,0.14,0,0.0,1

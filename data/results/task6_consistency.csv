@@ -1,5 +1,7 @@
-min_support,itemset_apriori,itemset_fpgrowth,itemset_sama,support_count_sama,hanya_di_apriori,hanya_di_fpgrowth,rules_sama
-0.001,1514,1514,True,True,0,0,True
-0.005,88,88,True,True,0,0,True
-0.01,30,30,True,True,0,0,True
-0.02,6,6,True,True,0,0,True
+min_support,rentang,min_count,itemset_apriori,itemset_fpgrowth,itemset_sama,support_count_sama,hanya_di_apriori,hanya_di_fpgrowth,rules_apriori,rules_fpgrowth,rules_sama
+0.0003,tambahan,547,16195,16195,True,True,0,0,52428,52428,True
+0.0005,tambahan,911,5657,5657,True,True,0,0,10865,10865,True
+0.001,spec,1822,1514,1514,True,True,0,0,1387,1387,True
+0.005,spec,9109,88,88,True,True,0,0,7,7,True
+0.01,spec,18218,30,30,True,True,0,0,1,1,True
+0.02,spec,36436,6,6,True,True,0,0,0,0,True

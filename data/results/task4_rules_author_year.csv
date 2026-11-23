@@ -1,4 +1,4 @@
-antecedents,consequents,support,confidence,lift
-"iccv, nips",cvpr,0.00101,0.561,27.12
-"iclr, icml",nips,0.00164,0.602,25.67
-"cvpr, iclr",nips,0.00104,0.555,23.7
+antecedents,consequents,support,confidence,lift,min_support
+"iccv, nips",cvpr,0.00101,0.561,27.12,0.001
+"iclr, icml",nips,0.00164,0.602,25.67,0.001
+"cvpr, iclr",nips,0.00104,0.555,23.7,0.001
