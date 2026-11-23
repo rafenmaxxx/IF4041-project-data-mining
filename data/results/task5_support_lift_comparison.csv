@@ -1,5 +1,5 @@
 min_support,rule_count,top10_support_lift_overlap,spearman_support_lift
 0.001,1387,0,-0.20911602402540191
-0.005,7,7,-0.9265616458263765
+0.005,7,7,-0.9265616458263762
 0.01,1,1,
 0.02,0,0,

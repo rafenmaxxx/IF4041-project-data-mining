@@ -1,0 +1,9 @@
+representasi,min_support,min_support_count,1-itemset,2-itemset,3-itemset,>=4-itemset,total,k_maks
+Author-Based,0.001,1822,574,393,348,199,1514,6
+Author-Year-Based,0.001,4086,298,46,3,0,347,3
+Author-Based,0.005,9109,66,21,1,0,88,3
+Author-Year-Based,0.005,20428,42,0,0,0,42,1
+Author-Based,0.01,18218,29,1,0,0,30,2
+Author-Year-Based,0.01,40856,17,0,0,0,17,1
+Author-Based,0.02,36436,6,0,0,0,6,1
+Author-Year-Based,0.02,81712,2,0,0,0,2,1

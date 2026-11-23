@@ -1,0 +1,1388 @@
+antecedents,consequents,support,confidence,lift
+"eccv, mm, nips","aaai, cvpr, iccv",0.001,0.612,172.27
+"cvpr, eccv, icml","iccv, iclr, nips",0.00101,0.502,171.81
+"cvpr, iccv, icml, nips","eccv, iclr",0.00101,0.514,159.38
+"cvpr, eccv, icml, nips","iccv, iclr",0.00101,0.591,157.3
+"eccv, iccv, icml","cvpr, iclr, nips",0.00101,0.614,156.21
+"iclr, naacl","acl, emnlp, nips",0.00105,0.504,152.46
+"cvpr, iccv, mm, nips","aaai, eccv",0.001,0.575,147.66
+"emnlp, naacl, nips","acl, iclr",0.00105,0.546,146.26
+"cvpr, eccv, mm, nips","aaai, iccv",0.001,0.685,145.44
+"cvpr, eccv, icml","iccv, iclr",0.00108,0.536,142.63
+"aaai, eccv, iclr","cvpr, iccv, nips",0.0011,0.654,141.71
+"acl, naacl, nips","emnlp, iclr",0.00105,0.569,140.45
+"eccv, icml, nips","iccv, iclr",0.00107,0.521,138.54
+"aaai, iccv, iclr","cvpr, eccv, nips",0.0011,0.55,137.84
+"eccv, iccv, mm","aaai, cvpr, nips",0.001,0.55,137.19
+"eccv, mm, nips","aaai, iccv",0.00105,0.64,135.98
+"eccv, iclr, icml","cvpr, iccv, nips",0.00101,0.625,135.5
+"iccv, iclr, icml","cvpr, eccv, nips",0.00101,0.54,135.32
+"iccv, mm, nips","aaai, eccv",0.00105,0.522,133.93
+"eccv, iccv, icml, nips","cvpr, iclr",0.00101,0.701,133.7
+"aaai, cvpr, eccv, nips","iccv, iclr",0.0011,0.501,133.42
+"cvpr, iccv, iclr, icml","eccv, nips",0.00101,0.661,131.75
+"aaai, cvpr, iccv, iclr","eccv, nips",0.0011,0.659,131.4
+"acl, icml, nips","emnlp, iclr",0.00121,0.521,128.54
+"aaai, eccv, mm","cvpr, iccv, nips",0.001,0.586,126.89
+"eccv, iccv, iclr, nips","cvpr, icml",0.00101,0.556,125.86
+"emnlp, iclr, naacl","acl, nips",0.00105,0.644,125.71
+"eccv, iccv, iclr","aaai, cvpr, nips",0.0011,0.502,125.32
+"eccv, iccv, icml","cvpr, iclr",0.00108,0.655,124.86
+"cvpr, eccv, iclr, icml","iccv, nips",0.00101,0.746,123.81
+"aaai, cvpr, eccv, iclr","iccv, nips",0.0011,0.744,123.45
+"acl, iclr, naacl","emnlp, nips",0.00105,0.679,123.06
+"cvpr, eccv, mm","aaai, iccv",0.00124,0.569,120.85
+"aaai, emnlp, icml","acl, nips",0.00108,0.598,116.7
+"aaai, emnlp, iclr","acl, nips",0.00125,0.597,116.44
+"eccv, icml, nips","cvpr, iclr",0.00125,0.607,115.82
+"cvpr, mm, nips","aaai, iccv",0.00135,0.544,115.64
+"cvpr, iccv, iclr","eccv, nips",0.00171,0.58,115.56
+"aaai, iccv, iclr","cvpr, icml",0.00102,0.51,115.41
+"cvpr, iccv, icml","eccv, nips",0.00135,0.579,115.4
+"eccv, icml","cvpr, iccv, nips",0.00135,0.532,115.35
+"aaai, iccv, iclr","eccv, nips",0.00116,0.578,115.13
+"eccv, iccv, mm, nips","aaai, cvpr",0.001,0.768,114.97
+"eccv, iclr","cvpr, iccv, nips",0.00171,0.53,114.8
+"aaai, acl, icml","emnlp, nips",0.00108,0.632,114.44
+"aaai, iccv, icml","eccv, nips",0.00101,0.574,114.41
+"aaai, eccv, iccv, nips","cvpr, mm",0.001,0.532,114.16
+"aaai, eccv, iclr","iccv, nips",0.00116,0.687,113.92
+"iccv, iclr, icml","eccv, nips",0.00107,0.571,113.88
+"aaai, acl, iclr","emnlp, nips",0.00125,0.628,113.8
+"eccv, iclr, nips","cvpr, icml",0.00125,0.501,113.56
+"acl, iclr, icml","emnlp, nips",0.00121,0.626,113.4
+"cvpr, ijcai, nips","aaai, iccv",0.00113,0.534,113.37
+"aaai, eccv, icml","iccv, nips",0.00101,0.683,113.27
+"iccv, icmcs","cvpr, mm",0.001,0.527,113.14
+"emnlp, iclr, icml","acl, nips",0.00121,0.58,113.12
+"aaai, cvpr, iccv, mm","eccv, nips",0.001,0.562,111.93
+"aaai, eccv, iccv, nips","cvpr, iclr",0.0011,0.583,111.23
+"emnlp, naacl, nips","aaai, acl",0.00102,0.528,111.04
+"cvpr, eccv, icml","iccv, nips",0.00135,0.669,110.98
+"aaai, iccv, icml","cvpr, iclr",0.00102,0.58,110.65
+"aaai, cvpr, eccv, mm","iccv, nips",0.001,0.667,110.64
+"iccv, icml, nips","cvpr, iclr",0.00142,0.58,110.63
+"cvpr, eccv, iclr, nips","aaai, iccv",0.0011,0.518,110.11
+"eccv, iclr, icml","iccv, nips",0.00107,0.661,109.76
+"iclr, naacl","acl, nips",0.00117,0.562,109.57
+"cvpr, eccv, iclr","iccv, nips",0.00171,0.655,108.71
+"acl, naacl, nips","aaai, emnlp",0.00102,0.55,108.43
+"cvpr, eccv, icml","aaai, iccv",0.00102,0.507,107.77
+"cvpr, nips, wacv","eccv, iccv",0.00101,0.591,107.13
+"iclr, naacl","emnlp, nips",0.00122,0.586,106.17
+"eccv, mm, nips","aaai, cvpr",0.00115,0.705,105.59
+"aaai, emnlp, naacl","acl, nips",0.00102,0.539,105.15
+"iclr, ijcai, nips","aaai, icml",0.00127,0.562,104.18
+"eccv, iccv, iclr, icml","cvpr, nips",0.00101,0.882,102.71
+"iccv, ijcai, nips","aaai, cvpr",0.00113,0.685,102.54
+"aaai, acl, naacl","emnlp, nips",0.00102,0.566,102.53
+"eccv, icml","cvpr, iclr",0.00136,0.536,102.16
+"eccv, iccv, mm","aaai, cvpr",0.00124,0.678,101.55
+"aaai, eccv, mm","iccv, nips",0.00105,0.612,101.53
+"aaai, cvpr, mm, nips","eccv, iccv",0.001,0.558,101.21
+"aaai, cvpr, iclr","eccv, nips",0.00131,0.506,100.92
+"iccv, mm, nips","aaai, cvpr",0.00135,0.674,100.91
+"icml, ijcai, nips","aaai, iclr",0.00127,0.533,100.69
+"acl, ijcai","aaai, emnlp",0.00134,0.511,100.67
+"aaai, eccv, iccv, iclr","cvpr, nips",0.0011,0.85,99.04
+"eccv, iccv, nips","cvpr, iclr",0.00171,0.519,98.9
+"aaai, eccv, nips","cvpr, iclr",0.00131,0.515,98.14
+"ijcai, mm, nips","aaai, cvpr",0.001,0.649,97.2
+"iccv, icml","cvpr, iclr",0.00154,0.507,96.72
+"iccv, nips, wacv","cvpr, eccv",0.00101,0.726,96.19
+"eccv, iccv, icml","cvpr, nips",0.00135,0.817,95.18
+"aaai, cvpr, eccv","iccv, nips",0.00177,0.573,95.15
+"acl, icml","emnlp, nips",0.00159,0.524,94.94
+"eccv, icml","iccv, nips",0.00145,0.57,94.61
+"aaai, cvpr, iclr","iccv, nips",0.00147,0.568,94.28
+"aaai, eccv, mm, nips","cvpr, iccv",0.001,0.798,94.13
+"cvpr, eccv, mm","iccv, nips",0.00123,0.567,94.08
+"eccv, iclr","iccv, nips",0.00183,0.566,93.98
+"eccv, ijcai","aaai, cvpr",0.00114,0.624,93.46
+"amcc, eucc",cdc,0.00104,0.734,92.9
+"eccv, iccv, icml","aaai, cvpr",0.00102,0.62,92.76
+"acl, iclr","emnlp, nips",0.00191,0.512,92.7
+"icassp, iccv, nips","aaai, cvpr",0.00102,0.617,92.42
+"aaai, cvpr, icml","iccv, nips",0.00131,0.556,92.32
+"aaai, cvpr, iclr, nips","eccv, iccv",0.0011,0.506,91.75
+"eccv, ijcai","iccv, nips",0.00101,0.552,91.55
+"eccv, nips, wacv","cvpr, iccv",0.00101,0.775,91.45
+"aaai, eccv, icml","cvpr, nips",0.00116,0.783,91.16
+"eccv, iccv, iclr","cvpr, nips",0.00171,0.78,90.8
+"aaai, eccv, iclr","cvpr, nips",0.00131,0.777,90.53
+"eccv, iccv, iclr, nips","aaai, cvpr",0.0011,0.603,90.22
+"eccv, iclr, icml","cvpr, nips",0.00125,0.772,89.89
+"aaai, naacl, nips","acl, emnlp",0.00102,0.717,89.78
+"cvpr, iclr, icml","iccv, nips",0.00142,0.539,89.4
+"iccv, ijcai","aaai, cvpr",0.00138,0.596,89.27
+"pimrc, wcnc","globecom, icc",0.00108,0.559,89.22
+"aaai, eccv, iclr, nips","cvpr, iccv",0.0011,0.755,89.06
+"eccv, mm, nips","cvpr, iccv",0.00123,0.753,88.87
+"aaai, eccv, iccv, mm","cvpr, nips",0.001,0.758,88.27
+"aaai, iccv, mm, nips","cvpr, eccv",0.001,0.663,87.88
+"iccv, iclr, icml","cvpr, nips",0.00142,0.753,87.76
+"coling, naacl","acl, emnlp",0.00137,0.699,87.5
+"aaai, iccv, icml","cvpr, nips",0.00131,0.745,86.74
+"iclr, naacl, nips","acl, emnlp",0.00105,0.687,85.93
+"cvpr, icml, ijcai","aaai, nips",0.00102,0.753,85.84
+"bmvc, iccv","cvpr, eccv",0.00116,0.647,85.72
+"aaai, eccv, iclr","cvpr, iccv",0.00122,0.726,85.62
+"aaai, iccv, iclr","cvpr, nips",0.00147,0.734,85.47
+"aaai, eccv, mm","cvpr, iccv",0.00124,0.722,85.23
+"aaai, iccv, iclr, nips","cvpr, eccv",0.0011,0.643,85.13
+"iclr, icml, ijcai","aaai, nips",0.00127,0.741,84.51
+"eccv, icml, nips","aaai, cvpr",0.00116,0.561,83.92
+"eccv, mm","aaai, cvpr",0.0015,0.56,83.88
+"aaai, cvpr, mm","iccv, nips",0.00135,0.504,83.64
+"iclr, mm","iccv, nips",0.00106,0.503,83.46
+"vtc, wcnc","globecom, icc",0.00148,0.523,83.45
+"eccv, iccv, iclr","aaai, cvpr",0.00122,0.557,83.44
+"cvpr, iclr, ijcai","aaai, nips",0.00103,0.731,83.34
+"iclr, naacl","acl, emnlp",0.00138,0.662,82.88
+"aaai, eccv, nips","cvpr, iccv",0.00177,0.696,82.1
+"globecom, icc, pimrc",wcnc,0.00108,0.654,81.96
+"aaai, eccv, icml","cvpr, iccv",0.00102,0.694,81.86
+"aaai, eccv, iccv","cvpr, nips",0.00177,0.7,81.59
+"eccv, iclr, icml, nips","cvpr, iccv",0.00101,0.691,81.52
+"iccv, mm, nips","cvpr, eccv",0.00123,0.614,81.33
+"aaai, naacl","acl, emnlp",0.00159,0.65,81.3
+"iccv, iclr, icml","aaai, cvpr",0.00102,0.543,81.22
+"iccv, icmcs","aaai, cvpr",0.00103,0.541,80.99
+"aaai, iccv, iclr","cvpr, eccv",0.00122,0.611,80.89
+"eccv, iclr, nips","cvpr, iccv",0.00171,0.684,80.68
+"eccv, iccv, nips","aaai, cvpr",0.00177,0.537,80.39
+"iccv, icml, nips","aaai, cvpr",0.00131,0.536,80.26
+ecoc,ofc,0.00249,0.665,80.12
+"iccv, mm","aaai, cvpr",0.00179,0.53,79.42
+"acl, eacl",naacl,0.00102,0.634,79.26
+"coling, nips","acl, emnlp",0.00103,0.633,79.21
+"icml, mm","aaai, cvpr",0.00103,0.529,79.14
+"iccv, iclr, icml, nips","cvpr, eccv",0.00101,0.596,78.94
+"eccv, icml","cvpr, nips",0.00172,0.676,78.78
+"eccv, iccv, mm","cvpr, nips",0.00123,0.676,78.76
+"eacl, emnlp",naacl,0.00104,0.63,78.73
+"eccv, iclr, icml","cvpr, iccv",0.00108,0.667,78.72
+"aaai, eccv, mm","cvpr, nips",0.00115,0.674,78.55
+"icml, naacl","acl, emnlp",0.00102,0.627,78.43
+"iccv, wacv","cvpr, eccv",0.00149,0.592,78.4
+"eccv, iclr, nips","aaai, cvpr",0.00131,0.524,78.39
+"iclr, mm","aaai, cvpr",0.0011,0.523,78.23
+"aaai, iccv, mm","cvpr, eccv",0.00124,0.588,77.9
+"naacl, nips","acl, emnlp",0.00161,0.622,77.8
+"aaai, coling","acl, emnlp",0.00129,0.62,77.6
+"iccv, iclr, nips","cvpr, eccv",0.00171,0.584,77.4
+"eccv, icml, nips","cvpr, iccv",0.00135,0.655,77.31
+"aaai, iccv, icml","cvpr, eccv",0.00102,0.583,77.29
+"aaai, iccv, ijcai","cvpr, nips",0.00113,0.663,77.19
+"aaai, iccv, nips","cvpr, eccv",0.00177,0.581,76.97
+"eccv, iclr","cvpr, nips",0.00212,0.659,76.72
+"iccv, iclr, icml","cvpr, eccv",0.00108,0.576,76.36
+"bmvc, eccv","cvpr, iccv",0.00116,0.646,76.18
+"iccv, icml","cvpr, nips",0.00198,0.653,76.01
+"eccv, icml","aaai, cvpr",0.00128,0.503,75.35
+"iccv, iclr, nips","aaai, cvpr",0.00147,0.502,75.16
+"icmcs, nips","aaai, cvpr",0.00107,0.501,75.05
+"aaai, iccv, mm","cvpr, nips",0.00135,0.644,74.97
+"iccv, iclr","cvpr, nips",0.00241,0.64,74.57
+asru,interspeech,0.00108,0.727,74.17
+"aaai, icassp, iccv","cvpr, nips",0.00102,0.636,74.1
+"eccv, iclr","cvpr, iccv",0.00202,0.625,73.73
+"iccv, icml, nips","cvpr, eccv",0.00135,0.554,73.37
+"eccv, iccv, wacv","cvpr, nips",0.00101,0.629,73.25
+"cdc, eucc",amcc,0.00104,0.553,73.12
+"eccv, mm","cvpr, iccv",0.00166,0.618,72.96
+"eccv, ijcai","cvpr, iccv",0.00113,0.617,72.81
+"aistats, iclr","icml, nips",0.00128,0.738,72.67
+"cvpr, iccv, ijcai","aaai, nips",0.00113,0.635,72.41
+"eccv, ijcai","cvpr, nips",0.00114,0.621,72.37
+"cvpr, ijcai, mm","aaai, nips",0.001,0.634,72.28
+"eccv, wacv","cvpr, iccv",0.00149,0.608,71.71
+"globecom, icc, vtc",wcnc,0.00148,0.572,71.69
+"icc, pimrc",wcnc,0.00131,0.569,71.4
+"globecom, pimrc",wcnc,0.00133,0.568,71.26
+"iccv, iclr","cvpr, eccv",0.00202,0.536,71.03
+"eccv, icml","cvpr, iccv",0.00153,0.602,70.97
+"nips, wacv","cvpr, eccv",0.00119,0.535,70.88
+"icml, ijcai","aaai, nips",0.00186,0.621,70.83
+"iclr, ijcai","aaai, nips",0.00175,0.619,70.61
+"eccv, nips","cvpr, iccv",0.00299,0.596,70.3
+"sigir, www",cikm,0.00105,0.641,69.81
+"eccv, iccv, icml","aaai, nips",0.00101,0.61,69.54
+"iccv, icip","cvpr, eccv",0.00107,0.525,69.5
+"aaai, eccv","cvpr, iccv",0.00229,0.588,69.36
+"cvpr, eccv, iccv, mm","aaai, nips",0.001,0.604,68.91
+"acl, emnlp, iclr, nips",naacl,0.00105,0.551,68.88
+"iccv, ijcai","cvpr, nips",0.00137,0.589,68.55
+"iccv, iclr, icml","aaai, nips",0.00112,0.598,68.24
+"icml, mm","aaai, nips",0.00117,0.597,68.07
+"acl, coling, emnlp",naacl,0.00137,0.543,67.9
+"cvpr, eccv, iccv, icml","iclr, nips",0.00101,0.665,67.82
+"iclr, mm","cvpr, nips",0.00122,0.581,67.63
+"pimrc, vtc",wcnc,0.00123,0.535,67.04
+"acl, emnlp, iclr",naacl,0.00138,0.535,66.91
+"eccv, ijcai","aaai, nips",0.00107,0.586,66.86
+"iccv, icml","cvpr, eccv",0.00153,0.505,66.84
+"nips, wacv","cvpr, iccv",0.00126,0.566,66.75
+"aaai, acl, icml","iclr, nips",0.00111,0.653,66.66
+"acl, iccv","cvpr, nips",0.00109,0.571,66.46
+"eccv, iccv, icml","iclr, nips",0.00107,0.649,66.25
+"aaai, acl, emnlp, nips",naacl,0.00102,0.53,66.22
+"aaai, emnlp, icml","iclr, nips",0.00117,0.649,66.21
+"icml, mm","cvpr, nips",0.00111,0.568,66.15
+"aaai, mm, nips","cvpr, iccv",0.00135,0.559,65.93
+"iclr, mm","aaai, nips",0.00121,0.577,65.86
+"acl, iclr, icml","aaai, nips",0.00111,0.576,65.72
+"aaai, eccv","cvpr, nips",0.0022,0.564,65.65
+"eccv, iccv, mm","aaai, nips",0.00105,0.574,65.52
+"aaai, iccv, icml","iclr, nips",0.00112,0.64,65.31
+"cvpr, eccv, icml","aaai, nips",0.00116,0.572,65.25
+"iccv, ijcai","aaai, nips",0.00133,0.572,65.23
+"eccv, icip","cvpr, iccv",0.00107,0.545,64.28
+"cvpr, iccv, icml","aaai, nips",0.00131,0.56,63.92
+"emnlp, iclr, icml","aaai, nips",0.00117,0.56,63.85
+"emnlp, iccv","cvpr, nips",0.00116,0.548,63.85
+"eccv, mm","cvpr, nips",0.00147,0.546,63.58
+"acl, emnlp, icml",naacl,0.00102,0.507,63.37
+"cvpr, eccv, icml","iclr, nips",0.00125,0.62,63.26
+"aaai, cvpr, icml","iclr, nips",0.00146,0.619,63.16
+"cvpr, iclr, icml","aaai, nips",0.00146,0.554,63.16
+"eccv, iccv","cvpr, nips",0.00299,0.542,63.13
+"aaai, iccv","cvpr, nips",0.00252,0.536,62.42
+"cvpr, eccv, iccv, iclr","aaai, nips",0.0011,0.546,62.29
+"eccv, icassp","cvpr, iccv",0.00125,0.528,62.24
+"aaai, ijcai, mm","cvpr, nips",0.001,0.533,62.06
+"cvpr, iccv, icml","iclr, nips",0.00142,0.607,61.9
+"iclr, kdd","aaai, nips",0.00103,0.542,61.85
+"iclr, mm","cvpr, iccv",0.0011,0.523,61.72
+"icml, kdd","aaai, nips",0.00109,0.541,61.7
+"cvpr, iccv, nips, wacv",eccv,0.00101,0.799,61.68
+"acl, emnlp, icml","iclr, nips",0.00121,0.603,61.57
+"acl, emnlp, icml","aaai, nips",0.00108,0.537,61.26
+"acl, iccv","aaai, nips",0.00101,0.532,60.71
+"aaai, iclr, ijcai","icml, nips",0.00127,0.615,60.59
+"cvpr, eccv, mm","aaai, nips",0.00115,0.531,60.55
+"iccv, mm","cvpr, nips",0.00174,0.518,60.35
+"eccv, iccv, iclr","aaai, nips",0.00116,0.527,60.14
+"ijcai, kdd","aaai, nips",0.00103,0.523,59.65
+"cvpr, iccv, mm","aaai, nips",0.00135,0.521,59.39
+"aaai, icml, ijcai","iclr, nips",0.00127,0.582,59.35
+"cvpr, ijcai","aaai, nips",0.00168,0.52,59.33
+"eccv, icml","iclr, nips",0.00147,0.579,59.04
+"bmvc, cvpr, iccv",eccv,0.00116,0.762,58.85
+"eccv, icassp","cvpr, nips",0.00119,0.505,58.85
+"eccv, icml","aaai, nips",0.00131,0.515,58.72
+"kdd, www",cikm,0.00119,0.538,58.58
+"aaai, cvpr, eccv, mm, nips",iccv,0.001,0.868,58.42
+"iccv, wacv","cvpr, nips",0.00126,0.502,58.42
+"iccv, nips, wacv",eccv,0.00105,0.756,58.39
+"iccv, icml","aaai, nips",0.00154,0.51,58.21
+"aaai, cvpr, iccv, iclr, nips",eccv,0.0011,0.75,57.9
+"iccv, icml","iclr, nips",0.0017,0.563,57.43
+"cvpr, icassp, iccv","aaai, nips",0.00102,0.502,57.27
+"ijcai, mm","aaai, nips",0.0013,0.502,57.26
+"cvpr, eccv, iclr","aaai, nips",0.00131,0.502,57.22
+"aaai, cvpr, iccv, mm, nips",eccv,0.001,0.741,57.19
+"aaai, cvpr, icmcs",mm,0.00113,0.707,57.08
+"cvpr, eccv, nips, wacv",iccv,0.00101,0.845,56.83
+"cikm, sigir",www,0.00105,0.564,56.81
+"cvpr, eccv, mm, nips",iccv,0.00123,0.842,56.64
+"aaai, cvpr, eccv, iclr, nips",iccv,0.0011,0.841,56.61
+"acl, icml","iclr, nips",0.00168,0.554,56.53
+"aaai, cvpr, iccv, iclr",eccv,0.00122,0.732,56.5
+"iclr, kdd","icml, nips",0.00108,0.57,56.12
+"aaai, eccv, mm, nips",iccv,0.00105,0.834,56.09
+"globecom, pimrc, wcnc",icc,0.00108,0.814,55.72
+"aaai, cvpr, eccv, iclr",iccv,0.00122,0.826,55.55
+"aaai, cvpr, iclr","icml, nips",0.00146,0.563,55.46
+"icc, pimrc, wcnc",globecom,0.00108,0.825,55.46
+"cvpr, iccv, icmcs",mm,0.001,0.686,55.37
+"cvpr, iccv, iclr, icml, nips",eccv,0.00101,0.717,55.36
+"aaai, cvpr, eccv, mm",iccv,0.00124,0.823,55.35
+"aaai, iccv, iclr","icml, nips",0.00112,0.562,55.33
+"icc, vtc, wcnc",globecom,0.00148,0.822,55.25
+"emnlp, icml","iclr, nips",0.0018,0.541,55.22
+"aaai, acl, iclr","icml, nips",0.00111,0.56,55.19
+"cvpr, iccv, wacv",eccv,0.00149,0.713,55.08
+"aaai, emnlp, iclr","icml, nips",0.00117,0.559,54.99
+"icml, kdd","iclr, nips",0.00108,0.538,54.9
+"cvpr, iccv, iclr, nips",eccv,0.00171,0.71,54.83
+"aaai, cvpr, iccv, icml",eccv,0.00102,0.71,54.82
+"cvpr, iccv, mm, nips",eccv,0.00123,0.707,54.62
+"cvpr, eccv, iclr, icml, nips",iccv,0.00101,0.81,54.51
+"cvpr, iccv, iclr, icml",eccv,0.00108,0.705,54.47
+"iclr, ijcai","icml, nips",0.00156,0.553,54.45
+"icc, pimrc, vtc",globecom,0.00113,0.808,54.32
+"eccv, nips, wacv",iccv,0.00105,0.807,54.31
+"aaai, cvpr, eccv, nips",iccv,0.00177,0.806,54.21
+"globecom, icc, pimrc",vtc,0.00113,0.683,54.19
+"aaai, cvpr, iccv, nips",eccv,0.00177,0.701,54.15
+"cvpr, eccv, iclr, nips",iccv,0.00171,0.804,54.12
+"cvpr, nips, wacv",eccv,0.00119,0.7,54.04
+"cikm, kdd",www,0.00119,0.535,53.98
+"aaai, cvpr, eccv, icml",iccv,0.00102,0.802,53.96
+"cvpr, icml","iclr, nips",0.00233,0.528,53.87
+"globecom, pimrc, vtc",icc,0.00113,0.786,53.76
+"eccv, mm, nips",iccv,0.00131,0.798,53.66
+"aaai, emnlp, naacl, nips",acl,0.00102,0.874,53.63
+"cvpr, eccv, iclr, icml",iccv,0.00108,0.796,53.57
+"globecom, vtc, wcnc",icc,0.00148,0.783,53.56
+"aaai, iccv, mm, nips",eccv,0.00105,0.693,53.53
+"aaai, cvpr, iccv, mm",eccv,0.00124,0.693,53.51
+"bmvc, iccv",eccv,0.00124,0.692,53.41
+"aaai, eccv, iclr, nips",iccv,0.00116,0.793,53.32
+"icml, ijcai","iclr, nips",0.00156,0.522,53.29
+"coling, emnlp, naacl",acl,0.00137,0.866,53.18
+"cvpr, eccv, icml, nips",iccv,0.00135,0.787,52.96
+"cvpr, iccv, icml, nips",eccv,0.00135,0.684,52.84
+"cvpr, iccv, iclr",eccv,0.00202,0.684,52.82
+"emnlp, iclr, naacl, nips",acl,0.00105,0.86,52.77
+"eacl, naacl",acl,0.00102,0.856,52.54
+"aistats, icml","iclr, nips",0.00128,0.511,52.17
+"aaai, iccv, iclr, nips",eccv,0.00116,0.675,52.1
+"cvpr, eccv, ijcai",iccv,0.00113,0.774,52.07
+"emnlp, iclr, naacl",acl,0.00138,0.847,52.0
+"cvpr, eccv, iclr",iccv,0.00202,0.773,52.0
+"aaai, eccv, mm",iccv,0.00132,0.773,51.99
+"aaai, eccv, icml, nips",iccv,0.00101,0.772,51.91
+"coling, emnlp, nips",acl,0.00103,0.845,51.89
+"cvpr, iccv, icip",eccv,0.00107,0.672,51.89
+"aaai, emnlp, naacl",acl,0.00159,0.844,51.82
+"aaai, eccv, iclr",iccv,0.00129,0.769,51.74
+"bmvc, cvpr, eccv",iccv,0.00116,0.767,51.61
+"aaai, coling, emnlp",acl,0.00129,0.84,51.57
+"eccv, ijcai, nips",iccv,0.00101,0.766,51.54
+"cvpr, eccv, mm",iccv,0.00166,0.763,51.34
+"emnlp, icml, naacl",acl,0.00102,0.835,51.28
+"emnlp, naacl, nips",acl,0.00161,0.835,51.23
+"bmvc, nips",eccv,0.001,0.661,51.01
+"cvpr, eccv, icml",iccv,0.00153,0.756,50.85
+"icmcs, ijcai",mm,0.00102,0.628,50.74
+"aaai, cvpr, mm, nips",iccv,0.00135,0.754,50.73
+"cvpr, iccv, icml",eccv,0.00153,0.654,50.53
+"pimrc, wcnc",vtc,0.00123,0.636,50.5
+"aaai, iccv, icml, nips",eccv,0.00101,0.653,50.41
+"cvpr, eccv, nips",iccv,0.00299,0.749,50.4
+"iccv, mm, nips",eccv,0.00131,0.65,50.19
+"cvpr, iclr, mm",iccv,0.0011,0.746,50.19
+"cvpr, iccv, nips",eccv,0.00299,0.648,50.03
+"iccv, icmcs",mm,0.00118,0.619,50.02
+"aaai, iclr","icml, nips",0.00269,0.508,49.98
+"aaai, iccv, iclr",eccv,0.00129,0.647,49.97
+"aaai, eccv, nips",iccv,0.00189,0.742,49.94
+"aaai, cvpr, eccv",iccv,0.00229,0.742,49.94
+"aaai, eccv, icml",iccv,0.00109,0.741,49.83
+"cvpr, nips, wacv",iccv,0.00126,0.74,49.79
+"aaai, cvpr, iccv",eccv,0.00229,0.644,49.73
+"aaai, cvpr, mm, nips",eccv,0.00115,0.643,49.66
+"cvpr, eccv, iccv, iclr","icml, nips",0.00101,0.504,49.59
+"aaai, iccv, ijcai",mm,0.00105,0.614,49.59
+"eacl, emnlp",acl,0.00133,0.807,49.55
+"cvpr, eccv, wacv",iccv,0.00149,0.736,49.53
+"cvpr, iccv, mm",eccv,0.00166,0.638,49.29
+"eccv, icassp, nips",iccv,0.00101,0.731,49.19
+"iccv, wacv",eccv,0.0016,0.637,49.19
+"eccv, iclr, nips",iccv,0.00183,0.731,49.19
+"eccv, iclr, icml, nips",iccv,0.00107,0.731,49.18
+"cvpr, iccv, ijcai",eccv,0.00113,0.635,49.01
+"globecom, pimrc",vtc,0.00143,0.615,48.84
+"cvpr, iccv, ijcai",mm,0.00108,0.605,48.83
+"icc, wcnc",globecom,0.00241,0.726,48.82
+"globecom, icc, wcnc",vtc,0.00148,0.615,48.81
+"aaai, acl, naacl, nips",emnlp,0.00102,0.909,48.78
+"iccv, iclr, icml, nips",eccv,0.00107,0.63,48.68
+"aaai, iccv, mm",eccv,0.00132,0.629,48.57
+"aistats, iclr, nips",icml,0.00128,0.849,48.48
+"globecom, pimrc",icc,0.00165,0.708,48.45
+"aaai, naacl, nips",acl,0.00112,0.789,48.43
+"icc, pimrc",globecom,0.00165,0.718,48.32
+"aaai, cvpr, ijcai, nips",mm,0.001,0.598,48.31
+"iccv, iclr, nips",eccv,0.00183,0.625,48.24
+"icc, pimrc",vtc,0.0014,0.607,48.2
+"coling, naacl",acl,0.00153,0.784,48.14
+"globecom, wcnc",icc,0.00241,0.704,48.14
+"acl, iclr, naacl, nips",emnlp,0.00105,0.897,48.13
+"aaai, iccv, icml",eccv,0.00109,0.623,48.1
+"acl, iclr, naacl",emnlp,0.00138,0.893,47.91
+"aaai, iccv, nips",eccv,0.00189,0.62,47.87
+"acl, coling, naacl",emnlp,0.00137,0.891,47.83
+"eccv, iclr, icml",iccv,0.00115,0.709,47.71
+"cvpr, iccvw",eccv,0.00127,0.618,47.69
+"aaai, acl, naacl",emnlp,0.00159,0.886,47.56
+"aaai, icmcs",mm,0.00151,0.588,47.48
+"icassp, iccv, nips",eccv,0.00101,0.613,47.34
+"acl, icml, naacl",emnlp,0.00102,0.882,47.34
+"iccv, iclr, icml",eccv,0.00115,0.613,47.31
+"cvpr, icassp, iccv",eccv,0.00125,0.612,47.27
+"iccv, ijcai, nips",eccv,0.00101,0.612,47.27
+"eccv, icml, nips",iccv,0.00145,0.702,47.22
+"bmvc, cvpr",eccv,0.00151,0.611,47.18
+"cvpr, mm, nips",iccv,0.00174,0.701,47.15
+"iclr, naacl, nips",acl,0.00117,0.765,46.99
+"eacl, naacl",emnlp,0.00104,0.873,46.87
+"aaai, cvpr, icassp, nips",iccv,0.00102,0.696,46.81
+"cvpr, eccv, icassp",iccv,0.00125,0.696,46.81
+"acl, coling, nips",emnlp,0.00103,0.872,46.79
+"aaai, acl, coling",emnlp,0.00129,0.87,46.7
+"acl, naacl, nips",emnlp,0.00161,0.87,46.69
+"cvpr, eccv, icip",iccv,0.00107,0.692,46.57
+"aaai, cvpr, iclr, nips",eccv,0.00131,0.602,46.46
+"bmvc, eccv",iccv,0.00124,0.69,46.44
+"pimrc, wcnc",icc,0.00131,0.678,46.42
+"bmvc, nips",iccv,0.00104,0.688,46.27
+"pimrc, wcnc",globecom,0.00133,0.687,46.2
+"globecom, infocom",icc,0.00148,0.675,46.16
+"aaai, cvpr, ijcai",mm,0.0013,0.572,46.15
+"icmcs, nips",mm,0.00121,0.571,46.13
+"aaai, cvpr, icassp",mm,0.00121,0.568,45.83
+"iccv, icml, nips",eccv,0.00145,0.593,45.81
+"aaai, cvpr, eccv, iccv, nips",mm,0.001,0.567,45.79
+"icc, vtc",globecom,0.00259,0.68,45.75
+"eccv, iclr",iccv,0.00219,0.68,45.72
+"eccv, mm",iccv,0.00182,0.68,45.72
+"cvpr, ijcai, mm",iccv,0.00108,0.679,45.72
+"emnlp, naacl",acl,0.00334,0.744,45.7
+"aistats, iclr",icml,0.00139,0.799,45.66
+"eccv, ijcai",iccv,0.00124,0.678,45.61
+"iclr, naacl",acl,0.00155,0.742,45.53
+"cvpr, mm, nips",eccv,0.00147,0.589,45.47
+"aaai, cvpr, iclr, nips",iccv,0.00147,0.675,45.42
+"cvpr, icmcs",mm,0.00159,0.561,45.33
+"aaai, cvpr, ijcai, nips",iccv,0.00113,0.674,45.32
+"icc, infocom",globecom,0.00148,0.67,45.05
+"aaai, emnlp, iclr, nips",acl,0.00125,0.734,45.03
+"iccv, iclr",eccv,0.00219,0.583,45.03
+"nips, wacv",eccv,0.0013,0.583,45.02
+"aaai, naacl",acl,0.0018,0.733,44.99
+"vtc, wcnc",globecom,0.00189,0.668,44.95
+"aaai, eccv, iccv, nips",mm,0.00105,0.555,44.85
+"aaai, cvpr, mm",iccv,0.00179,0.665,44.72
+"iccv, icip",eccv,0.00119,0.579,44.72
+"aaai, acl, icml, nips",iclr,0.00111,0.762,44.58
+"aaai, emnlp, icml, nips",iclr,0.00117,0.762,44.58
+"coling, nips",acl,0.00118,0.726,44.55
+"aaai, emnlp, iclr",acl,0.00152,0.725,44.53
+"iclr, mm, nips",iccv,0.00106,0.662,44.51
+"acl, emnlp, icml, nips",iclr,0.00121,0.761,44.51
+"acl, eacl",emnlp,0.00133,0.829,44.5
+"eccv, icmcs",iccv,0.00103,0.661,44.47
+"globecom, vtc",icc,0.00259,0.647,44.24
+"aaai, cvpr, iclr",eccv,0.00148,0.573,44.22
+"eccv, nips",iccv,0.00329,0.656,44.16
+"aaai, naacl, nips",emnlp,0.00116,0.821,44.06
+"coling, emnlp",acl,0.00252,0.718,44.05
+"aaai, cvpr, icml, nips",eccv,0.00116,0.57,44.04
+"eccv, wacv",iccv,0.0016,0.654,44.01
+"cvpr, eccv, iccv, icml, nips",iclr,0.00101,0.751,43.92
+"globecom, wcnc",vtc,0.00189,0.553,43.87
+"naacl, nips",acl,0.00185,0.714,43.85
+"eccv, icml",iccv,0.00165,0.651,43.83
+"aaai, cvpr, iclr, icml",iccv,0.00102,0.651,43.78
+"cvpr, ijcai, nips",mm,0.00115,0.542,43.78
+"aaai, coling",acl,0.00148,0.712,43.74
+"aaai, cvpr, eccv, iccv",mm,0.00124,0.54,43.64
+"aaai, eccv",iccv,0.00253,0.648,43.62
+"icml, naacl",acl,0.00115,0.71,43.6
+"vtc, wcnc",icc,0.0018,0.637,43.58
+"emnlp, ijcai, nips",acl,0.00116,0.709,43.54
+"iccv, ijcai",mm,0.00125,0.539,43.52
+"aaai, cvpr, icmcs",iccv,0.00103,0.647,43.5
+"aaai, cvpr, iclr",iccv,0.00167,0.646,43.48
+"aaai, emnlp, ijcai",acl,0.00134,0.707,43.42
+"aaai, cvpr, icml, nips",iccv,0.00131,0.645,43.41
+"cvpr, ijcai, nips",iccv,0.00137,0.645,43.41
+"eccv, iccv, icml, nips",iclr,0.00107,0.742,43.38
+"aaai, cvpr, iccv, nips",mm,0.00135,0.537,43.35
+"coling, naacl",emnlp,0.00158,0.807,43.3
+"aaai, emnlp, icassp",acl,0.00105,0.705,43.27
+"aaai, cvpr, mm",eccv,0.0015,0.56,43.23
+"aaai, emnlp, icml, nips",acl,0.00108,0.703,43.14
+"icc, wcnc",vtc,0.0018,0.543,43.13
+"cvpr, icassp, iccv",mm,0.00108,0.531,42.86
+"iclr, naacl, nips",emnlp,0.00122,0.799,42.85
+"acl, naacl",emnlp,0.00334,0.796,42.73
+"cvpr, eccv, icml, nips",iclr,0.00125,0.73,42.67
+"emnlp, sigir",acl,0.00117,0.693,42.57
+"aaai, iccv, icml, nips",iclr,0.00112,0.728,42.56
+"aaai, kdd, nips",ijcai,0.00103,0.588,42.51
+"aaai, cvpr, eccv, nips",mm,0.00115,0.526,42.49
+"cvpr, icmcs, mm",iccv,0.001,0.631,42.48
+"ijcai, naacl",emnlp,0.00102,0.792,42.47
+"cvpr, iccv",eccv,0.00465,0.549,42.38
+"aaai, cvpr, nips",iccv,0.00252,0.629,42.34
+"aaai, eccv, iccv",mm,0.00132,0.524,42.32
+"acl, icml, nips",iclr,0.00168,0.723,42.31
+"aaai, cvpr, nips",eccv,0.0022,0.548,42.3
+"aaai, emnlp, nips",acl,0.00192,0.689,42.29
+"cvpr, icassp, mm",iccv,0.00108,0.628,42.25
+"aaai, emnlp, icml",acl,0.00124,0.688,42.24
+"iccv, nips",eccv,0.00329,0.546,42.2
+"iccv, icml",eccv,0.00165,0.546,42.2
+"cvpr, icassp, nips",iccv,0.00138,0.626,42.09
+"emnlp, icml, nips",iclr,0.0018,0.719,42.04
+"pimrc, vtc",globecom,0.00143,0.625,42.03
+"aaai, cvpr, icml, nips",iclr,0.00146,0.718,41.98
+"aaai, cvpr, icml",eccv,0.00128,0.544,41.97
+"aaai, mm, nips",iccv,0.00151,0.624,41.97
+"iclr, naacl",emnlp,0.00163,0.782,41.95
+"cvpr, iccv, icml, nips",iclr,0.00142,0.717,41.92
+"cvpr, icassp, nips",eccv,0.00119,0.543,41.9
+"nips, wacv",iccv,0.00139,0.622,41.87
+"iccv, mm",eccv,0.00182,0.542,41.85
+"cvpr, iclr, nips",eccv,0.00212,0.541,41.75
+"iccv, icmcs",eccv,0.00103,0.54,41.66
+"eccv, icml, nips",iclr,0.00147,0.712,41.66
+"aistats, nips",icml,0.00209,0.729,41.62
+"pimrc, vtc",icc,0.0014,0.608,41.6
+"aaai, acl, icml",iclr,0.00121,0.711,41.58
+"cvpr, iclr, icml, nips",eccv,0.00125,0.537,41.5
+"cvpr, eccv, iccv, icml",iclr,0.00108,0.709,41.48
+"cvpr, ijcai, nips",eccv,0.00114,0.537,41.46
+"cvpr, eccv",iccv,0.00465,0.616,41.46
+"aaai, iccv",eccv,0.00253,0.537,41.43
+"aaai, cvpr, icassp",iccv,0.00132,0.615,41.39
+"aaai, iclr, ijcai, nips",icml,0.00127,0.724,41.38
+"bmvc, cvpr",iccv,0.00152,0.615,41.38
+"aaai, cvpr, icml",iccv,0.00144,0.614,41.31
+"aaai, emnlp, icml",iclr,0.00127,0.706,41.3
+"aaai, cvpr, iccv, icml",iclr,0.00102,0.706,41.3
+"aaai, naacl",emnlp,0.00189,0.77,41.29
+"iccv, ijcai",eccv,0.00124,0.534,41.27
+"iclr, kdd, nips",icml,0.00108,0.722,41.26
+"aaai, acl, iclr, nips",emnlp,0.00125,0.768,41.21
+"cvpr, iclr, nips",iccv,0.00241,0.612,41.2
+"emnlp, iclr, icml, nips",acl,0.00121,0.671,41.2
+"aaai, cvpr, ijcai",iccv,0.00138,0.611,41.11
+"aaai, cvpr, icassp",eccv,0.00114,0.532,41.11
+"cvpr, wacv",eccv,0.00202,0.532,41.1
+"aaai, acl, iclr",emnlp,0.00152,0.764,40.97
+"emnlp, iclr, nips",acl,0.00191,0.667,40.92
+"cvpr, iclr, icml, nips",iccv,0.00142,0.607,40.87
+"iccv, icml, nips",iclr,0.0017,0.698,40.83
+"globecom, icassp",icc,0.00111,0.596,40.77
+"eccv, iccv, icml",iclr,0.00115,0.696,40.7
+"emnlp, iclr, icml",acl,0.00138,0.663,40.68
+"icml, naacl",iclr,0.00113,0.695,40.67
+"aaai, eccv, icml",iclr,0.00103,0.694,40.6
+"aaai, cvpr, iccv",mm,0.00179,0.502,40.56
+"icassp, icc",globecom,0.00111,0.603,40.52
+"eccv, icip",iccv,0.00119,0.601,40.45
+"aaai, cvpr, mm, nips",ijcai,0.001,0.559,40.42
+"acl, coling",emnlp,0.00252,0.753,40.4
+"nips, uai",icml,0.00103,0.707,40.37
+"acl, emnlp, icml",iclr,0.00138,0.69,40.33
+"icml, naacl",emnlp,0.00122,0.75,40.25
+"coling, nips",emnlp,0.00121,0.749,40.17
+"aaai, mm, nips",eccv,0.00126,0.519,40.05
+"aaai, iccv, icml",iclr,0.0012,0.684,40.03
+"cvpr, iclr, icml",eccv,0.00136,0.518,39.97
+"naacl, nips",emnlp,0.00193,0.745,39.96
+"aaai, acl, icassp",emnlp,0.00105,0.744,39.92
+"aaai, icml, ijcai, nips",iclr,0.00127,0.682,39.89
+"cvpr, emnlp, iclr",acl,0.001,0.65,39.89
+"emnlp, ijcai",acl,0.00178,0.65,39.88
+"iclr, mm",iccv,0.00124,0.592,39.83
+"aaai, cvpr, emnlp",acl,0.00113,0.649,39.81
+"cvpr, icml, nips",iclr,0.00233,0.678,39.68
+"aaai, wacv",iccv,0.00104,0.59,39.67
+"aaai, coling",emnlp,0.00153,0.738,39.6
+"eccv, icassp",iccv,0.00139,0.588,39.59
+"iclr, ijcai, nips",icml,0.00156,0.693,39.57
+"aaai, acl, icml, nips",emnlp,0.00108,0.737,39.54
+"emnlp, www",acl,0.00145,0.643,39.49
+"acl, sigir",emnlp,0.00117,0.736,39.49
+"cvpr, eccv, icml",iclr,0.00136,0.673,39.37
+"cvpr, iclr, icml",iccv,0.00154,0.584,39.31
+"icml, kdd, nips",iclr,0.00108,0.671,39.24
+"aaai, emnlp, iclr, nips",icml,0.00117,0.686,39.21
+"cikm, emnlp",acl,0.00145,0.638,39.19
+"emnlp, iclr",acl,0.00258,0.638,39.14
+"aaai, acl, iclr, nips",icml,0.00111,0.685,39.14
+"aaai, acl, icml",emnlp,0.00124,0.727,38.99
+"aaai, emnlp",acl,0.00322,0.635,38.99
+"aaai, cvpr, icml",iclr,0.00157,0.666,38.97
+"acl, ijcai, nips",emnlp,0.00116,0.726,38.95
+"aaai, cvpr, ijcai",eccv,0.00114,0.504,38.94
+"aaai, acl, ijcai",emnlp,0.00134,0.725,38.91
+"emnlp, icml, nips",acl,0.00159,0.634,38.91
+"aaai, mm, nips",ijcai,0.0013,0.538,38.9
+"cvpr, icml, nips",iccv,0.00198,0.575,38.68
+"acl, iclr, icml, nips",emnlp,0.00121,0.72,38.63
+"cvpr, iccv, icml",iclr,0.00154,0.658,38.47
+"emnlp, iccv, nips",iclr,0.001,0.658,38.46
+"icml, ijcai, nips",iclr,0.00156,0.657,38.44
+"aaai, acl, nips",emnlp,0.00192,0.716,38.43
+"acl, iclr, icml",emnlp,0.00138,0.715,38.39
+"cvpr, emnlp, nips",iccv,0.00116,0.57,38.35
+"emnlp, kdd",acl,0.0012,0.625,38.34
+"acl, iclr, nips",emnlp,0.00191,0.715,38.34
+"acl, emnlp, naacl, nips",iclr,0.00105,0.654,38.25
+"aaai, cvpr, iclr, nips",icml,0.00146,0.669,38.23
+"aaai, acl, emnlp, nips",iclr,0.00125,0.65,38.02
+"acl, cvpr, nips",iccv,0.00109,0.565,37.99
+"aaai, iclr, nips",icml,0.00269,0.664,37.94
+"cvpr, iclr",iccv,0.00295,0.562,37.8
+"cvpr, emnlp, nips",acl,0.00126,0.615,37.76
+"aaai, icml, nips",iclr,0.00269,0.645,37.75
+"icip, nips",iccv,0.00103,0.561,37.75
+"acl, cvpr, nips",iclr,0.00124,0.645,37.71
+"aaai, iclr, ijcai",icml,0.00136,0.66,37.68
+"cvpr, mm",iccv,0.0026,0.559,37.58
+"acl, ijcai, nips",iclr,0.00103,0.642,37.57
+"cvpr, emnlp, nips",iclr,0.00131,0.642,37.53
+"aaai, iccv, iclr, nips",icml,0.00112,0.656,37.49
+"acl, cikm",emnlp,0.00145,0.697,37.42
+"aaai, ijcai, mm",iccv,0.00105,0.556,37.39
+"eccv, icml",iclr,0.00162,0.639,37.39
+"acl, www",emnlp,0.00145,0.697,37.37
+"icml, mm",iccv,0.00109,0.555,37.36
+"acl, cvpr, iclr",emnlp,0.001,0.695,37.28
+"acl, icml",iclr,0.00193,0.637,37.27
+"cvpr, iccvw",iccv,0.00114,0.554,37.26
+"emnlp, ijcai, nips",iclr,0.00104,0.637,37.23
+"icassp, icml, nips",iclr,0.00123,0.636,37.22
+"acl, iclr",emnlp,0.00258,0.692,37.15
+"emnlp, naacl, nips",iclr,0.00122,0.635,37.14
+"cvpr, ijcai",iccv,0.00178,0.552,37.13
+corl,icra,0.00114,0.581,37.11
+"acl, naacl, nips",iclr,0.00117,0.635,37.11
+"cvpr, wacv",iccv,0.00209,0.549,36.96
+"emnlp, icml",acl,0.00201,0.602,36.95
+"emnlp, nips",acl,0.0033,0.599,36.75
+"acl, icml, nips",emnlp,0.00159,0.684,36.72
+"eccv, iccv, nips, wacv",cvpr,0.00101,0.96,36.7
+"emnlp, mm",acl,0.00118,0.597,36.63
+"emnlp, icml",iclr,0.00209,0.626,36.63
+eacl,acl,0.00161,0.596,36.59
+"aaai, eccv, iccv, mm, nips",cvpr,0.001,0.957,36.58
+"aaai, icml, ijcai",iclr,0.00136,0.623,36.46
+"aaai, acl, cvpr",emnlp,0.00113,0.679,36.42
+"aaai, eccv, iccv, iclr, nips",cvpr,0.0011,0.952,36.41
+"aaai, cvpr, eccv, iccv, nips",iclr,0.0011,0.622,36.39
+"aaai, acl",emnlp,0.00322,0.678,36.39
+"acl, ijcai",emnlp,0.00178,0.678,36.37
+"aaai, cvpr, icml, nips",ijcai,0.00102,0.503,36.34
+"icassp, iclr, nips",icml,0.00123,0.636,36.34
+"aaai, cikm",ijcai,0.00143,0.502,36.34
+"iccv, icml",iclr,0.00188,0.621,36.31
+"aaai, www",ijcai,0.00138,0.502,36.28
+spawc,icc,0.00106,0.53,36.23
+"mm, nips",iccv,0.00201,0.538,36.22
+"emnlp, icassp",acl,0.00165,0.59,36.22
+"acl, emnlp, iclr, nips",icml,0.00121,0.634,36.18
+"cvpr, nips",iccv,0.00461,0.538,36.17
+"eccv, iccv, iclr, icml, nips",cvpr,0.00101,0.945,36.13
+"eccv, iccv, mm, nips",cvpr,0.00123,0.945,36.1
+"aaai, eccv, iccv, iclr",cvpr,0.00122,0.944,36.07
+"acl, kdd",emnlp,0.0012,0.671,35.99
+"eccv, iccv, iclr, icml",cvpr,0.00108,0.941,35.96
+"emnlp, iclr, nips",icml,0.0018,0.629,35.94
+"iclr, kdd",icml,0.0012,0.629,35.93
+"acl, iclr, nips",icml,0.00168,0.629,35.91
+"aaai, eccv, iccv, nips",cvpr,0.00177,0.937,35.83
+"aaai, eccv, iccv, nips",iclr,0.00116,0.612,35.82
+"aaai, cvpr",iccv,0.00356,0.532,35.81
+"aaai, eccv, iccv, icml",cvpr,0.00102,0.937,35.8
+"icmcs, nips",iccv,0.00113,0.532,35.78
+"aaai, cvpr, ijcai, nips",iclr,0.00103,0.612,35.78
+"bmvc, eccv, iccv",cvpr,0.00116,0.936,35.76
+"eccv, iccv, iclr, nips",cvpr,0.00171,0.935,35.75
+"aaai, eccv, iccv, mm",cvpr,0.00124,0.935,35.73
+"aistats, icml, nips",iclr,0.00128,0.611,35.73
+"aaai, emnlp, nips",iclr,0.0017,0.611,35.71
+"eccv, iccv, icml, nips",cvpr,0.00135,0.934,35.68
+"aaai, icip",iccv,0.00104,0.529,35.61
+"aaai, kdd, nips",icml,0.00109,0.623,35.6
+"cvpr, icml",iccv,0.00233,0.529,35.56
+"eccv, iccv, wacv",cvpr,0.00149,0.929,35.51
+"acl, icml",emnlp,0.00201,0.661,35.47
+"aaai, acl, nips",iclr,0.00163,0.606,35.46
+"eccv, iccv, icml",cvpr,0.00153,0.923,35.29
+"eccv, iccv, iclr",cvpr,0.00202,0.92,35.15
+"aaai, eccv, mm, nips",cvpr,0.00115,0.919,35.12
+"eccv, nips, wacv",cvpr,0.00119,0.918,35.08
+"acl, cvpr, nips",emnlp,0.00126,0.653,35.03
+"aaai, cvpr, emnlp",iclr,0.00104,0.598,34.96
+"acl, cvpr, emnlp",iclr,0.001,0.597,34.9
+"aaai, cvpr, iccv, iclr",icml,0.00102,0.611,34.88
+"aaai, cvpr, eccv, nips",iclr,0.00131,0.596,34.85
+"aaai, acl, iclr",icml,0.00121,0.61,34.84
+"cvpr, icml",iclr,0.00263,0.595,34.8
+"aaai, eccv, iclr",icml,0.00103,0.609,34.8
+"eccv, iccv, ijcai",cvpr,0.00113,0.91,34.79
+"eccv, iccv, mm",cvpr,0.00166,0.91,34.78
+"cvpr, icmcs",iccv,0.00146,0.517,34.78
+"iccv, nips, wacv",cvpr,0.00126,0.909,34.75
+"icml, kdd",iclr,0.0012,0.594,34.73
+"aaai, emnlp, iclr",icml,0.00127,0.608,34.72
+"eccv, iccv, nips",cvpr,0.00299,0.908,34.7
+"aaai, cvpr, ijcai, nips",icml,0.00102,0.607,34.68
+"aaai, eccv, iccv",cvpr,0.00229,0.907,34.66
+"aaai, cvpr, iclr",icml,0.00157,0.606,34.64
+"naacl, nips",iclr,0.00153,0.592,34.63
+"eccv, iccv, icip",cvpr,0.00107,0.906,34.63
+"acl, nips",emnlp,0.0033,0.645,34.59
+"iclr, ijcai",icml,0.00171,0.605,34.57
+"aaai, kdd, nips",iclr,0.00103,0.59,34.49
+"cvpr, icra",iccv,0.00134,0.511,34.41
+"aaai, iccv, iclr",icml,0.0012,0.601,34.33
+"cvpr, ijcai, mm, nips",aaai,0.001,0.874,34.3
+"aaai, eccv, iclr, nips",cvpr,0.00131,0.897,34.29
+"aaai, icassp, nips",iccv,0.00118,0.51,34.28
+"eccv, icassp, iccv",cvpr,0.00125,0.897,34.27
+"aaai, iccv, mm, nips",cvpr,0.00135,0.896,34.24
+"eccv, mm, nips",cvpr,0.00147,0.895,34.2
+"aaai, cvpr, iccv, nips",iclr,0.00147,0.582,34.03
+"cvpr, ijcai, nips",iclr,0.00123,0.581,34.01
+acmdis,chi,0.00174,0.558,33.99
+"emnlp, iccv",acl,0.00118,0.554,33.98
+"cvpr, eccv, iccv, iclr, nips",icml,0.00101,0.594,33.94
+"acl, icassp",emnlp,0.00165,0.632,33.89
+"cvpr, iclr, nips",icml,0.00233,0.593,33.88
+"aaai, eccv, icml, nips",cvpr,0.00116,0.885,33.81
+spawc,globecom,0.001,0.503,33.8
+"acl, emnlp, nips",iclr,0.00191,0.578,33.8
+"cvpr, iros",iccv,0.00131,0.502,33.8
+"iccv, iclr, mm",cvpr,0.0011,0.884,33.77
+"cvpr, emnlp",acl,0.00168,0.55,33.73
+"cvpr, eccv, iclr, nips",icml,0.00125,0.59,33.69
+"cvpr, iccv, iclr, nips",icml,0.00142,0.588,33.61
+"aaai, eccv, iclr",cvpr,0.00148,0.879,33.6
+"eccv, iclr, nips",icml,0.00147,0.588,33.58
+"eccv, iccv, iclr, nips",icml,0.00107,0.588,33.58
+"aaai, eccv, mm",cvpr,0.0015,0.878,33.57
+"aaai, eccv, nips",iclr,0.00146,0.574,33.55
+"icml, ijcai",iclr,0.00171,0.572,33.43
+"acl, mm",emnlp,0.00118,0.623,33.42
+"cvpr, eccv, iccv, nips",iclr,0.00171,0.571,33.41
+"cvpr, icml, ijcai, nips",aaai,0.00102,0.85,33.34
+"iclr, nips",icml,0.00572,0.583,33.32
+"iccv, iclr, nips",icml,0.0017,0.583,33.28
+"iros, nips",icra,0.00119,0.521,33.27
+"aaai, icassp, iccv, nips",cvpr,0.00102,0.869,33.21
+"iccv, mm, nips",cvpr,0.00174,0.868,33.18
+"acl, iccv",emnlp,0.00118,0.618,33.14
+"ijcai, mm, nips",aaai,0.0013,0.843,33.08
+"aaai, eccv, icml",cvpr,0.00128,0.865,33.07
+"aaai, eccv, nips",cvpr,0.0022,0.864,33.01
+"cvpr, iros",icra,0.00135,0.517,33.0
+"iccv, iccvw",cvpr,0.00114,0.864,33.0
+"eccv, ijcai, nips",cvpr,0.00114,0.863,32.97
+"cvpr, emnlp, nips",icml,0.00118,0.577,32.95
+"icml, nips",iclr,0.00572,0.563,32.91
+"aaai, iccv, nips",iclr,0.00171,0.563,32.91
+"iccv, ijcai, mm",cvpr,0.00108,0.86,32.87
+"aaai, eccv, icassp",cvpr,0.00114,0.86,32.86
+"eccv, icassp, nips",cvpr,0.00119,0.86,32.86
+eacl,emnlp,0.00165,0.612,32.85
+"iccv, ijcai, mm",aaai,0.00105,0.837,32.83
+"aaai, icml",iclr,0.00302,0.56,32.76
+"aaai, iccv, iclr, nips",cvpr,0.00147,0.857,32.76
+"aaai, iccv, icmcs",cvpr,0.00103,0.856,32.72
+"cvpr, iclr, ijcai, nips",aaai,0.00103,0.833,32.69
+"acl, cvpr, nips",icml,0.0011,0.571,32.6
+"aaai, iclr",icml,0.00302,0.571,32.6
+"eccv, iclr, icml, nips",cvpr,0.00125,0.853,32.59
+"aaai, eccv, ijcai",cvpr,0.00114,0.853,32.59
+"acl, cvpr",emnlp,0.00168,0.607,32.56
+"acl, iccv",iclr,0.00106,0.556,32.55
+"aaai, iccv, ijcai, nips",cvpr,0.00113,0.851,32.52
+"iccv, icmcs, mm",cvpr,0.001,0.85,32.51
+"eccv, iclr, nips",cvpr,0.00212,0.85,32.49
+"bmvc, iccv",cvpr,0.00152,0.849,32.45
+"cvpr, iccv, ijcai, nips",aaai,0.00113,0.827,32.44
+"aaai, iccv, mm",cvpr,0.00179,0.849,32.44
+"eccv, iccv, nips",iclr,0.00183,0.554,32.43
+"aaai, iccv, iclr, icml",cvpr,0.00102,0.848,32.41
+"aistats, icml",iclr,0.00139,0.554,32.39
+"aaai, iccv, icml, nips",cvpr,0.00131,0.847,32.37
+"cvpr, ijcai, nips",icml,0.0012,0.566,32.32
+"eccv, iccv",cvpr,0.00465,0.843,32.22
+"icml, mm",iclr,0.00108,0.55,32.18
+"aaai, ijcai, nips",icml,0.00186,0.563,32.17
+"bmvc, eccv",cvpr,0.00151,0.842,32.17
+"emnlp, iclr, ijcai",aaai,0.00101,0.82,32.17
+"cvpr, icml, ijcai",aaai,0.00111,0.819,32.14
+naacl,acl,0.00419,0.523,32.13
+"ijcai, kdd, nips",aaai,0.00103,0.819,32.12
+"cvpr, ijcai, mm",aaai,0.0013,0.818,32.08
+"icassp, ijcai, nips",aaai,0.00113,0.817,32.06
+"aaai, acl, emnlp, nips",icml,0.00108,0.561,32.04
+"eccv, iclr, icml",cvpr,0.00136,0.838,32.03
+"eccv, ijcai, nips",aaai,0.00107,0.814,31.93
+"cvpr, eccv, iccv, mm, nips",aaai,0.001,0.813,31.9
+"aaai, iccv, iclr",cvpr,0.00167,0.835,31.9
+"cvpr, iclr, ijcai",aaai,0.00114,0.812,31.87
+"acl, ijcai, nips",aaai,0.0013,0.812,31.86
+"eccv, icml, nips",cvpr,0.00172,0.833,31.82
+"iclr, icml, ijcai, nips",aaai,0.00127,0.811,31.82
+"icassp, iccv, nips",cvpr,0.00138,0.831,31.77
+"iccv, iclr, icml, nips",cvpr,0.00142,0.831,31.77
+"aaai, cvpr, nips",iclr,0.00217,0.543,31.73
+"iccv, wacv",cvpr,0.00209,0.83,31.71
+"aaai, iccv, nips",cvpr,0.00252,0.829,31.67
+"icassp, iccv, mm",cvpr,0.00108,0.829,31.67
+"iccv, ijcai, nips",cvpr,0.00137,0.828,31.66
+"iccv, ijcai, nips",aaai,0.00133,0.805,31.58
+"eccv, wacv",cvpr,0.00202,0.826,31.56
+"eccv, iccv, mm, nips",aaai,0.00105,0.802,31.48
+"iccv, iclr, nips",cvpr,0.00241,0.823,31.45
+"emnlp, ijcai, nips",aaai,0.00131,0.802,31.45
+"aaai, iccv, icml",cvpr,0.00144,0.822,31.41
+"aaai, emnlp, nips",icml,0.00153,0.55,31.41
+"emnlp, iccv",iclr,0.00114,0.537,31.4
+"aaai, icassp, iccv",cvpr,0.00132,0.819,31.3
+"iccv, iclr, icml",cvpr,0.00154,0.817,31.23
+"bmvc, nips",cvpr,0.00124,0.817,31.23
+"aaai, cvpr, eccv, iccv",iclr,0.00122,0.533,31.2
+"iclr, icml, ijcai",aaai,0.00136,0.794,31.16
+"aaai, acl, nips",icml,0.00146,0.545,31.13
+"kdd, nips",icml,0.00162,0.545,31.13
+"cvpr, eccv, nips",iclr,0.00212,0.532,31.12
+"cvpr, ijcai, nips",aaai,0.00168,0.792,31.08
+"aaai, emnlp, ijcai",iclr,0.00101,0.531,31.07
+"icassp, icml",iclr,0.00141,0.531,31.04
+"aaai, iccv, ijcai",cvpr,0.00138,0.812,31.04
+"aaai, ijcai, nips",iclr,0.00175,0.53,31.02
+ijcnlp,acl,0.00104,0.505,30.98
+"eccv, mm",cvpr,0.00218,0.81,30.98
+"iccv, icml, nips",cvpr,0.00198,0.809,30.94
+"cvpr, eccv, mm, nips",aaai,0.00115,0.788,30.93
+"eccv, iclr",cvpr,0.00261,0.809,30.91
+"iclr, naacl",icml,0.00113,0.54,30.85
+"aaai, icassp, nips",iclr,0.00122,0.527,30.83
+"iccv, mm, nips",iclr,0.00106,0.526,30.78
+"eccv, icmcs",cvpr,0.00125,0.804,30.72
+"cvpr, eccv, ijcai",aaai,0.00114,0.783,30.72
+"cvpr, icml, mm",aaai,0.00103,0.783,30.72
+"cvpr, eccv, iccv, iclr",icml,0.00108,0.537,30.7
+"cvpr, icassp, nips",iclr,0.00115,0.525,30.68
+"aistats, nips",iclr,0.00151,0.524,30.67
+"icml, ijcai, nips",aaai,0.00186,0.782,30.66
+"icml, mm, nips",aaai,0.00117,0.779,30.57
+"eccv, iccvw",cvpr,0.00127,0.8,30.57
+"acl, emnlp, iclr",icml,0.00138,0.535,30.56
+"aaai, eccv, iccv, nips",icml,0.00101,0.534,30.53
+"cvpr, iccv, ijcai",aaai,0.00138,0.778,30.52
+"acl, nips",iclr,0.00267,0.521,30.5
+"cvpr, iccv, nips",iclr,0.00241,0.521,30.49
+"acl, cvpr",iclr,0.00144,0.521,30.48
+"eccv, ijcai",cvpr,0.00146,0.797,30.47
+"cvpr, iccv, mm, nips",aaai,0.00135,0.777,30.46
+aistats,icml,0.0025,0.533,30.44
+"iclr, ijcai, nips",aaai,0.00175,0.776,30.43
+"eccv, icml",cvpr,0.00202,0.796,30.42
+"eccv, nips",cvpr,0.00399,0.796,30.41
+"iccv, icpr",cvpr,0.00112,0.795,30.37
+"emnlp, nips",iclr,0.00286,0.519,30.35
+"icassp, iclr",icml,0.00141,0.53,30.27
+"aaai, eccv",cvpr,0.00308,0.792,30.27
+"aaai, bmvc",cvpr,0.00103,0.789,30.15
+"eccv, mm, nips",aaai,0.00126,0.768,30.12
+"eccv, icip",cvpr,0.00155,0.787,30.09
+"aaai, cvpr, eccv, nips",icml,0.00116,0.527,30.08
+naacl,emnlp,0.00448,0.56,30.05
+"eccv, iccv, iclr",icml,0.00115,0.525,30.0
+"aaai, eccv, iccv",iclr,0.00129,0.513,29.98
+"bmvc, wacv",cvpr,0.001,0.784,29.98
+"iccv, iclr",cvpr,0.00295,0.784,29.96
+"cvpr, icra",iros,0.00135,0.512,29.86
+"iccv, icip",cvpr,0.0016,0.781,29.84
+"iclr, mm, nips",aaai,0.00121,0.76,29.8
+"cvpr, eccv, iclr",icml,0.00136,0.522,29.8
+"cvpr, iccv, iclr",icml,0.00154,0.521,29.77
+"acl, iccv, nips",cvpr,0.00109,0.778,29.75
+"aaai, cvpr, iccv, nips",icml,0.00131,0.519,29.62
+"icassp, mm, nips",aaai,0.00112,0.755,29.6
+"kdd, nips",iclr,0.0015,0.506,29.6
+"acl, iclr",icml,0.00193,0.518,29.58
+"iclr, wacv",cvpr,0.00116,0.774,29.57
+"acl, emnlp, ijcai",aaai,0.00134,0.754,29.56
+"cvpr, eccv, iccv, iclr, icml",nips,0.00101,0.937,29.54
+"iccv, mm",cvpr,0.0026,0.773,29.53
+"aaai, icmcs, nips",cvpr,0.00107,0.772,29.52
+"iccv, mm, nips",aaai,0.00151,0.752,29.52
+"cvpr, emnlp",iclr,0.00154,0.505,29.51
+"aaai, iccv, iclr, icml",nips,0.00112,0.935,29.47
+"iccv, icml",cvpr,0.00233,0.771,29.47
+"aaai, cvpr, ijcai",iclr,0.00114,0.504,29.45
+"aaai, ijcai, mm, nips",cvpr,0.001,0.77,29.43
+"emnlp, iclr",icml,0.00209,0.515,29.4
+"aaai, iclr, icml, ijcai",nips,0.00127,0.933,29.4
+"eccv, iccv, iclr, icml",nips,0.00107,0.933,29.4
+"aaai, eccv, nips",icml,0.00131,0.514,29.37
+"iccv, icmcs",cvpr,0.00146,0.768,29.37
+"iccv, ijcai",cvpr,0.00178,0.766,29.3
+"aaai, mm, nips",iclr,0.00121,0.501,29.29
+"aaai, cvpr, iclr, icml",nips,0.00146,0.929,29.28
+"iccv, nips",cvpr,0.00461,0.766,29.27
+"cvpr, eccv, iccv, mm",aaai,0.00124,0.745,29.24
+"cvpr, iclr, mm",aaai,0.0011,0.745,29.24
+"iclr, mm",icml,0.00108,0.512,29.24
+"nips, wacv",cvpr,0.00171,0.765,29.22
+"aaai, icassp, nips",icml,0.00118,0.511,29.2
+"iclr, mm, nips",cvpr,0.00122,0.764,29.19
+"nips, www",icml,0.00127,0.511,29.18
+"cvpr, icmcs, nips",aaai,0.00107,0.743,29.15
+"emnlp, iccv, nips",cvpr,0.00116,0.762,29.14
+"acl, eccv",cvpr,0.00112,0.762,29.14
+"cvpr, icassp, iccv, nips",aaai,0.00102,0.743,29.14
+"aistats, iclr, icml",nips,0.00128,0.923,29.1
+"cvpr, iccv, iclr, icml",nips,0.00142,0.922,29.06
+"aaai, eccv, iccv, icml",nips,0.00101,0.922,29.05
+"cvpr, eccv, iclr, icml",nips,0.00125,0.921,29.03
+"eccv, icpr",cvpr,0.00112,0.759,29.0
+"aaai, iccv, nips",icml,0.00154,0.507,28.99
+"eccv, icassp",cvpr,0.00179,0.758,28.98
+"ijcai, nips",icml,0.00237,0.507,28.97
+"aaai, acl, iclr, icml",nips,0.00111,0.919,28.96
+"aaai, emnlp, iclr, icml",nips,0.00117,0.919,28.96
+"aaai, cvpr, icml, ijcai",nips,0.00102,0.919,28.96
+"eccv, icra",cvpr,0.00123,0.757,28.93
+"aaai, cvpr, nips",icml,0.00203,0.506,28.89
+"aaai, iccv",cvpr,0.00356,0.755,28.87
+"aaai, iclr, mm",cvpr,0.0011,0.755,28.86
+"iccv, ijcai",aaai,0.00171,0.734,28.81
+"iclr, icml, ijcai",nips,0.00156,0.914,28.79
+"eccv, iclr",icml,0.00162,0.503,28.75
+"iccv, icra",cvpr,0.00134,0.752,28.73
+"eccv, ijcai",aaai,0.00134,0.732,28.73
+"cvpr, iclr",icml,0.00263,0.501,28.62
+"iclr, ijcai",aaai,0.00206,0.729,28.59
+"icml, ijcai",aaai,0.00218,0.728,28.57
+"iccv, iclr, icml",nips,0.0017,0.907,28.57
+"aaai, cvpr, iccv, icml",nips,0.00131,0.906,28.56
+"iccv, iclr",icml,0.00188,0.5,28.56
+"iclr, icml, kdd",nips,0.00108,0.906,28.55
+"eccv, iclr, icml",nips,0.00147,0.905,28.52
+"aaai, icml, mm",cvpr,0.00103,0.746,28.51
+"aaai, cvpr, eccv, icml",nips,0.00116,0.905,28.51
+"aaai, wacv",cvpr,0.00131,0.746,28.5
+"acl, iccv, nips",aaai,0.00101,0.726,28.48
+"ijcai, mm",aaai,0.00188,0.726,28.47
+"eccv, iccv, mm",aaai,0.00132,0.726,28.46
+"aaai, icmcs, mm",cvpr,0.00113,0.743,28.41
+"aaai, cvpr, eccv, iccv, iclr",nips,0.0011,0.901,28.4
+"ijcai, mm, nips",cvpr,0.00115,0.743,28.38
+"eccv, iros",cvpr,0.00119,0.742,28.36
+"aaai, cvpr, iclr, ijcai",nips,0.00103,0.899,28.35
+"icml, mm, nips",cvpr,0.00111,0.742,28.34
+"aaai, mm, nips",cvpr,0.0018,0.741,28.33
+"cvpr, mm, nips",aaai,0.0018,0.722,28.32
+"eccv, emnlp",cvpr,0.00121,0.741,28.31
+"iccv, iros",cvpr,0.00131,0.737,28.18
+"aaai, eccv, iccv, iclr",nips,0.00116,0.893,28.14
+"ijcai, kdd",aaai,0.00141,0.716,28.09
+"icip, nips",cvpr,0.00135,0.734,28.06
+"icassp, mm, nips",cvpr,0.00109,0.734,28.05
+"aaai, iclr, icml",nips,0.00269,0.89,28.04
+"cvpr, iclr, icml",nips,0.00233,0.887,27.96
+"icmcs, ijcai",aaai,0.00116,0.712,27.93
+"cvpr, icml, ijcai",nips,0.0012,0.886,27.91
+"cvpr, eccv, iccv, icml",nips,0.00135,0.885,27.89
+"aaai, eccv, icml",nips,0.00131,0.885,27.89
+"icassp, iccv, nips",aaai,0.00118,0.711,27.88
+"aaai, cvpr, eccv, iclr",nips,0.00131,0.884,27.87
+"icassp, iccv",cvpr,0.00204,0.728,27.82
+"cvpr, icmcs, mm",aaai,0.00113,0.709,27.81
+"icml, mm",aaai,0.00139,0.709,27.8
+"emnlp, iccv, iclr",nips,0.001,0.881,27.76
+"aaai, iccv, icml",nips,0.00154,0.879,27.72
+"aaai, cvpr, iccv, iclr",nips,0.00147,0.879,27.71
+ijcnlp,emnlp,0.00106,0.516,27.71
+"cvpr, icassp, mm",aaai,0.00121,0.705,27.68
+"acl, cvpr, icml",nips,0.0011,0.877,27.65
+"cvpr, iclr, ijcai",nips,0.00123,0.877,27.64
+"acl, ijcai",aaai,0.00185,0.704,27.63
+"cikm, ijcai",aaai,0.00143,0.704,27.63
+"cvpr, iccv, icmcs",aaai,0.00103,0.704,27.62
+"ijcai, nips",aaai,0.00329,0.704,27.61
+"eccv, iccv, icml",nips,0.00145,0.875,27.59
+"acl, emnlp, iclr, icml",nips,0.00121,0.875,27.58
+"eccv, miccai",cvpr,0.0011,0.721,27.57
+"cvpr, ijcai",aaai,0.00227,0.703,27.56
+"aaai, icml, kdd",nips,0.00109,0.874,27.55
+"ijcai, www",aaai,0.00138,0.701,27.51
+"cvpr, emnlp, icml",nips,0.00118,0.872,27.5
+"aaai, iclr, kdd",nips,0.00103,0.872,27.48
+"aistats, iclr",nips,0.00151,0.869,27.41
+"acl, iclr, icml",nips,0.00168,0.869,27.4
+"aaai, acl, emnlp, icml",nips,0.00108,0.869,27.4
+"icassp, iclr, icml",nips,0.00123,0.869,27.39
+"eccv, iccv, icml, nips",aaai,0.00101,0.697,27.33
+"aaai, eccv, iclr",nips,0.00146,0.866,27.3
+"emnlp, iclr, icml",nips,0.0018,0.864,27.23
+"aaai, cvpr, icml",nips,0.00203,0.862,27.18
+"emnlp, ijcai",aaai,0.0019,0.692,27.16
+"iclr, mm",aaai,0.00145,0.692,27.15
+"acl, cvpr, iclr",nips,0.00124,0.861,27.15
+"cvpr, eccv, mm",aaai,0.0015,0.691,27.12
+"aaai, acl, icml",nips,0.00146,0.857,27.01
+"emnlp, iccv, nips",aaai,0.00105,0.688,27.01
+"cikm, icml",aaai,0.00102,0.688,26.99
+"aaai, iccv, iclr",nips,0.00171,0.856,26.99
+"iclr, kdd, nips",aaai,0.00103,0.687,26.96
+"acl, iclr, ijcai",nips,0.00103,0.855,26.94
+"cvpr, iccv, mm",aaai,0.00179,0.687,26.93
+"acl, iccv",cvpr,0.00134,0.703,26.89
+"aaai, icml, ijcai",nips,0.00186,0.853,26.88
+"acl, cvpr, nips",aaai,0.00132,0.685,26.87
+"aaai, emnlp, icml",nips,0.00153,0.851,26.83
+"cvpr, emnlp, iclr",nips,0.00131,0.851,26.82
+"iccv, miccai",cvpr,0.00125,0.702,26.82
+"iclr, mm",cvpr,0.00147,0.701,26.8
+"cvpr, eccv, icml",nips,0.00172,0.85,26.78
+"iccv, iclr, mm",nips,0.00106,0.85,26.78
+"aaai, iclr, ijcai",nips,0.00175,0.849,26.77
+"cvpr, eccv, iccv, iclr",nips,0.00171,0.848,26.72
+"emnlp, iclr, ijcai",nips,0.00104,0.847,26.69
+"cikm, iclr",aaai,0.00102,0.68,26.68
+"cvpr, iccv, icml",nips,0.00198,0.846,26.67
+"icassp, ijcai",aaai,0.00166,0.68,26.67
+"cvpr, icassp, icml",nips,0.00109,0.846,26.65
+"acl, emnlp, icml, nips",aaai,0.00108,0.677,26.58
+"aaai, icml, mm",nips,0.00117,0.842,26.55
+"aaai, cvpr, iclr",nips,0.00217,0.842,26.53
+"cvpr, emnlp, iclr",aaai,0.00104,0.676,26.53
+"aaai, icassp, mm",cvpr,0.00121,0.694,26.52
+"cvpr, icml, mm",nips,0.00111,0.841,26.51
+"icml, kdd, nips",aaai,0.00109,0.675,26.46
+"aaai, icip",cvpr,0.00135,0.692,26.45
+"acl, cvpr, emnlp",aaai,0.00113,0.674,26.42
+"cvpr, eccv, icml, nips",aaai,0.00116,0.673,26.41
+"icdm, nips",aaai,0.00103,0.673,26.39
+"cvpr, icassp, iclr",nips,0.00115,0.837,26.37
+"aistats, icml",nips,0.00209,0.837,26.37
+"cvpr, eccv, iccv, icml",aaai,0.00102,0.671,26.33
+"aaai, iclr, mm",nips,0.00121,0.834,26.3
+"aaai, ijcai, mm",cvpr,0.0013,0.687,26.27
+"emnlp, iccv",cvpr,0.00146,0.687,26.27
+"eccv, iccv, iclr",nips,0.00183,0.833,26.27
+"cvpr, icassp, nips",aaai,0.00147,0.668,26.2
+"aaai, icassp, icml",nips,0.00118,0.83,26.16
+"aaai, icassp, iclr",nips,0.00122,0.83,26.15
+"cvpr, iclr, mm",nips,0.00122,0.828,26.1
+"icml, uai",nips,0.00103,0.826,26.05
+"cvpr, iccv, iclr, icml",aaai,0.00102,0.664,26.05
+"cvpr, emnlp, nips",aaai,0.00136,0.663,26.02
+"acl, iclr, icml, nips",aaai,0.00111,0.663,26.0
+"cvpr, iccv, icml, nips",aaai,0.00131,0.662,25.98
+"eccv, iccv, icml",aaai,0.00109,0.661,25.95
+"aaai, acl, emnlp, iclr",nips,0.00125,0.823,25.93
+"acl, mm",aaai,0.00125,0.661,25.93
+"emnlp, mm",aaai,0.0013,0.661,25.92
+"iccv, iclr, icml, nips",aaai,0.00112,0.66,25.89
+"iclr, www",aaai,0.00102,0.659,25.87
+"icml, mm",cvpr,0.00132,0.675,25.81
+"icmcs, nips",cvpr,0.00143,0.675,25.79
+"aaai, acl, iccv",nips,0.00101,0.818,25.78
+"aaai, acl, iclr",nips,0.00163,0.818,25.78
+"cvpr, iccv, iclr",nips,0.00241,0.817,25.74
+"aaai, cvpr, iccv, ijcai",nips,0.00113,0.816,25.72
+"aaai, aistats",nips,0.00112,0.816,25.71
+"icip, mm",cvpr,0.00117,0.672,25.69
+"cvpr, eccv, iclr",nips,0.00212,0.815,25.67
+"eccv, iccv, ijcai",nips,0.00101,0.814,25.65
+"aaai, emnlp, iclr",nips,0.0017,0.814,25.64
+"acl, emnlp, iclr, nips",aaai,0.00125,0.654,25.64
+"eccv, icml",nips,0.00206,0.812,25.6
+"acl, cvpr, iccv",nips,0.00109,0.811,25.57
+"aaai, cvpr, eccv, iccv, mm",nips,0.001,0.811,25.55
+"acl, iccv",aaai,0.00124,0.651,25.53
+"mm, nips",cvpr,0.00249,0.667,25.49
+"mm, nips",aaai,0.00242,0.649,25.48
+"icmcs, nips",aaai,0.00138,0.649,25.46
+"emnlp, iclr, icml, nips",aaai,0.00117,0.648,25.42
+"iccv, icml",nips,0.00244,0.806,25.41
+"aaai, emnlp, iccv",nips,0.00105,0.806,25.41
+"cikm, nips",aaai,0.0015,0.647,25.4
+"cvpr, icassp, iccv",aaai,0.00132,0.646,25.36
+"iclr, icml",nips,0.00572,0.804,25.35
+"icml, www",aaai,0.00104,0.645,25.31
+"icml, kdd",nips,0.00162,0.802,25.28
+"cvpr, eccv, iccv, iclr, nips",aaai,0.0011,0.644,25.28
+"aaai, eccv, ijcai",nips,0.00107,0.801,25.23
+"ijcai, ijcnn",aaai,0.00125,0.643,25.23
+"iclr, ijcai",nips,0.00225,0.798,25.16
+"cvpr, emnlp, iccv",nips,0.00116,0.797,25.13
+"iccv, iclr, icml",aaai,0.0012,0.64,25.1
+"icml, ijcai",nips,0.00237,0.795,25.05
+"eccv, mm",aaai,0.00171,0.638,25.03
+3dim,cvpr,0.00108,0.655,25.02
+"acl, emnlp, icml",nips,0.00159,0.793,24.99
+"aaai, acl, cvpr",nips,0.00132,0.792,24.96
+"aaai, eccv, iccv, mm",nips,0.00105,0.792,24.96
+"acl, emnlp, icassp",aaai,0.00105,0.636,24.96
+"cvpr, eccv, icassp",aaai,0.00114,0.636,24.94
+"iclr, kdd",nips,0.0015,0.789,24.87
+"eccv, icml, nips",aaai,0.00131,0.634,24.86
+"iccv, icml, nips",aaai,0.00154,0.633,24.84
+"eccv, iccv, iclr, nips",aaai,0.00116,0.633,24.82
+"cvpr, eccv, icml",aaai,0.00128,0.632,24.81
+"acl, emnlp, naacl, nips",aaai,0.00102,0.632,24.8
+"iccv, icmcs",aaai,0.0012,0.632,24.79
+"eccv, iclr, icml",aaai,0.00103,0.632,24.78
+"icassp, iclr, nips",aaai,0.00122,0.631,24.76
+"icml, www",nips,0.00127,0.785,24.73
+"icml, naacl",nips,0.00127,0.784,24.7
+"iclr, www",nips,0.00122,0.784,24.7
+"acl, icml, nips",aaai,0.00146,0.629,24.68
+"acl, iclr, icml",aaai,0.00121,0.627,24.6
+"cvpr, eccv, ijcai",nips,0.00114,0.779,24.56
+"coling, nips",aaai,0.00101,0.626,24.55
+"aaai, iccv, ijcai",nips,0.00133,0.779,24.55
+"eccv, emnlp",aaai,0.00102,0.626,24.55
+"cvpr, icml",nips,0.00344,0.778,24.52
+"iccv, mm",aaai,0.0021,0.625,24.52
+"iccv, iclr",nips,0.00292,0.778,24.52
+"aaai, cvpr, emnlp",nips,0.00136,0.778,24.51
+"acl, kdd",aaai,0.00112,0.625,24.5
+"cvpr, iclr, icml, nips",aaai,0.00146,0.624,24.49
+"aaai, cvpr, icassp, iccv",nips,0.00102,0.777,24.48
+"aaai, cvpr, ijcai, mm",nips,0.001,0.775,24.43
+"eccv, iclr",nips,0.0025,0.775,24.42
+"iclr, kdd",aaai,0.00118,0.622,24.4
+"aaai, cvpr, eccv, iccv",nips,0.00177,0.772,24.35
+"aaai, icml",nips,0.00416,0.772,24.33
+"aaai, icassp, nips",cvpr,0.00147,0.636,24.32
+"icml, kdd",aaai,0.00125,0.619,24.28
+"cvpr, iccv, icml",aaai,0.00144,0.619,24.27
+"acl, emnlp, icml",aaai,0.00124,0.618,24.24
+"aaai, cvpr, eccv, mm",nips,0.00115,0.768,24.2
+"cvpr, iccv, ijcai",nips,0.00137,0.768,24.2
+"icip, icmcs",icassp,0.001,0.558,24.18
+"cvpr, eccv, iclr, nips",aaai,0.00131,0.616,24.16
+"icml, mm",nips,0.0015,0.766,24.14
+"acl, icml",nips,0.00232,0.766,24.13
+"nips, www",aaai,0.00153,0.614,24.1
+"emnlp, iccv",aaai,0.0013,0.614,24.09
+"aaai, iclr",nips,0.00405,0.764,24.09
+"icassp, icml, nips",aaai,0.00118,0.612,24.02
+"acl, emnlp, iclr, naacl",nips,0.00105,0.761,23.98
+"emnlp, icml, nips",aaai,0.00153,0.611,23.97
+"iclr, mm",nips,0.0016,0.76,23.96
+"acl, cikm",aaai,0.00127,0.611,23.96
+"cvpr, iccv, iclr, nips",aaai,0.00147,0.61,23.93
+"cikm, icml",nips,0.00112,0.759,23.92
+"emnlp, iclr, icml",aaai,0.00127,0.609,23.9
+"aaai, cvpr, iccv, mm",nips,0.00135,0.758,23.9
+"emnlp, kdd",aaai,0.00117,0.609,23.89
+"acl, iclr, naacl",nips,0.00117,0.757,23.87
+"acl, iclr, nips",aaai,0.00163,0.608,23.86
+"cvpr, eccv, iccv, iclr",aaai,0.00122,0.606,23.78
+"acl, eccv",nips,0.00111,0.753,23.75
+"icmcs, ijcai",cvpr,0.00101,0.621,23.74
+"acl, naacl, nips",aaai,0.00112,0.605,23.74
+"emnlp, icml",nips,0.00251,0.753,23.73
+"emnlp, naacl, nips",aaai,0.00116,0.604,23.69
+"aaai, mm",cvpr,0.00269,0.619,23.67
+"aaai, icmcs",cvpr,0.00159,0.618,23.63
+"emnlp, iclr, naacl",nips,0.00122,0.75,23.63
+"acl, cvpr",aaai,0.00166,0.602,23.62
+"cvpr, iclr",nips,0.00393,0.749,23.61
+"acl, cvpr, emnlp",nips,0.00126,0.749,23.61
+"aaai, eccv, iccv",nips,0.00189,0.747,23.55
+"cvpr, eccv, iccv, mm",nips,0.00123,0.743,23.42
+"cvpr, iclr, icml",aaai,0.00157,0.596,23.39
+"cikm, iclr",nips,0.00111,0.742,23.38
+"aaai, cvpr, ijcai",nips,0.00168,0.74,23.34
+"ijcai, mm",cvpr,0.00158,0.61,23.32
+"iclr, wacv",nips,0.00111,0.739,23.31
+"acl, www",aaai,0.00124,0.594,23.3
+"emnlp, iclr, nips",aaai,0.0017,0.594,23.3
+"acl, emnlp, iclr",nips,0.00191,0.739,23.29
+"aaai, miccai",cvpr,0.00113,0.608,23.24
+"cvpr, eccv, iccv, nips",aaai,0.00177,0.592,23.21
+"eccv, iccv, iclr",aaai,0.00129,0.591,23.17
+"cvpr, icml, nips",aaai,0.00203,0.59,23.15
+"kdd, nips",aaai,0.00175,0.59,23.14
+"aaai, eccv, mm",nips,0.00126,0.734,23.13
+"iclr, naacl",nips,0.00153,0.734,23.13
+"acl, iccv",nips,0.0014,0.733,23.11
+"aaai, icassp, iccv",nips,0.00118,0.732,23.08
+"cikm, emnlp",aaai,0.00134,0.588,23.07
+"acl, emnlp, iclr",aaai,0.00152,0.587,23.03
+"aaai, ijcai, kdd",nips,0.00103,0.73,23.02
+"eccv, icassp, iccv",nips,0.00101,0.73,23.02
+"iccv, iclr, nips",aaai,0.00171,0.586,22.98
+"aaai, icip",icassp,0.00104,0.53,22.94
+"eccv, emnlp",nips,0.00119,0.726,22.9
+"eccv, iclr, nips",aaai,0.00146,0.584,22.9
+"icassp, iclr, nips",cvpr,0.00115,0.598,22.87
+"aaai, icmcs",icassp,0.00136,0.528,22.85
+"cvpr, ijcai, mm",nips,0.00115,0.725,22.85
+"icassp, icml",nips,0.00193,0.725,22.84
+"eccv, icml",aaai,0.00148,0.582,22.83
+"icassp, iclr",nips,0.00193,0.724,22.82
+"acl, emnlp, nips",aaai,0.00192,0.581,22.8
+"ijcnn, mm",aaai,0.001,0.581,22.78
+"iclr, icra",nips,0.00109,0.723,22.78
+"iccv, icml",aaai,0.00176,0.58,22.77
+"eccv, ijcai",nips,0.00132,0.72,22.7
+"miccai, nips",cvpr,0.00125,0.593,22.66
+"emnlp, iccv",nips,0.00153,0.719,22.66
+"aaai, iccv, mm",nips,0.00151,0.718,22.65
+"cvpr, mm",aaai,0.00269,0.577,22.63
+"icmcs, mm",cvpr,0.00159,0.592,22.62
+"icmcs, nips",icassp,0.00111,0.521,22.58
+"acl, iclr",nips,0.00267,0.716,22.57
+"eccv, iccv, mm",nips,0.00131,0.716,22.56
+"icassp, iccv",aaai,0.00161,0.575,22.54
+"ijcnn, nips",aaai,0.00144,0.574,22.5
+"eccv, iccv, nips",aaai,0.00189,0.573,22.47
+"aaai, iclr, ijcai, nips",cvpr,0.00103,0.587,22.45
+"aaai, cvpr, eccv",nips,0.0022,0.712,22.43
+"iccv, ijcai",nips,0.00165,0.71,22.39
+"cvpr, emnlp",aaai,0.00174,0.571,22.39
+"cvpr, kdd",nips,0.001,0.71,22.38
+"aaai, cvpr, iccv",nips,0.00252,0.709,22.36
+"iclr, iros",nips,0.00101,0.709,22.35
+eccv,cvpr,0.00755,0.583,22.28
+"emnlp, iclr",nips,0.00286,0.707,22.28
+"cvpr, eccv, iclr",aaai,0.00148,0.567,22.26
+"cvpr, iccv, iclr",aaai,0.00167,0.567,22.23
+"icip, nips",aaai,0.00104,0.565,22.15
+"icmcs, mm",aaai,0.00151,0.564,22.14
+"icml, ijcnn",nips,0.00105,0.702,22.12
+"emnlp, www",aaai,0.00127,0.564,22.11
+"aaai, acl, ijcai",nips,0.0013,0.701,22.09
+"cvpr, icmcs",aaai,0.00159,0.563,22.08
+"acl, icml",aaai,0.0017,0.562,22.05
+"iclr, ijcnn",nips,0.001,0.7,22.05
+"eccv, icassp",aaai,0.00132,0.561,21.99
+"acl, cvpr",nips,0.00193,0.696,21.94
+"iclr, naacl",aaai,0.00117,0.559,21.92
+"aaai, ijcai, mm",nips,0.0013,0.692,21.8
+"cikm, kdd",aaai,0.00123,0.556,21.8
+iccv,cvpr,0.00848,0.57,21.8
+"aaai, emnlp, ijcai",nips,0.00131,0.691,21.77
+"cvpr, iclr, nips",aaai,0.00217,0.553,21.71
+"icassp, mm",aaai,0.00175,0.553,21.71
+"icassp, icml, nips",cvpr,0.00109,0.568,21.7
+"icmcs, mm",icassp,0.00134,0.501,21.7
+"kdd, www",aaai,0.00122,0.553,21.68
+"aaai, cvpr, icassp",nips,0.00147,0.687,21.65
+"icassp, iclr",aaai,0.00147,0.551,21.6
+"cvpr, eccv, nips",aaai,0.0022,0.55,21.57
+"iros, nips",cvpr,0.00128,0.563,21.52
+"naacl, nips",aaai,0.00142,0.548,21.49
+"cvpr, iccv, nips",aaai,0.00252,0.547,21.44
+"aaai, icassp, ijcai",nips,0.00113,0.68,21.43
+"icip, icmcs",cvpr,0.00101,0.56,21.42
+"cvpr, eccv, iccv, wacv",nips,0.00101,0.677,21.33
+"cvpr, icassp, iccv",nips,0.00138,0.676,21.31
+"icra, nips",cvpr,0.00132,0.556,21.26
+"cvpr, eccv, mm",nips,0.00147,0.673,21.23
+"aaai, iclr, ijcai",cvpr,0.00114,0.555,21.21
+"emnlp, icml",aaai,0.0018,0.54,21.2
+"acl, icassp",aaai,0.00141,0.54,21.19
+"cvpr, iccv, mm",nips,0.00174,0.671,21.13
+"aaai, cvpr, icmcs",nips,0.00107,0.67,21.11
+"cvpr, emnlp",nips,0.00204,0.669,21.09
+"aaai, cvpr, mm",nips,0.0018,0.669,21.07
+"cvpr, eccv, icassp",nips,0.00119,0.666,21.0
+"aaai, icml, ijcai, nips",cvpr,0.00102,0.549,20.98
+"icassp, icml",aaai,0.00142,0.534,20.97
+"iclr, ijcai, nips",cvpr,0.00123,0.547,20.9
+"cvpr, icml",aaai,0.00235,0.532,20.89
+"emnlp, icassp",aaai,0.00149,0.532,20.89
+"acl, iclr",aaai,0.00199,0.532,20.89
+"iccv, iclr",aaai,0.002,0.532,20.88
+"icassp, mm",cvpr,0.00172,0.544,20.8
+"cvpr, ijcnn",aaai,0.00119,0.528,20.73
+"cvpr, ijcai",nips,0.00212,0.657,20.7
+"aaai, iclr, icml, nips",cvpr,0.00146,0.541,20.7
+"eccv, iccv, wacv",nips,0.00105,0.655,20.64
+"aaai, eccv",nips,0.00254,0.653,20.57
+"aaai, iclr, nips",cvpr,0.00217,0.537,20.54
+"acl, emnlp, ijcai",nips,0.00116,0.651,20.52
+"acl, nips",aaai,0.00268,0.523,20.52
+"eccv, iclr",aaai,0.00168,0.522,20.48
+"acl, mm",cvpr,0.00101,0.534,20.4
+"aaai, iccv",nips,0.00304,0.647,20.38
+bmvc,cvpr,0.00247,0.532,20.34
+"icassp, nips",aaai,0.00231,0.518,20.32
+"cvpr, eccv, iccv",nips,0.00299,0.643,20.26
+"emnlp, mm",cvpr,0.00105,0.53,20.25
+"emnlp, iclr",aaai,0.00209,0.516,20.25
+"acl, kdd",nips,0.00115,0.642,20.23
+"aaai, icassp, mm",nips,0.00112,0.641,20.19
+"cikm, www",aaai,0.00128,0.514,20.16
+"ijcai, kdd",nips,0.00126,0.639,20.14
+"aaai, acl, emnlp, naacl",nips,0.00102,0.639,20.13
+"acl, coling, emnlp",aaai,0.00129,0.511,20.05
+"cvpr, icassp, mm",nips,0.00109,0.634,19.97
+"eccv, nips",aaai,0.00254,0.507,19.87
+"iccv, icip",aaai,0.00104,0.505,19.83
+"aaai, iclr, icml",cvpr,0.00157,0.519,19.82
+"iccv, nips",aaai,0.00304,0.505,19.81
+"emnlp, nips",aaai,0.00279,0.505,19.81
+"icassp, iclr",cvpr,0.00138,0.518,19.78
+"acl, mm",nips,0.00118,0.625,19.7
+"cvpr, icassp",aaai,0.00214,0.5,19.63
+"aaai, acl, naacl",nips,0.00112,0.622,19.62
+"aaai, icml, ijcai",cvpr,0.00111,0.509,19.47
+"aaai, ijcai, nips",cvpr,0.00168,0.509,19.47
+"aaai, emnlp, naacl",nips,0.00116,0.617,19.44
+"aaai, wacv",nips,0.00108,0.615,19.38
+accv,cvpr,0.00136,0.507,19.37
+"emnlp, kdd",nips,0.00118,0.613,19.34
+"icml, ijcai, nips",cvpr,0.0012,0.505,19.3
+aistats,nips,0.00287,0.612,19.29
+"aaai, kdd",nips,0.00175,0.611,19.26
+"emnlp, mm",nips,0.0012,0.61,19.23
+"eccv, mm",nips,0.00164,0.61,19.23
+"acl, ijcai",nips,0.0016,0.608,19.16
+"cvpr, iccv, wacv",nips,0.00126,0.604,19.05
+"aaai, cvpr",nips,0.00401,0.6,18.91
+"eccv, iccv",nips,0.00329,0.597,18.82
+"iccv, mm",nips,0.00201,0.597,18.81
+"emnlp, ijcai",nips,0.00164,0.597,18.8
+"aaai, acl, emnlp",nips,0.00192,0.596,18.78
+"ijcai, mm",nips,0.00155,0.595,18.77
+"iccv, icmcs",nips,0.00113,0.594,18.73
+"icassp, iccv",nips,0.00166,0.592,18.66
+"cvpr, eccv, wacv",nips,0.00119,0.59,18.59
+"eccv, icassp",nips,0.00139,0.588,18.52
+"bmvc, iccv",nips,0.00104,0.583,18.39
+"aaai, icra",nips,0.00103,0.582,18.33
+icml,nips,0.01016,0.58,18.28
+"aaai, naacl",nips,0.00142,0.578,18.23
+"ijcai, www",nips,0.00113,0.576,18.15
+"iccv, icra",nips,0.00103,0.576,18.15
+iclr,nips,0.0098,0.573,18.06
+"aaai, icdm",nips,0.00103,0.572,18.02
+"iccv, iros",nips,0.00101,0.571,17.99
+"aaai, miccai",nips,0.00105,0.567,17.87
+"icassp, ijcai",nips,0.00138,0.566,17.82
+"aaai, acl",nips,0.00268,0.564,17.78
+"aaai, iros",nips,0.00103,0.562,17.71
+uai,nips,0.00146,0.561,17.68
+"bmvc, eccv",nips,0.001,0.559,17.63
+"aaai, mm",nips,0.00242,0.559,17.61
+"aaai, www",nips,0.00153,0.555,17.5
+"iccv, wacv",nips,0.00139,0.552,17.39
+"cikm, ijcai",nips,0.00112,0.551,17.36
+"aaai, emnlp",nips,0.00279,0.549,17.31
+"cvpr, iccv",nips,0.00461,0.544,17.16
+"aaai, icmcs",nips,0.00138,0.536,16.89
+"aaai, icassp",nips,0.00231,0.535,16.86
+"cvpr, mm",nips,0.00249,0.534,16.84
+"kdd, www",nips,0.00117,0.533,16.79
+"aaai, icip",nips,0.00104,0.532,16.78
+"eccv, wacv",nips,0.0013,0.531,16.73
+"acl, www",nips,0.00111,0.53,16.72
+"cvpr, eccv",nips,0.00399,0.529,16.67
+"acl, cikm",nips,0.0011,0.528,16.63
+"aaai, ijcai",nips,0.00329,0.527,16.61
+"aaai, cikm",nips,0.0015,0.526,16.56
+"acl, icassp",nips,0.00137,0.525,16.55
+"cvpr, ijcnn",nips,0.00117,0.521,16.43
+"cvpr, icassp",nips,0.0022,0.515,16.22
+"ijcai, ijcnn",nips,0.001,0.513,16.18
+"cvpr, icmcs",nips,0.00143,0.507,15.99
+"emnlp, icassp",nips,0.00141,0.505,15.93
+"iccv, icip",nips,0.00103,0.505,15.92
+"emnlp, www",nips,0.00114,0.505,15.9
+"cvpr, icra",nips,0.00132,0.504,15.88
+"cikm, emnlp",nips,0.00114,0.503,15.84
+"bmvc, cvpr",nips,0.00124,0.502,15.83
