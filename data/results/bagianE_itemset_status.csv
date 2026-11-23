@@ -1,0 +1,195 @@
+support_2015-2017,support_2018-2020,support_2021-2023,support_2024-2025,status,itemset,max_support
+,0.0017782827451060215,0.0042102323278947335,0.010448469892413693,Muncul kemudian dan bertahan hingga periode terbaru,"iclr, nips",0.010448469892413693
+0.0010107977493481874,0.0024157628758958495,0.004540528607838809,0.009863111961264869,Bertahan di semua periode,"icml, nips",0.009863111961264869
+,0.0016589287002992178,0.004054700408731194,0.008323586766624898,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, nips",0.008323586766624898
+,0.0020114394837983823,0.004328135556938061,0.008066435305542179,Muncul kemudian dan bertahan hingga periode terbaru,"acl, emnlp",0.008066435305542179
+,0.0012536800830482099,0.002567112859312181,0.007327688783572082,Muncul kemudian dan bertahan hingga periode terbaru,"iclr, icml",0.007327688783572082
+,0.0015432755561065785,0.0032218520674038545,0.0070897108963420205,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, nips",0.0070897108963420205
+,,0.0017693846287637053,0.005747560726655892,Muncul kemudian dan bertahan hingga periode terbaru,"emnlp, nips",0.005747560726655892
+,,0.0016113441302588185,0.0056990628633815195,Muncul kemudian dan bertahan hingga periode terbaru,"acl, nips",0.0056990628633815195
+0.0013296545501082378,0.001287913413729231,0.0042269561901703825,0.005285139239621176,Bertahan di semua periode,"cvpr, iccv",0.005285139239621176
+,0.00164412509784256,0.0025947072320670027,0.0052231070889213966,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, cvpr",0.0052231070889213966
+,,0.0019374594446339816,0.004943398482129665,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, iclr",0.004943398482129665
+,,0.0016305765718758153,0.0043681912665498954,Muncul kemudian dan bertahan hingga periode terbaru,"iclr, icml, nips",0.0043681912665498954
+,0.0027608718581666847,0.0021565420404449885,0.00433322769070093,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, eccv",0.00433322769070093
+,,0.00238064179493869,0.004297136257566512,Muncul kemudian dan bertahan hingga periode terbaru,"iccv, nips",0.004297136257566512
+,,0.0010193194057008302,0.004188861958163262,Muncul kemudian dan bertahan hingga periode terbaru,"acl, iclr",0.004188861958163262
+,,0.0015310695913357015,0.004114423377323527,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, icml",0.004114423377323527
+,,0.0010803615030069505,0.004083971230616362,Muncul kemudian dan bertahan hingga periode terbaru,"emnlp, iclr",0.004083971230616362
+,,0.0014441055075023247,0.00407833194418911,Muncul kemudian dan bertahan hingga periode terbaru,"emnlp, naacl",0.00407833194418911
+,,0.0013454347200759931,0.003954267642789552,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, iclr",0.003954267642789552
+,,0.001172342745523022,0.00390802549408608,Muncul kemudian dan bertahan hingga periode terbaru,"acl, naacl",0.00390802549408608
+,,0.0013621585823516426,0.003853888344384455,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, icml",0.003853888344384455
+,,0.00143908834881963,0.003685837608852326,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, mm",0.003685837608852326
+,,0.0020177339835570985,0.0035516225918837134,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, mm",0.0035516225918837134
+,0.0010307008210448012,0.001608835550917471,0.0035347047326019553,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, acl",0.0035347047326019553
+,0.0012962404401111011,0.0017058339521162375,0.00341627971762965,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, emnlp",0.00341627971762965
+,,0.0010594566751623887,0.003414024003058749,Muncul kemudian dan bertahan hingga periode terbaru,"mm, nips",0.003414024003058749
+,,,0.0032572518403811254,Baru muncul pada periode terbaru,"emnlp, icml",0.0032572518403811254
+0.0019304935556220745,0.002049373715093568,0.0022117307859546315,0.003227927550959412,Bertahan di semua periode,"icra, iros",0.003227927550959412
+0.003207005305603637,0.0025221637685530775,0.0026783265434452493,0.0024925646008456676,Bertahan di semua periode,"globecom, icc",0.003207005305603637
+,,0.0011765237110919343,0.0031794296876850392,Muncul kemudian dan bertahan hingga periode terbaru,"icassp, nips",0.0031794296876850392
+,,,0.0031388268254088202,Baru muncul pada periode terbaru,"acl, icml",0.0031388268254088202
+0.0015725930649730382,0.0020206917353337937,0.0018889602440345984,0.003107246821416205,Bertahan di semua periode,"aaai, ijcai",0.003107246821416205
+,,0.0011213349655822915,0.0030824339611362937,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, icassp",0.0030824339611362937
+,,0.0010235003712697425,0.0029910775210148007,Muncul kemudian dan bertahan hingga periode terbaru,"eccv, nips",0.0029910775210148007
+,,,0.002923406083887769,Baru muncul pada periode terbaru,"coling, emnlp",0.002923406083887769
+,,0.0011414036003130708,0.002886186793467902,Muncul kemudian dan bertahan hingga periode terbaru,"iccv, iclr",0.002886186793467902
+,,0.0016155250958277308,0.0028850589361824512,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, iccv",0.0028850589361824512
+,,,0.002868141076900693,Baru muncul pada periode terbaru,"acl, coling",0.002868141076900693
+,,0.001061965254503736,0.0028647575050443417,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, iclr, nips",0.0028647575050443417
+,,,0.002833177501051727,Baru muncul pada periode terbaru,"acl, emnlp, nips",0.002833177501051727
+,,0.0013262022784589964,0.002709113199652169,Muncul kemudian dan bertahan hingga periode terbaru,"ijcai, nips",0.002709113199652169
+0.001405572836003488,0.0018014133739445493,0.002547880417695184,0.0023966967315823726,Bertahan di semua periode,"icassp, interspeech",0.002547880417695184
+,,,0.002521888890267381,Baru muncul pada periode terbaru,"aaai, cvpr, nips",0.002521888890267381
+,,,0.0025083546028419747,Baru muncul pada periode terbaru,"naacl, nips",0.0025083546028419747
+,,0.0012894097814525678,0.0024903088862747664,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, icassp",0.0024903088862747664
+,,,0.002429404592860438,Baru muncul pada periode terbaru,"cvpr, emnlp",0.002429404592860438
+,,,0.0024113588762932296,Baru muncul pada periode terbaru,"aaai, icml, nips",0.0024113588762932296
+,,,0.00239218530244057,Baru muncul pada periode terbaru,"acl, iclr, nips",0.00239218530244057
+,,,0.0023820345868715157,Baru muncul pada periode terbaru,"aaai, iclr, nips",0.0023820345868715157
+,,,0.0023470710110225492,Baru muncul pada periode terbaru,"acl, cvpr",0.0023470710110225492
+,,,0.002344815296451648,Baru muncul pada periode terbaru,"cvpr, icml, nips",0.002344815296451648
+,,,0.002323386008028088,Baru muncul pada periode terbaru,"emnlp, iclr, nips",0.002323386008028088
+,,,0.0023177467216008354,Baru muncul pada periode terbaru,"acl, emnlp, naacl",0.0023177467216008354
+,,0.0013813910239686394,0.0023177467216008354,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, iccv, nips",0.0023177467216008354
+,,0.0013287108578003439,0.0022861667176082207,Muncul kemudian dan bertahan hingga periode terbaru,"cvpr, wacv",0.0022861667176082207
+,,,0.002149695986068707,Baru muncul pada periode terbaru,"icassp, mm",0.002149695986068707
+,,,0.0021406731277851024,Baru muncul pada periode terbaru,"iclr, naacl",0.0021406731277851024
+,,,0.0021169881247906416,Baru muncul pada periode terbaru,"acl, emnlp, iclr",0.0021169881247906416
+,,0.001129696896720116,0.0020527002595199613,Muncul kemudian dan bertahan hingga periode terbaru,"kdd, nips",0.0020527002595199613
+,,,0.0020436774012363573,Baru muncul pada periode terbaru,"iccv, icml",0.0020436774012363573
+0.002038948249758146,0.0014118935843037404,0.0011154816137858143,,Muncul di periode awal lalu menghilang,"amcc, cdc",0.002038948249758146
+,,,0.001972622392252974,Baru muncul pada periode terbaru,"acl, icassp",0.001972622392252974
+,,,0.0019714945349675233,Baru muncul pada periode terbaru,"icassp, icmcs",0.0019714945349675233
+,,,0.0019489373892585128,Baru muncul pada periode terbaru,"emnlp, icml, nips",0.0019489373892585128
+,,,0.0019049509551259422,Baru muncul pada periode terbaru,"acl, icml, nips",0.0019049509551259422
+,,0.0012266952979188826,0.0018801380948460305,Muncul kemudian dan bertahan hingga periode terbaru,"iccv, mm",0.0018801380948460305
+0.0018665052860817922,0.001441500789217056,,0.0013308715968316234,Muncul sementara (tidak berurutan),"ecoc, ofc",0.0018665052860817922
+,,,0.0018643480928497232,Baru muncul pada periode terbaru,"emnlp, icassp",0.0018643480928497232
+,0.0010066449670527323,,0.0018271288024298558,Muncul sementara (tidak berurutan),"aaai, eccv",0.0018271288024298558
+,,,0.0017741195100136808,Baru muncul pada periode terbaru,"cvpr, iclr, icml",0.0017741195100136808
+,,,0.0017662245090155273,Baru muncul pada periode terbaru,"icassp, iclr",0.0017662245090155273
+,,,0.0017628409371591757,Baru muncul pada periode terbaru,"icassp, icml",0.0017628409371591757
+,,,0.001757201650731923,Baru muncul pada periode terbaru,"icml, mm",0.001757201650731923
+,,,0.001754945936161022,Baru muncul pada periode terbaru,"iclr, mm",0.001754945936161022
+,,,0.0017504345070192197,Baru muncul pada periode terbaru,"aaai, icmcs",0.0017504345070192197
+,,,0.0017459230778774178,Baru muncul pada periode terbaru,"icra, nips",0.0017459230778774178
+,,,0.0017335166477374618,Baru muncul pada periode terbaru,"aaai, acl, emnlp",0.0017335166477374618
+,,,0.001712087359313902,Baru muncul pada periode terbaru,"acl, mm",0.001712087359313902
+,,,0.0017087037874575503,Baru muncul pada periode terbaru,"icassp, ijcnn",0.0017087037874575503
+,,,0.0017075759301720997,Baru muncul pada periode terbaru,"nips, www",0.0017075759301720997
+,,,0.0017041923583157482,Baru muncul pada periode terbaru,"cvpr, eccv, nips",0.0017041923583157482
+,,,0.0016872744990339902,Baru muncul pada periode terbaru,"iros, nips",0.0016872744990339902
+,,,0.0016861466417485396,Baru muncul pada periode terbaru,"aaai, acl, nips",0.0016861466417485396
+,,,0.0016771237834649355,Baru muncul pada periode terbaru,"aaai, mm, nips",0.0016771237834649355
+0.0016745404774609455,0.0011204476609382892,0.0012492725119910093,0.001424483751524017,Bertahan di semua periode,"globecom, vtc",0.0016745404774609455
+,,,0.0016726123543231333,Baru muncul pada periode terbaru,"cvpr, iros",0.0016726123543231333
+0.001672371383578224,0.0011056440584816315,0.0010343708817489147,0.001336510883258876,Bertahan di semua periode,"icc, vtc",0.001672371383578224
+,,,0.0016669730678958807,Baru muncul pada periode terbaru,"cvpr, icmcs",0.0016669730678958807
+,,,0.0016647173533249798,Baru muncul pada periode terbaru,"cvpr, icra",0.0016647173533249798
+,,,0.0016523109231850238,Baru muncul pada periode terbaru,"eccv, iclr",0.0016523109231850238
+,,,0.0016511830658995734,Baru muncul pada periode terbaru,"aaai, iclr, icml",0.0016511830658995734
+,,,0.0016489273513286722,Baru muncul pada periode terbaru,"acl, coling, emnlp",0.0016489273513286722
+,,,0.0016444159221868703,Baru muncul pada periode terbaru,"cvpr, mm, nips",0.0016444159221868703
+,,,0.0016432880649014197,Baru muncul pada periode terbaru,"emnlp, mm",0.0016432880649014197
+,,,0.001639904493045068,Baru muncul pada periode terbaru,"iccv, iclr, nips",0.001639904493045068
+,,,0.001637648778474167,Baru muncul pada periode terbaru,"aaai, cvpr, mm",0.001637648778474167
+,,,0.0016252423483342111,Baru muncul pada periode terbaru,"icmcs, mm",0.0016252423483342111
+,,,0.0016083244890524532,Baru muncul pada periode terbaru,"aaai, emnlp, nips",0.0016083244890524532
+,,,0.0016038130599106512,Baru muncul pada periode terbaru,"acl, iclr, icml",0.0016038130599106512
+,,,0.001599301630768849,Baru muncul pada periode terbaru,"cvpr, ijcai",0.001599301630768849
+,,,0.0015959180589124975,Baru muncul pada periode terbaru,"icml, ijcai",0.0015959180589124975
+,,,0.0015880230579143437,Baru muncul pada periode terbaru,"cvpr, iccv, iclr",0.0015880230579143437
+,,,0.0015857673433434427,Baru muncul pada periode terbaru,"emnlp, iclr, icml",0.0015857673433434427
+,,,0.001575616627774388,Baru muncul pada periode terbaru,"emnlp, iccv",0.001575616627774388
+,,,0.0015688494840616848,Baru muncul pada periode terbaru,"icmcs, nips",0.0015688494840616848
+,,,0.001563210197634432,Baru muncul pada periode terbaru,"acl, emnlp, icml",0.001563210197634432
+,,,0.00155869876849263,Baru muncul pada periode terbaru,"ijcai, mm",0.00155869876849263
+,,,0.0015575709112071795,Baru muncul pada periode terbaru,"cvpr, miccai",0.0015575709112071795
+,0.001248128732126963,0.0010970853652825998,0.0015575709112071795,Muncul kemudian dan bertahan hingga periode terbaru,"isbi, miccai",0.0015575709112071795
+,,0.0010059403158803107,0.0015429087664963225,Muncul kemudian dan bertahan hingga periode terbaru,"aaai, kdd",0.0015429087664963225
+,,,0.0015305023363563668,Baru muncul pada periode terbaru,"acl, iccv",0.0015305023363563668
+,,,0.001518095906216411,Baru muncul pada periode terbaru,"aaai, cvpr, iccv",0.001518095906216411
+,,,0.0015023059042201035,Baru muncul pada periode terbaru,"aaai, cvpr, iclr",0.0015023059042201035
+,,,0.0014932830459364994,Baru muncul pada periode terbaru,"ijcnn, nips",0.0014932830459364994
+,,,0.0014786209012256424,Baru muncul pada periode terbaru,"aaai, ijcnn",0.0014786209012256424
+,,,0.0014684701856565877,Baru muncul pada periode terbaru,"aaai, www",0.0014684701856565877
+,,,0.0014639587565147857,Baru muncul pada periode terbaru,"coling, naacl",0.0014639587565147857
+,,,0.0014425294680912256,Baru muncul pada periode terbaru,"coling, nips",0.0014425294680912256
+,,,0.0014380180389494234,Baru muncul pada periode terbaru,"aaai, iccv, nips",0.0014380180389494234
+,,,0.0014357623243785225,Baru muncul pada periode terbaru,"acl, naacl, nips",0.0014357623243785225
+,,,0.0014346344670930719,Baru muncul pada periode terbaru,"icml, naacl",0.0014346344670930719
+,,,0.0014323787525221709,Baru muncul pada periode terbaru,"nips, wacv",0.0014323787525221709
+,,0.00129693551947661,0.0014188444650967645,Muncul kemudian dan bertahan hingga periode terbaru,"aistats, nips",0.0014188444650967645
+,,,0.0014030544631004572,Baru muncul pada periode terbaru,"emnlp, naacl, nips",0.0014030544631004572
+,,,0.0014019266058150066,Baru muncul pada periode terbaru,"aaai, ijcai, nips",0.0014019266058150066
+,,,0.001400798748529556,Baru muncul pada periode terbaru,"emnlp, www",0.001400798748529556
+,,,0.0013996708912441056,Baru muncul pada periode terbaru,"miccai, nips",0.0013996708912441056
+,,,0.0013940316048168529,Baru muncul pada periode terbaru,"icassp, iccv",0.0013940316048168529
+,,,0.0013906480329605013,Baru muncul pada periode terbaru,"aaai, cvpr, icml",0.0013906480329605013
+,,,0.0013793694601059961,Baru muncul pada periode terbaru,"acl, emnlp, iclr, nips",0.0013793694601059961
+,,,0.001360195886253337,Baru muncul pada periode terbaru,"icml, kdd",0.001360195886253337
+,,,0.001357940171682436,Baru muncul pada periode terbaru,"acl, cvpr, nips",0.001357940171682436
+,,,0.001357940171682436,Baru muncul pada periode terbaru,"iclr, ijcai",0.001357940171682436
+,,,0.0013545565998260845,Baru muncul pada periode terbaru,"cvpr, emnlp, nips",0.0013545565998260845
+,,,0.0013534287425406339,Baru muncul pada periode terbaru,"aaai, naacl",0.0013534287425406339
+,,,0.0013398944551152275,Baru muncul pada periode terbaru,"cvpr, iclr, icml, nips",0.0013398944551152275
+,,,0.0013184651666916674,Baru muncul pada periode terbaru,"kdd, www",0.0013184651666916674
+,0.0010020188412850268,,0.0013105701656935139,Muncul sementara (tidak berurutan),"globecom, wcnc",0.0013105701656935139
+,,,0.0013071865938371623,Baru muncul pada periode terbaru,"iclr, kdd",0.0013071865938371623
+,,,0.0013060587365517117,Baru muncul pada periode terbaru,"acl, www",0.0013060587365517117
+,,,0.001304930879266261,Baru muncul pada periode terbaru,"aaai, coling",0.001304930879266261
+,,,0.0012925244491263053,Baru muncul pada periode terbaru,"icic, ijcnn",0.0012925244491263053
+,,,0.0012733508752736464,Baru muncul pada periode terbaru,"acl, kdd",0.0012733508752736464
+,,,0.0012722230179881958,Baru muncul pada periode terbaru,"eccv, icml",0.0012722230179881958
+,,,0.001262072302419141,Baru muncul pada periode terbaru,"eccv, mm",0.001262072302419141
+,,,0.001255305158706438,Baru muncul pada periode terbaru,"iccv, icml, nips",0.001255305158706438
+,,,0.0012485380149937348,Baru muncul pada periode terbaru,"acl, iclr, naacl",0.0012485380149937348
+,,,0.0012462823004228338,Baru muncul pada periode terbaru,"aaai, iclr, icml, nips",0.0012462823004228338
+,,,0.0012372594421392294,Baru muncul pada periode terbaru,"cikm, nips",0.0012372594421392294
+,,,0.0012282365838556253,Baru muncul pada periode terbaru,"acl, ijcai",0.0012282365838556253
+,,,0.0012192137255720211,Baru muncul pada periode terbaru,"emnlp, ijcai",0.0012192137255720211
+,,,0.00121695801100112,Baru muncul pada periode terbaru,"acl, iclr, icml, nips",0.00121695801100112
+,,,0.001212446581859318,Baru muncul pada periode terbaru,"aistats, icml",0.001212446581859318
+,,,0.0012113187245738673,Baru muncul pada periode terbaru,"aaai, icassp, nips",0.0012113187245738673
+,,,0.0012045515808611642,Baru muncul pada periode terbaru,"icassp, ijcai",0.0012045515808611642
+,,,0.0012022958662902632,Baru muncul pada periode terbaru,"aaai, acl, iclr",0.0012022958662902632
+,,,0.0012011680090048126,Baru muncul pada periode terbaru,"iclr, naacl, nips",0.0012011680090048126
+,,,0.001197784437148461,Baru muncul pada periode terbaru,"emnlp, iclr, icml, nips",0.001197784437148461
+,,,0.0011966565798630104,Baru muncul pada periode terbaru,"emnlp, kdd",0.0011966565798630104
+,,,0.0011910172934357578,Baru muncul pada periode terbaru,"emnlp, iclr, naacl",0.0011910172934357578
+,,,0.0011515422884449892,Baru muncul pada periode terbaru,"cikm, emnlp",0.0011515422884449892
+,,,0.001133496571877781,Baru muncul pada periode terbaru,"aaai, miccai",0.001133496571877781
+,,,0.0011323687145923303,Baru muncul pada periode terbaru,"cvpr, iccv, icml",0.0011323687145923303
+,,,0.0011323687145923303,Baru muncul pada periode terbaru,"cvpr, ijcnn",0.0011323687145923303
+,,,0.0011289851427359787,Baru muncul pada periode terbaru,"iclr, icra",0.0011289851427359787
+0.0010368268759408444,,,0.0011256015708796272,Muncul sementara (tidak berurutan),"icc, wcnc",0.0011256015708796272
+,,,0.0011120672834542208,Baru muncul pada periode terbaru,"iclr, mm, nips",0.0011120672834542208
+,,,0.0010974051387433639,Baru muncul pada periode terbaru,"cikm, www",0.0010974051387433639
+,,,0.0010962772814579135,Baru muncul pada periode terbaru,"acl, emnlp, icml, nips",0.0010962772814579135
+,,,0.0010906379950306607,Baru muncul pada periode terbaru,"aaai, cikm",0.0010906379950306607
+,,,0.0010861265658888588,Baru muncul pada periode terbaru,"iccv, wacv",0.0010861265658888588
+,,,0.0010838708513179576,Baru muncul pada periode terbaru,"cvpr, icassp, nips",0.0010838708513179576
+,,,0.0010816151367470566,Baru muncul pada periode terbaru,"cikm, kdd",0.0010816151367470566
+,,,0.0010816151367470566,Baru muncul pada periode terbaru,"aaai, emnlp, iclr",0.0010816151367470566
+,,,0.0010816151367470566,Baru muncul pada periode terbaru,"icml, www",0.0010816151367470566
+,,,0.001080487279461606,Baru muncul pada periode terbaru,"aaai, cvpr, iclr, nips",0.001080487279461606
+,,,0.001075975850319804,Baru muncul pada periode terbaru,"icml, mm, nips",0.001075975850319804
+,,,0.0010737201357489028,Baru muncul pada periode terbaru,"cvpr, iccv, iclr, nips",0.0010737201357489028
+,,,0.0010703365638925512,Baru muncul pada periode terbaru,"bibm, nips",0.0010703365638925512
+,,,0.0010568022764671449,Baru muncul pada periode terbaru,"aaai, iros",0.0010568022764671449
+,,,0.0010466515608980901,Baru muncul pada periode terbaru,"acl, cikm",0.0010466515608980901
+,,,0.0010432679890417385,Baru muncul pada periode terbaru,"aaai, cvpr, eccv",0.0010432679890417385
+,,,0.0010410122744708376,Baru muncul pada periode terbaru,"chi, uist",0.0010410122744708376
+,,,0.0010365008453290354,Baru muncul pada periode terbaru,"acl, cvpr, iclr",0.0010365008453290354
+,,,0.0010319894161872334,Baru muncul pada periode terbaru,"bibm, miccai",0.0010319894161872334
+,,,0.0010286058443308818,Baru muncul pada periode terbaru,"vtc, wcnc",0.0010286058443308818
+,,,0.0010263501297599806,Baru muncul pada periode terbaru,"iclr, www",0.0010263501297599806
+,,,0.0010263501297599806,Baru muncul pada periode terbaru,"acl, cvpr, emnlp",0.0010263501297599806
+,,,0.0010161994141909259,Baru muncul pada periode terbaru,"acl, emnlp, naacl, nips",0.0010161994141909259
+,,,0.0010105601277636733,Baru muncul pada periode terbaru,"cvpr, iccv, mm",0.0010105601277636733
+,,,0.0010071765559073217,Baru muncul pada periode terbaru,"aaai, cvpr, icml, nips",0.0010071765559073217
+,,,0.0010015372694800692,Baru muncul pada periode terbaru,"aaai, acl, icml",0.0010015372694800692
+,,,0.0010004094121946186,Baru muncul pada periode terbaru,"cvpr, eccv, iclr",0.0010004094121946186
+,,,0.0010004094121946186,Baru muncul pada periode terbaru,"emnlp, ijcnn",0.0010004094121946186
