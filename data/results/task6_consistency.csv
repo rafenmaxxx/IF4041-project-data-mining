@@ -1,0 +1,5 @@
+min_support,itemset_apriori,itemset_fpgrowth,itemset_sama,support_count_sama,hanya_di_apriori,hanya_di_fpgrowth,rules_sama
+0.001,1514,1514,True,True,0,0,True
+0.005,88,88,True,True,0,0,True
+0.01,30,30,True,True,0,0,True
+0.02,6,6,True,True,0,0,True
